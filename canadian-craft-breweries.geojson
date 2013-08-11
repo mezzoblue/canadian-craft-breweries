@@ -1,0 +1,715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.583885,
+          49.469715
+        ]
+      },
+      "properties": {
+        "Name": "Barley Mill Brewpub",
+        "City": "Penticton",
+        "Province": "BC",
+        "URL": "http://www.barleymillpub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.28511,
+          50.699665
+        ]
+      },
+      "properties": {
+        "Name": "Barley Station Brewpub",
+        "City": "Salmon Arm",
+        "Province": "BC",
+        "URL": "http://www.barleystation.com/",
+        "AKA": "(aka. Shuswap Lake Brewing Co.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.800621,
+          49.103989
+        ]
+      },
+      "properties": {
+        "Name": "Big Ridge Brewing Co.",
+        "City": "Surrey",
+        "Province": "BC",
+        "URL": "http://www.markjamesgroup.com/bigridge.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.065079,
+          49.134468
+        ]
+      },
+      "properties": {
+        "Name": "Big River Brewpub & Restaurant",
+        "City": "Richmond",
+        "Province": "BC",
+        "URL": "http://www.zbowl.com/Richmond_BR/BrewStory.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.953865,
+          50.117653
+        ]
+      },
+      "properties": {
+        "Name": "Brewhouse High Mountain Brewing Co.",
+        "City": "Whistler",
+        "Province": "BC",
+        "URL": "http://www.markjamesgroup.com/brewhouse.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.593758,
+          49.482159
+        ]
+      },
+      "properties": {
+        "Name": "Cannery Brewing",
+        "City": "Penticton",
+        "Province": "BC",
+        "URL": "http://www.cannerybrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.370972,
+          48.429585
+        ]
+      },
+      "properties": {
+        "Name": "Canoe Brewpub",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://www.canoebrewpub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.849167,
+          49.187622
+        ]
+      },
+      "properties": {
+        "Name": "Central City Brewpub / Red Racer",
+        "City": "Surrey",
+        "Province": "BC",
+        "URL": "http://centralcitybrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.064369,
+          49.283951
+        ]
+      },
+      "properties": {
+        "Name": "Coal Harbour Brewing Co.",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.coalharbourbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.708435,
+          48.777176
+        ]
+      },
+      "properties": {
+        "Name": "Craig Street Brewpub",
+        "City": "Duncan",
+        "Province": "BC",
+        "URL": "http://craigstreet.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.506195,
+          50.881031
+        ]
+      },
+      "properties": {
+        "Name": "Crannog Ales",
+        "City": "Sorrento",
+        "Province": "BC",
+        "URL": "http://www.crannogales.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.468857,
+          49.097607
+        ]
+      },
+      "properties": {
+        "Name": "Dead Frog Brewery",
+        "City": "Langley",
+        "Province": "BC",
+        "URL": "http://www.deadfrog.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.131378,
+          49.269356
+        ]
+      },
+      "properties": {
+        "Name": "Dockside Brewing Co.",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.docksidevancouver.com/brewery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.37384,
+          48.436989
+        ]
+      },
+      "properties": {
+        "Name": "Driftwood Brewing Company",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://driftwoodbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.045532,
+          49.526852
+        ]
+      },
+      "properties": {
+        "Name": "Fernie Brewing Co.",
+        "City": "Fernie",
+        "Province": "BC",
+        "URL": "http://www.ferniebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.550354,
+          49.181736
+        ]
+      },
+      "properties": {
+        "Name": "Firehall Brewery",
+        "City": "Oliver",
+        "Province": "BC",
+        "URL": "http://www.firehallbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.40567,
+          49.901222
+        ]
+      },
+      "properties": {
+        "Name": "Freddy's Brewpub",
+        "City": "Kelowna",
+        "Province": "BC",
+        "URL": "http://www.mccurdybowl.com/wp/",
+        "AKA": "(aka. Mill Creek Brewery)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.135704,
+          49.270523
+        ]
+      },
+      "properties": {
+        "Name": "Granville Island Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://gib.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.497955,
+          48.785011
+        ]
+      },
+      "properties": {
+        "Name": "Gulf Islands Brewery",
+        "City": "Saltspring",
+        "Province": "BC",
+        "URL": "http://www.gulfislandsbrewery.com/",
+        "AKA": "(aka. Saltspring Island Ales)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.156181,
+          49.695362
+        ]
+      },
+      "properties": {
+        "Name": "Howe Sound Brewing Co.",
+        "City": "Squamish",
+        "Province": "BC",
+        "URL": "http://www.howesound.com/home.aspx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.373505,
+          48.437077
+        ]
+      },
+      "properties": {
+        "Name": "Hoyne Brewing Company",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://hoynebrewing.ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.396423,
+          48.435863
+        ]
+      },
+      "properties": {
+        "Name": "Lighthouse Brewing Co.",
+        "City": "Esquimalt",
+        "Province": "BC",
+        "URL": "http://www.lighthousebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.035538,
+          49.224449
+        ]
+      },
+      "properties": {
+        "Name": "Longwood Brewpub",
+        "City": "Nanaimo",
+        "Province": "BC",
+        "URL": "http://www.longwoodbrewpub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342499,
+          49.132454
+        ]
+      },
+      "properties": {
+        "Name": "Mission Springs Brewing Co.",
+        "City": "Mission",
+        "Province": "BC",
+        "URL": "http://www.missionspringsbrewingcompany.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.375137,
+          48.435043
+        ]
+      },
+      "properties": {
+        "Name": "Moon Under Water Brewpub",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://www.moonunderwater.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.197952,
+          51.000351
+        ]
+      },
+      "properties": {
+        "Name": "Mt. Begbie Brewing",
+        "City": "Revelstoke",
+        "Province": "BC",
+        "URL": "http://www.mt-begbie.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.290245,
+          49.488274
+        ]
+      },
+      "properties": {
+        "Name": "Nelson Brewing",
+        "City": "Nelson",
+        "Province": "BC",
+        "URL": "http://nelsonbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.32608,
+          50.675915
+        ]
+      },
+      "properties": {
+        "Name": "The Noble Pig Brewhouse & Restaurant",
+        "City": "Kamloops",
+        "Province": "BC",
+        "URL": "http://thenoblepig.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.268051,
+          50.262253
+        ]
+      },
+      "properties": {
+        "Name": "Okanagan Spring",
+        "City": "Vernon",
+        "Province": "BC",
+        "URL": "http://www.okspring.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96244,
+          49.104099
+        ]
+      },
+      "properties": {
+        "Name": "Old Yale Brewing Co.",
+        "City": "Chilliwack",
+        "Province": "BC",
+        "URL": "http://www.oldyalebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.064217,
+          49.283836
+        ]
+      },
+      "properties": {
+        "Name": "Parallel 49 Brewing Co.",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://parallel49brewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.095215,
+          49.281399
+        ]
+      },
+      "properties": {
+        "Name": "Pat's Pub & Brewhouse",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.patspub.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.367401,
+          48.432213
+        ]
+      },
+      "properties": {
+        "Name": "Phillips Brewing Co.",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://phillipsbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.068481,
+          49.284187
+        ]
+      },
+      "properties": {
+        "Name": "Powell St. Craft Brewery",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.powellbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.103294,
+          49.267208
+        ]
+      },
+      "properties": {
+        "Name": "R&B Brewing Inc.",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.r-and-b.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.473526,
+          49.034588
+        ]
+      },
+      "properties": {
+        "Name": "Ridge Brewing Co.",
+        "City": "Osoyoos",
+        "Province": "BC",
+        "URL": "http://www.westridgeinn.com/index.php/restaurant/brewery",
+        "AKA": "(aka. Westridge Inn)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.862007,
+          49.14732
+        ]
+      },
+      "properties": {
+        "Name": "Russell Brewing Co.",
+        "City": "Surrey",
+        "Province": "BC",
+        "URL": "http://www.russellbeer.com/"
+      }
+    },    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.384781,
+          48.429356
+        ]
+      },
+      "properties": {
+        "Name": "Spinnakers Gastro Brewpub",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://www.spinnakers.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.369423,
+          48.428585
+        ]
+      },
+      "properties": {
+        "Name": "Swans Brewpub",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://swanshotel.com/brew-pub/brew-pub-home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.609802,
+          49.494282
+        ]
+      },
+      "properties": {
+        "Name": "Tin Whistle Brewing Co.",
+        "City": "Penticton",
+        "Province": "BC",
+        "URL": "https://www.facebook.com/pages/The-Tin-Whistle-Brewing-Company/135597303286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.893066,
+          49.138988
+        ]
+      },
+      "properties": {
+        "Name": "Tofino Brewing Company",
+        "City": "Tofino",
+        "Province": "BC",
+        "URL": "http://www.tofinobrewingco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.488342,
+          49.896027
+        ]
+      },
+      "properties": {
+        "Name": "Tree Brewing",
+        "City": "Kelowna",
+        "Province": "BC",
+        "URL": "http://www.treebeer.com/",
+        "AKA": "(aka. Duke's Cider)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.367668,
+          48.434753
+        ]
+      },
+      "properties": {
+        "Name": "Vancouver Island Brewery",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://www.vanislandbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.931503,
+          49.14185
+        ]
+      },
+      "properties": {
+        "Name": "Wolf Brewing Co.",
+        "City": "Nanaimo",
+        "Province": "BC",
+        "URL": "http://www.wolfbrewingcompany.com/",
+        "AKA": "(formerly Fat Cat Brewing)"
+      }
+    }
+
+ ]
+}
