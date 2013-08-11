@@ -1,4 +1,4 @@
-canadian-craft-breweries
+Canadian Craft Breweries
 ========================
 
-Canadian Craft Breweries
+Comprehensive geodata for Canadian Craft Breweries.
