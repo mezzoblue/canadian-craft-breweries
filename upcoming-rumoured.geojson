@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.294067,
+          49.261082
+        ]
+      },
+      "properties": {
+        "Name": "Big Kettle Brewing",
+        "City": "New Westminster",
+        "Province": "BC",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.100594,
+          49.265804
+        ]
+      },
+      "properties": {
+        "Name": "Brassneck Brewery",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://brassneck.ca/",
+        "Opening": "Fall 2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.074753,
+          49.277508
+        ]
+      },
+      "properties": {
+        "Name": "Bomber Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.bomberbrewing.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.885712,
+          49.658737
+        ]
+      },
+      "properties": {
+        "Name": "Comox Glacier Brewing",
+        "City": "Comox",
+        "Province": "BC (Coming Soon)",
+        "URL": "https://www.facebook.com/ComoxBREWING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3078,
+          49.261082
+        ]
+      },
+      "properties": {
+        "Name": "Doan's Craft Brewing Co.",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "https://www.facebook.com/doanscraftbrewing",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3078,
+          49.279453
+        ]
+      },
+      "properties": {
+        "Name": "Dogwood Brewing",
+        "City": "Vancouver",
+        "Province": "BC (no address available)",
+        "URL": "http://www.dogwoodbrew.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.770149,
+          49.512951
+        ]
+      },
+      "properties": {
+        "Name": "Fisher Peak Brewpub at The Heidout",
+        "City": "Cranbrook",
+        "Province": "BC",
+        "Opening": "Unknown",
+        "Note": "From Dave Beardsell of Noble Pig / Bear Brewing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.434654,
+          48.452576
+        ]
+      },
+      "properties": {
+        "Name": "Four Mile Brewpub",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://fourmilehouse.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099342,
+          49.264713
+        ]
+      },
+      "properties": {
+        "Name": "Main St. Brewery",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://mainstreetpilsner.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.293381,
+          49.22522
+        ]
+      },
+      "properties": {
+        "Name": "Nanocraft Brewing Co.",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "https://www.facebook.com/NanoCraftBeer?fref=ts",
+        "Opening": "Unkown, possibly a dead project"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.491478,
+          49.399803
+        ]
+      },
+      "properties": {
+        "Name": "Persephone Brewing",
+        "City": "Gibsons",
+        "Province": "BC (no address available)",
+        "URL": "http://persephonebrewing.com/",
+        "Note": "Upcoming brewery from Vancouver restauranteer Mark Brand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.095009,
+          49.267239
+        ]
+      },
+      "properties": {
+        "Name": "Red Truck Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.redtruckbeer.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.940903,
+          49.65118
+        ]
+      },
+      "properties": {
+        "Name": "Royston Brewing",
+        "City": "Royston",
+        "Province": "BC (upcoming nano)",
+        "URL": "https://www.facebook.com/pages/Royston-Nano-Brewery/242482555868155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.602524,
+          54.517097
+        ]
+      },
+      "properties": {
+        "Name": "Skeena Brewing",
+        "City": "Terrace",
+        "Province": "BC",
+        "URL": "http://skeenabrewing.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.102898,
+          49.269501
+        ]
+      },
+      "properties": {
+        "Name": "Steel Toad Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "Note": "Liquor license application posted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.392494,
+          48.415443
+        ]
+      },
+      "properties": {
+        "Name": "Victoria Caledonian Distillery & Brewpub",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://www.macaloneydistillers.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.319992,
+          54.317738
+        ]
+      },
+      "properties": {
+        "Name": "Wheelhouse Brewing",
+        "City": "Prince Rupert",
+        "Province": "BC",
+        "URL": "http://www.wheelhousebrewing.com/",
+        "Opening": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.294067,
+          49.279453
+        ]
+      },
+      "properties": {
+        "Name": "Unnamed UBC Brewery",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.canadianbeernews.com/2013/03/11/university-of-british-columbia-brewery-gets-funding-approval-new-location/",
+        "Opening": "earliest possible opening date: 2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3078,
+          49.243156
+        ]
+      },
+      "properties": {
+        "Name": "Unnamed Brewery",
+        "City": "Burnaby",
+        "Province": "BC",
+        "Note": "Rumoured brewery from Ben Coli"
+      }
+    }
+
+ ]
+}
