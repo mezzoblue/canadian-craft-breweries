@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115379,
+          49.276703
+        ]
+      },
+      "properties": {
+        "Name": "DIX",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.markjamesgroup.com/dix.html",
+        "URL": "(no longer operating)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.157089,
+          54.775845
+        ]
+      },
+      "properties": {
+        "Name": "Plan B Brewing",
+        "City": "Smithers",
+        "Province": "BC ",
+        "URL": "http://www.planbbrewing.com/",
+        "URL": "(no longer operating)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.936676,
+          49.688911
+        ]
+      },
+      "properties": {
+        "Name": "Surgenor Brewing",
+        "City": "Comox",
+        "Province": "BC",
+        "URL": "http://www.surgenorbrewing.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.103157,
+          49.323822
+        ]
+      },
+      "properties": {
+        "Name": "Taylor's Crossing",
+        "City": "North Vancouver",
+        "Province": "BC",
+        "URL": "http://www.markjamesgroup.com/taylors_crossing.html",
+        "URL": "(no longer operating)"
+      }
+    }
+
+ ]
+}
