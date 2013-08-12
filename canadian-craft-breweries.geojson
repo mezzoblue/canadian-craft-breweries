@@ -6,6 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.105347,
+          49.263779
+        ]
+      },
+      "properties": {
+        "Name": "33 Acres Brewing Company",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.33acresbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.028328,
+          50.504578
+        ]
+      },
+      "properties": {
+        "Name": "Arrowhead Brewing Company",
+        "City": "Invermere",
+        "Province": "BC",
+        "URL": "https://www.facebook.com/pages/Arrowhead-Brewing-Company/364956420200389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.583885,
           49.469715
         ]
@@ -31,7 +63,7 @@
         "City": "Salmon Arm",
         "Province": "BC",
         "URL": "http://www.barleystation.com/",
-        "AKA": "(aka. Shuswap Lake Brewing Co.)"
+        "AKA": "Shuswap Lake Brewing Co."
       }
     },
     {
@@ -71,6 +103,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -119.388885,
+          50.007931
+        ]
+      },
+      "properties": {
+        "Name": "Big Surf Beer Company",
+        "City": "Kelowna",
+        "Province": "BC",
+        "URL": "http://bigsurfbeer.com/",
+        "AKA": "Prohibition Brewing Co."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.953865,
           50.117653
         ]
@@ -80,6 +129,22 @@
         "City": "Whistler",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/brewhouse.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.008705,
+          49.306904
+        ]
+      },
+      "properties": {
+        "Name": "Bridge Brewing",
+        "City": "North Vancouver",
+        "Province": "BC",
+        "URL": "http://bridgebrewing.com/"
       }
     },
     {
@@ -199,6 +264,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.011559,
+          49.305733
+        ]
+      },
+      "properties": {
+        "Name": "Deep Cove Brewing",
+        "City": "North Vancouver",
+        "Province": "BC",
+        "URL": "http://www.deepcovecraft.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.131378,
           49.269356
         ]
@@ -263,6 +344,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.025398,
+          49.136562
+        ]
+      },
+      "properties": {
+        "Name": "Four Winds Brewing Co.",
+        "City": "Delta",
+        "Province": "BC",
+        "URL": "http://www.fourwindsbrewing.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.40567,
           49.901222
         ]
@@ -272,7 +369,7 @@
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.mccurdybowl.com/wp/",
-        "AKA": "(aka. Mill Creek Brewery)"
+        "AKA": "Mill Creek Brewery"
       }
     },
     {
@@ -305,7 +402,7 @@
         "City": "Saltspring",
         "Province": "BC",
         "URL": "http://www.gulfislandsbrewery.com/",
-        "AKA": "(aka. Saltspring Island Ales)"
+        "AKA": "Saltspring Island Ales"
       }
     },
     {
@@ -457,6 +554,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.37368,
+          50.669109
+        ]
+      },
+      "properties": {
+        "Name": "Northam Brewery",
+        "City": "Kamloops",
+        "Province": "BC",
+        "URL": "http://www.bowenislandbeer.com/",
+        "AKA": "Bowen Island Brewing",
+        "AKA2": "Kamloops Brewery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.268051,
           50.262253
         ]
@@ -578,7 +693,7 @@
         "City": "Osoyoos",
         "Province": "BC",
         "URL": "http://www.westridgeinn.com/index.php/restaurant/brewery",
-        "AKA": "(aka. Westridge Inn)"
+        "AKA": "Westridge Inn"
       }
     },
     {
@@ -596,7 +711,8 @@
         "Province": "BC",
         "URL": "http://www.russellbeer.com/"
       }
-    },    {
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -610,6 +726,54 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://www.spinnakers.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.019897,
+          49.273994
+        ]
+      },
+      "properties": {
+        "Name": "Steamworks Brewery",
+        "City": "Burnaby",
+        "Province": "BC",
+        "URL": "http://steamworks.com/brewery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.111,
+          49.284943
+        ]
+      },
+      "properties": {
+        "Name": "Steamworks Brewpub",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://steamworks.com/brew-pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.070175,
+          49.282001
+        ]
+      },
+      "properties": {
+        "Name": "Storm Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.stormbrewing.org/"
       }
     },
     {
@@ -665,6 +829,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -124.551201,
+          49.874279
+        ]
+      },
+      "properties": {
+        "Name": "Townsite Brewing",
+        "City": "Powell River",
+        "Province": "BC",
+        "URL": "http://townsitebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.488342,
           49.896027
         ]
@@ -674,7 +854,7 @@
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.treebeer.com/",
-        "AKA": "(aka. Duke's Cider)"
+        "AKA": "Duke's Cider"
       }
     },
     {
@@ -698,6 +878,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.039948,
+          50.087872
+        ]
+      },
+      "properties": {
+        "Name": "Whistler Brewing Company",
+        "City": "Whistler",
+        "Province": "BC",
+        "URL": "http://www.whistlerbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.931503,
           49.14185
         ]
@@ -707,7 +903,23 @@
         "City": "Nanaimo",
         "Province": "BC",
         "URL": "http://www.wolfbrewingcompany.com/",
-        "AKA": "(formerly Fat Cat Brewing)"
+        "AKA": "formerly Fat Cat Brewing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.120918,
+          49.27552
+        ]
+      },
+      "properties": {
+        "Name": "Yaletown Brewing Company",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.markjamesgroup.com/yaletown.html"
       }
     }
 
