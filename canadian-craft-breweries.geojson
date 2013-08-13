@@ -15,6 +15,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.33acresbrewing.com/",
+        "Facebook": "https://www.facebook.com/33AcresBrewing",
+        "Twitter": "https://twitter.com/33Acres",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -32,7 +34,8 @@
         "Name": "Arrowhead Brewing Company",
         "City": "Invermere",
         "Province": "BC",
-        "URL": "https://www.facebook.com/pages/Arrowhead-Brewing-Company/364956420200389",
+        "URL": "http://arrowheadbrewingcompany.ca/",
+        "Facebook": "https://www.facebook.com/pages/Arrowhead-Brewing-Company/364956420200389",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -88,6 +91,8 @@
         "City": "Surrey",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/bigridge.html",
+        "Facebook": "https://www.facebook.com/pages/Big-Ridge-Brewing-Co/32725243372",
+        "Twitter": "https://twitter.com/BigRidgeBrewing",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -106,6 +111,8 @@
         "City": "Richmond",
         "Province": "BC",
         "URL": "http://www.zbowl.com/Richmond_BR/BrewStory.html",
+        "Facebook": "https://www.facebook.com/BigRiverCanada",
+        "Twitter": "https://twitter.com/BigRiver_BC",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -124,6 +131,7 @@
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://bigsurfbeer.com/",
+        "Facebook": "http://bigsurfbeer.com/",
         "AKA": "Prohibition Brewing Co.",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -143,6 +151,8 @@
         "City": "Whistler",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/brewhouse.html",
+        "Facebook": "https://www.facebook.com/pages/The-Brewhouse-Whistler/114909291864527",
+        "Twitter": "https://twitter.com/BREWHOUSEatWHIS",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
