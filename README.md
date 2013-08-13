@@ -7,6 +7,6 @@ Comprehensive geodata for Canadian Craft Breweries. Currently being built up fro
 * [Upcoming & Rumored Breweries Map](https://github.com/mezzoblue/canadian-craft-breweries/blob/master/upcoming-rumoured.geojson)
 * [Defunct Canadian Breweries Map](https://github.com/mezzoblue/canadian-craft-breweries/blob/master/defunct.geojson)
 
-h2. Credits
+### Credits
 
 Thanks to @sprice for planting the seed with https://github.com/sprice/vancouver-craft-beer
