@@ -15,7 +15,9 @@
         "Name": "Big Kettle Brewing",
         "City": "New Westminster",
         "Province": "BC",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
@@ -32,7 +34,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://brassneck.ca/",
-        "Opening": "Fall 2013"
+        "Opening": "Fall 2013",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -49,7 +53,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.bomberbrewing.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -82,7 +88,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "https://www.facebook.com/doanscraftbrewing",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -99,7 +107,9 @@
         "City": "Vancouver",
         "Province": "BC (no address available)",
         "URL": "http://www.dogwoodbrew.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -116,7 +126,9 @@
         "City": "Cranbrook",
         "Province": "BC",
         "Opening": "Unknown",
-        "Note": "From Dave Beardsell of Noble Pig / Bear Brewing"
+        "Note": "From Dave Beardsell of Noble Pig / Bear Brewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -133,7 +145,9 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://fourmilehouse.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -150,7 +164,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://mainstreetpilsner.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -167,7 +183,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "https://www.facebook.com/NanoCraftBeer?fref=ts",
-        "Opening": "Unkown, possibly a dead project"
+        "Opening": "Unkown, possibly a dead project",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -184,7 +202,9 @@
         "City": "Gibsons",
         "Province": "BC (no address available)",
         "URL": "http://persephonebrewing.com/",
-        "Note": "Upcoming brewery from Vancouver restauranteer Mark Brand"
+        "Note": "Upcoming brewery from Vancouver restauranteer Mark Brand",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -201,7 +221,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.redtruckbeer.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -216,8 +238,10 @@
       "properties": {
         "Name": "Royston Brewing",
         "City": "Royston",
-        "Province": "BC (upcoming nano)",
-        "URL": "https://www.facebook.com/pages/Royston-Nano-Brewery/242482555868155"
+        "Province": "BC",
+        "URL": "https://www.facebook.com/pages/Royston-Nano-Brewery/242482555868155",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffAA00"
       }
     },
     {
@@ -234,7 +258,9 @@
         "City": "Terrace",
         "Province": "BC",
         "URL": "http://skeenabrewing.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
@@ -251,7 +277,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "Opening": "February 2014",
-        "Note": "Liquor license application posted"
+        "Note": "Liquor license application posted April 2013",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -267,7 +295,9 @@
         "Name": "Three Ranges Brewery",
         "City": "Valemount",
         "Province": "BC",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -284,7 +314,9 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://www.macaloneydistillers.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -301,7 +333,9 @@
         "City": "Prince Rupert",
         "Province": "BC",
         "URL": "http://www.wheelhousebrewing.com/",
-        "Opening": "Unknown"
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -318,7 +352,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.canadianbeernews.com/2013/03/11/university-of-british-columbia-brewery-gets-funding-approval-new-location/",
-        "Opening": "earliest possible opening date: 2017"
+        "Opening": "earliest possible opening date: 2017",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -334,7 +370,9 @@
         "Name": "Unnamed Brewery",
         "City": "Burnaby",
         "Province": "BC",
-        "Note": "Rumoured brewery from Ben Coli"
+        "Note": "Rumoured brewery from Ben Coli",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     }
 
