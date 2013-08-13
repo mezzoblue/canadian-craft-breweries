@@ -34,6 +34,7 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://brassneck.ca/",
+        "Twitter": "https://twitter.com/Brassneckbrew",
         "Opening": "Fall 2013",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -53,6 +54,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.bomberbrewing.com/",
+        "Facebook": "https://www.facebook.com/bomberbrewing",
+        "Twitter": "https://twitter.com/BomberBrewing",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -71,7 +74,7 @@
         "Name": "Comox Glacier Brewing",
         "City": "Comox",
         "Province": "BC (Coming Soon)",
-        "URL": "https://www.facebook.com/ComoxBREWING"
+        "Facebook": "https://www.facebook.com/ComoxBREWING"
       }
     },
     {
@@ -107,6 +110,7 @@
         "City": "Vancouver",
         "Province": "BC (no address available)",
         "URL": "http://www.dogwoodbrew.com/",
+        "Twitter": "https://twitter.com/dogwoodbrew",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -122,9 +126,11 @@
         ]
       },
       "properties": {
-        "Name": "Fisher Peak Brewpub at The Heidout",
+        "Name": "Fisher Peak Brewing Co.",
         "City": "Cranbrook",
         "Province": "BC",
+        "AKA": "The Heid Out Restaurant & Brewpub",
+        "Facebook": "https://www.facebook.com/TheHeidOutRestaurantAndBrewhouse",
         "Opening": "Unknown",
         "Note": "From Dave Beardsell of Noble Pig / Bear Brewing",
         "Type": "Brewpub",
@@ -145,6 +151,7 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://fourmilehouse.com/",
+        "Facebook": "https://www.facebook.com/pages/Four-Mile-Bar-Grill-and-Liquor-Store/201998693162305",
         "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
@@ -164,6 +171,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://mainstreetpilsner.com/",
+        "Facebook": "https://www.facebook.com/MainStreetBeer",
+        "Twitter": "https://twitter.com/mainstreetbeer",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -182,8 +191,8 @@
         "Name": "Nanocraft Brewing Co.",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "https://www.facebook.com/NanoCraftBeer?fref=ts",
-        "Opening": "Unkown, possibly a dead project",
+        "Facebook": "https://www.facebook.com/NanoCraftBeer",
+        "Opening": "Unknown, possibly a dead project",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
       }
@@ -202,6 +211,8 @@
         "City": "Gibsons",
         "Province": "BC (no address available)",
         "URL": "http://persephonebrewing.com/",
+        "Facebook": "https://www.facebook.com/PersephoneBrewing",
+        "Twitter": "https://twitter.com/Persephonebeer",
         "Note": "Upcoming brewery from Vancouver restauranteer Mark Brand",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -221,6 +232,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.redtruckbeer.com/",
+        "Facebook": "https://www.facebook.com/RedTruckBeer",
+        "Twitter": "https://twitter.com/RedTruckBeer",
         "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
@@ -239,7 +252,7 @@
         "Name": "Royston Brewing",
         "City": "Royston",
         "Province": "BC",
-        "URL": "https://www.facebook.com/pages/Royston-Nano-Brewery/242482555868155",
+        "Facebook": "https://www.facebook.com/pages/Royston-Nano-Brewery/242482555868155",
         "Type": "Nanobrewery",
         "marker-color": "#ffAA00"
       }
@@ -258,9 +271,10 @@
         "City": "Terrace",
         "Province": "BC",
         "URL": "http://skeenabrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Skeena-Brewing-Company/218628741538948",
         "Opening": "Unknown",
-        "Type": "Unknown",
-        "marker-color": "#aaa"
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -292,7 +306,7 @@
         ]
       },
       "properties": {
-        "Name": "Three Ranges Brewery",
+        "Name": "Three Ranges Brewing Co.",
         "City": "Valemount",
         "Province": "BC",
         "Opening": "Unknown",
@@ -333,6 +347,8 @@
         "City": "Prince Rupert",
         "Province": "BC",
         "URL": "http://www.wheelhousebrewing.com/",
+        "Facebook": "https://www.facebook.com/wheelhousebrewing",
+        "Twitter": "https://twitter.com/wheelhousebeer",
         "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#ffaa00"
