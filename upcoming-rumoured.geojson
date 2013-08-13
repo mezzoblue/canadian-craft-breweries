@@ -7,8 +7,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.294067,
-          49.261082
+          -123.295,
+          49.27
         ]
       },
       "properties": {
@@ -73,8 +73,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.3078,
-          49.261082
+          -123.30,
+          49.27
         ]
       },
       "properties": {
@@ -90,8 +90,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.3078,
-          49.279453
+          -123.30,
+          49.28
         ]
       },
       "properties": {
@@ -158,8 +158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.293381,
-          49.22522
+          -123.295,
+          49.26
         ]
       },
       "properties": {
@@ -250,7 +250,24 @@
         "Name": "Steel Toad Brewing",
         "City": "Vancouver",
         "Province": "BC",
+        "Opening": "February 2014",
         "Note": "Liquor license application posted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26320075988768,
+          52.82641675600601
+        ]
+      },
+      "properties": {
+        "Name": "Three Ranges Brewery",
+        "City": "Valemount",
+        "Province": "BC",
+        "Opening": "Unknown"
       }
     },
     {
@@ -292,9 +309,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.294067,
-          49.279453
-        ]
+           -123.295,
+          49.28
+       ]
       },
       "properties": {
         "Name": "Unnamed UBC Brewery",
@@ -309,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.3078,
-          49.243156
+          -123.30,
+          49.26
         ]
       },
       "properties": {
