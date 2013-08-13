@@ -14,7 +14,9 @@
         "Name": "33 Acres Brewing Company",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.33acresbrewing.com/"
+        "URL": "http://www.33acresbrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "red"
       }
     },
     {
@@ -30,7 +32,9 @@
         "Name": "Arrowhead Brewing Company",
         "City": "Invermere",
         "Province": "BC",
-        "URL": "https://www.facebook.com/pages/Arrowhead-Brewing-Company/364956420200389"
+        "URL": "https://www.facebook.com/pages/Arrowhead-Brewing-Company/364956420200389",
+        "Type": "Brewery",
+        "marker-color": "red"
       }
     },
     {
@@ -46,7 +50,9 @@
         "Name": "Barley Mill Brewpub",
         "City": "Penticton",
         "Province": "BC",
-        "URL": "http://www.barleymillpub.com/"
+        "URL": "http://www.barleymillpub.com/",
+        "Type": "Brewpub",
+        "marker-color": "blue"
       }
     },
     {
@@ -63,7 +69,9 @@
         "City": "Salmon Arm",
         "Province": "BC",
         "URL": "http://www.barleystation.com/",
-        "AKA": "Shuswap Lake Brewing Co."
+        "AKA": "Shuswap Lake Brewing Co.",
+        "Type": "Brewpub",
+        "marker-color": "blue"
       }
     },
     {
@@ -79,7 +87,9 @@
         "Name": "Big Ridge Brewing Co.",
         "City": "Surrey",
         "Province": "BC",
-        "URL": "http://www.markjamesgroup.com/bigridge.html"
+        "URL": "http://www.markjamesgroup.com/bigridge.html",
+        "Type": "Brewpub",
+        "marker-color": "blue"
       }
     },
     {
@@ -95,7 +105,9 @@
         "Name": "Big River Brewpub & Restaurant",
         "City": "Richmond",
         "Province": "BC",
-        "URL": "http://www.zbowl.com/Richmond_BR/BrewStory.html"
+        "URL": "http://www.zbowl.com/Richmond_BR/BrewStory.html",
+        "Type": "Brewpub",
+        "marker-color": "blue"
       }
     },
     {
@@ -112,7 +124,9 @@
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://bigsurfbeer.com/",
-        "AKA": "Prohibition Brewing Co."
+        "AKA": "Prohibition Brewing Co.",
+        "Type": "Brewery",
+        "marker-color": "red"
       }
     },
     {
