@@ -1004,6 +1004,8 @@
         "City": "Tofino",
         "Province": "BC",
         "URL": "http://www.tofinobrewingco.com/",
+        "Facebook": "https://www.facebook.com/TofinoBrewCo",
+        "Twitter": "https://twitter.com/TofinoBrewCo",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1022,8 +1024,8 @@
         "City": "Powell River",
         "Province": "BC",
         "URL": "http://townsitebrewing.com/",
-        "Facebook": "https://www.facebook.com/TofinoBrewCo",
-        "Twitter": "https://twitter.com/TofinoBrewCo",
+        "Facebook": "https://www.facebook.com/townsitebrewing",
+        "Twitter": "https://twitter.com/townsitebrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
