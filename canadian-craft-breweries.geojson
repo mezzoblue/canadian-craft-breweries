@@ -171,6 +171,8 @@
         "City": "North Vancouver",
         "Province": "BC",
         "URL": "http://bridgebrewing.com/",
+        "Facebook": "https://www.facebook.com/BridgeBrewingCompany",
+        "Twitter": "https://twitter.com/bridgebrewcrew",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
       }
@@ -189,6 +191,8 @@
         "City": "Penticton",
         "Province": "BC",
         "URL": "http://www.cannerybrewing.com/",
+        "Facebook": "https://www.facebook.com/CanneryBrewing",
+        "Twitter": "https://twitter.com/CanneryBrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -207,6 +211,8 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://www.canoebrewpub.com/",
+        "Facebook": "https://www.facebook.com/canoe.brewpub",
+        "Twitter": "https://twitter.com/canoebrewpub",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -225,6 +231,8 @@
         "City": "Surrey",
         "Province": "BC",
         "URL": "http://centralcitybrewing.com/",
+        "Facebook": "https://www.facebook.com/CentralCityBrewing",
+        "Twitter": "https://twitter.com/CentralCityBrew",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -243,6 +251,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.coalharbourbrewing.com/",
+        "Facebook": "https://www.facebook.com/CoalHarbourBrewing",
+        "Twitter": "https://twitter.com/CoalHarBrew",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -261,6 +271,7 @@
         "City": "Duncan",
         "Province": "BC",
         "URL": "http://craigstreet.ca/",
+        "Facebook": "https://www.facebook.com/csbrewpub",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -279,6 +290,7 @@
         "City": "Sorrento",
         "Province": "BC",
         "URL": "http://www.crannogales.com/",
+        "Facebook": "https://www.facebook.com/pages/Crannóg-Ales/147130382004277",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -297,6 +309,8 @@
         "City": "Langley",
         "Province": "BC",
         "URL": "http://www.deadfrog.ca/",
+        "Facebook": "https://www.facebook.com/deadfrogbrewery",
+        "Twitter": "https://twitter.com/DeadFrogBrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -315,6 +329,8 @@
         "City": "North Vancouver",
         "Province": "BC",
         "URL": "http://www.deepcovecraft.com/",
+        "Facebook": "https://www.facebook.com/DeepCoveBrewers",
+        "Twitter": "https://twitter.com/DeepCoveCraft",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -333,6 +349,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.docksidevancouver.com/brewery",
+        "Facebook": "https://www.facebook.com/eatDockside",
+        "Twitter": "https://twitter.com/eatDockside",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -351,6 +369,8 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://driftwoodbeer.com/",
+        "Facebook": "https://www.facebook.com/driftwoodbeer",
+        "Twitter": "https://twitter.com/driftwoodbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -369,6 +389,8 @@
         "City": "Fernie",
         "Province": "BC",
         "URL": "http://www.ferniebrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Fernie-Brewing-Company/170347052983672?rf=241799895874136",
+        "Twitter": "https://twitter.com/FernieBrewingCo",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -387,6 +409,8 @@
         "City": "Oliver",
         "Province": "BC",
         "URL": "http://www.firehallbrewery.com/",
+        "Facebook": "https://www.facebook.com/firehallbrewery",
+        "Twitter": "https://twitter.com/FirehallBrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -405,6 +429,8 @@
         "City": "Delta",
         "Province": "BC",
         "URL": "http://www.fourwindsbrewing.ca/",
+        "Facebook": "https://www.facebook.com/FourWindsBrewingCo",
+        "Twitter": "https://twitter.com/FourWindsBrewCo",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -424,10 +450,9 @@
         "Province": "BC",
         "URL": "http://www.mccurdybowl.com/wp/",
         "AKA": "Mill Creek Brewery",
+        "AKA": "McCurdy Bowling Centre",
         "Type": "Brewpub",
-        "marker-color": "#00f",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "marker-color": "#00f"
       }
     },
     {
@@ -444,6 +469,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://gib.ca/",
+        "Facebook": "https://www.facebook.com/granvilleislandbrewing",
+        "Twitter": "https://twitter.com/itsgoodtobehere",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -463,6 +490,8 @@
         "Province": "BC",
         "URL": "http://www.gulfislandsbrewery.com/",
         "AKA": "Saltspring Island Ales",
+        "Facebook": "https://www.facebook.com/pages/Salt-Spring-Island-Ales/155899623703",
+        "Twitter": "https://twitter.com/SaltSpringAles",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -481,6 +510,8 @@
         "City": "Squamish",
         "Province": "BC",
         "URL": "http://www.howesound.com/home.aspx",
+        "Facebook": "https://www.facebook.com/HoweSoundBrewing",
+        "Twitter": "https://twitter.com/howesoundbeer",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -499,6 +530,8 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://hoynebrewing.ca",
+        "Facebook": "https://www.facebook.com/HoyneBrewing",
+        "Twitter": "https://twitter.com/hoynebeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -517,6 +550,8 @@
         "City": "Esquimalt",
         "Province": "BC",
         "URL": "http://www.lighthousebrewing.com/",
+        "Facebook": "https://www.facebook.com/LighthouseBeer",
+        "Twitter": "https://twitter.com/LighthouseBeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -535,6 +570,8 @@
         "City": "Nanaimo",
         "Province": "BC",
         "URL": "http://www.longwoodbrewpub.com/",
+        "Facebook": "https://www.facebook.com/longwoodbrewpub",
+        "Twitter": "https://twitter.com/LongwoodBrewpub",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -553,6 +590,7 @@
         "City": "Mission",
         "Province": "BC",
         "URL": "http://www.missionspringsbrewingcompany.com/",
+        "Twitter": "https://twitter.com/MSBCBREWERY",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -571,6 +609,8 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://www.moonunderwater.ca/",
+        "Facebook": "https://www.facebook.com/pages/The-Moon-Under-Water-Brewery-Pub/115209138522980",
+        "Twitter": "https://twitter.com/TheMoonBrewpub",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -607,6 +647,7 @@
         "City": "Nelson",
         "Province": "BC",
         "URL": "http://nelsonbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Nelson-Brewing-Company/192612907436095?fref=ts",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -626,9 +667,7 @@
         "Province": "BC",
         "URL": "http://thenoblepig.ca/",
         "Type": "Brewpub",
-        "marker-color": "#00f",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "marker-color": "#00f"
       }
     },
     {
@@ -647,6 +686,7 @@
         "URL": "http://www.bowenislandbeer.com/",
         "AKA": "Bowen Island Brewing",
         "AKA2": "Kamloops Brewery",
+        "Twitter": "https://twitter.com/bowenislandbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -665,6 +705,8 @@
         "City": "Vernon",
         "Province": "BC",
         "URL": "http://www.okspring.com/",
+        "Facebook": "https://www.facebook.com/okspring",
+        "Twitter": "https://twitter.com/okanaganspring",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -683,6 +725,8 @@
         "City": "Chilliwack",
         "Province": "BC",
         "URL": "http://www.oldyalebrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Old-Yale-Brewing/154945167944820",
+        "Twitter": "https://twitter.com/oldyalebrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -701,6 +745,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://parallel49brewing.com/",
+        "Facebook": "https://www.facebook.com/Parallel49Brewing",
+        "Twitter": "https://twitter.com/Parallel49Beer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -719,6 +765,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.patspub.ca/",
+        "Facebook": "https://www.facebook.com/PatsPubandBrewHouse",
+        "Twitter": "https://twitter.com/PatsBrewHouse",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -737,6 +785,8 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://phillipsbeer.com/",
+        "Facebook": "https://www.facebook.com/pages/Phillips-Brewery-Co/116350548424637",
+        "Twitter": "https://twitter.com/phillipsbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -755,6 +805,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.powellbeer.com/",
+        "Facebook": "https://www.facebook.com/PowellBeer",
+        "Twitter": "https://twitter.com/PowellBeer",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
       }
@@ -773,6 +825,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.r-and-b.com/",
+        "Facebook": "https://www.facebook.com/RBBrewing",
+        "Twitter": "https://twitter.com/RandBBrewing/",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -810,6 +864,8 @@
         "City": "Surrey",
         "Province": "BC",
         "URL": "http://www.russellbeer.com/",
+        "Facebook": "https://www.facebook.com/Russell.Brewing",
+        "Twitter": "https://twitter.com/Russell_Beer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -828,6 +884,8 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://www.spinnakers.com/",
+        "Facebook": "https://www.facebook.com/pages/Spinnakers-Gastro-Brewpub/225719889304",
+        "Twitter": "https://twitter.com/Spinnakers",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -846,6 +904,8 @@
         "City": "Burnaby",
         "Province": "BC",
         "URL": "http://steamworks.com/brewery",
+        "Facebook": "https://www.facebook.com/SteamworksBeer",
+        "Twitter": "https://twitter.com/Steamworksbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -864,6 +924,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://steamworks.com/brew-pub",
+        "Facebook": "https://www.facebook.com/Steamworks",
+        "Twitter": "https://twitter.com/steamworkspub",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -882,6 +944,8 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.stormbrewing.org/",
+        "Facebook": "https://www.facebook.com/StormBrewing",
+        "Twitter": "https://twitter.com/StormBrewingVan",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -900,6 +964,9 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://swanshotel.com/brew-pub/brew-pub-home",
+        "AKA": "Swans Suite Hotel",
+        "Facebook": "https://www.facebook.com/swanshotel",
+        "Twitter": "https://twitter.com/swansvictoria",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -917,7 +984,8 @@
         "Name": "Tin Whistle Brewing Co.",
         "City": "Penticton",
         "Province": "BC",
-        "URL": "https://www.facebook.com/pages/The-Tin-Whistle-Brewing-Company/135597303286",
+        "Facebook": "https://www.facebook.com/pages/The-Tin-Whistle-Brewing-Company/135597303286",
+        "Twitter": "https://twitter.com/TinWhistleBrew",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -954,6 +1022,8 @@
         "City": "Powell River",
         "Province": "BC",
         "URL": "http://townsitebrewing.com/",
+        "Facebook": "https://www.facebook.com/TofinoBrewCo",
+        "Twitter": "https://twitter.com/TofinoBrewCo",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -973,6 +1043,8 @@
         "Province": "BC",
         "URL": "http://www.treebeer.com/",
         "AKA": "Duke's Cider",
+        "Facebook": "https://www.facebook.com/tree.brewing",
+        "Twitter": "https://twitter.com/TreeBrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -991,6 +1063,8 @@
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://www.vanislandbrewery.com/",
+        "Facebook": "https://www.facebook.com/VanIsleBrewery",
+        "Twitter": "https://twitter.com/VanIsleBrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1009,6 +1083,8 @@
         "City": "Whistler",
         "Province": "BC",
         "URL": "http://www.whistlerbeer.com/",
+        "Facebook": "https://www.facebook.com/whistlerbrewingcompany",
+        "Twitter": "https://twitter.com/whistlerbrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1028,6 +1104,8 @@
         "Province": "BC",
         "URL": "http://www.wolfbrewingcompany.com/",
         "AKA": "formerly Fat Cat Brewing",
+        "Facebook": "https://www.facebook.com/Wolf.Nanaimo",
+        "Twitter": "https://twitter.com/WolfBrewingComp",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1046,6 +1124,7 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/yaletown.html",
+        "Twitter": "https://twitter.com/YBC_brewing",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
