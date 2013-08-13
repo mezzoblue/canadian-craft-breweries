@@ -16,7 +16,7 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/dix.html",
-        "URL": "(no longer operating)"
+        "Closed": "May 24th, 2010"
       }
     },
     {
@@ -33,7 +33,7 @@
         "City": "Smithers",
         "Province": "BC ",
         "URL": "http://www.planbbrewing.com/",
-        "URL": "(no longer operating)"
+        "Closed": "January 2013"
       }
     },
     {
@@ -49,7 +49,8 @@
         "Name": "Surgenor Brewing",
         "City": "Comox",
         "Province": "BC",
-        "URL": "http://www.surgenorbrewing.ca/"
+        "URL": "http://www.surgenorbrewing.ca/",
+        "Closed": "2011"
       }
     },
     {
@@ -66,7 +67,7 @@
         "City": "North Vancouver",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/taylors_crossing.html",
-        "URL": "(no longer operating)"
+        "Closed": "December 2011"
       }
     }
 
