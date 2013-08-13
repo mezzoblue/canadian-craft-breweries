@@ -160,7 +160,9 @@
         "Name": "Bridge Brewing",
         "City": "North Vancouver",
         "Province": "BC",
-        "URL": "http://bridgebrewing.com/"
+        "URL": "http://bridgebrewing.com/",
+        "Type": "Nanobrewery",
+        "marker-color": "#f60"
       }
     },
     {
@@ -176,7 +178,9 @@
         "Name": "Cannery Brewing",
         "City": "Penticton",
         "Province": "BC",
-        "URL": "http://www.cannerybrewing.com/"
+        "URL": "http://www.cannerybrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -192,7 +196,9 @@
         "Name": "Canoe Brewpub",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://www.canoebrewpub.com/"
+        "URL": "http://www.canoebrewpub.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -208,7 +214,9 @@
         "Name": "Central City Brewpub / Red Racer",
         "City": "Surrey",
         "Province": "BC",
-        "URL": "http://centralcitybrewing.com/"
+        "URL": "http://centralcitybrewing.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -224,7 +232,9 @@
         "Name": "Coal Harbour Brewing Co.",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.coalharbourbrewing.com/"
+        "URL": "http://www.coalharbourbrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -240,7 +250,9 @@
         "Name": "Craig Street Brewpub",
         "City": "Duncan",
         "Province": "BC",
-        "URL": "http://craigstreet.ca/"
+        "URL": "http://craigstreet.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -256,7 +268,9 @@
         "Name": "Crannog Ales",
         "City": "Sorrento",
         "Province": "BC",
-        "URL": "http://www.crannogales.com/"
+        "URL": "http://www.crannogales.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -272,7 +286,9 @@
         "Name": "Dead Frog Brewery",
         "City": "Langley",
         "Province": "BC",
-        "URL": "http://www.deadfrog.ca/"
+        "URL": "http://www.deadfrog.ca/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -288,7 +304,9 @@
         "Name": "Deep Cove Brewing",
         "City": "North Vancouver",
         "Province": "BC",
-        "URL": "http://www.deepcovecraft.com/"
+        "URL": "http://www.deepcovecraft.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -304,7 +322,9 @@
         "Name": "Dockside Brewing Co.",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.docksidevancouver.com/brewery"
+        "URL": "http://www.docksidevancouver.com/brewery",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -320,7 +340,9 @@
         "Name": "Driftwood Brewing Company",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://driftwoodbeer.com/"
+        "URL": "http://driftwoodbeer.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -336,7 +358,9 @@
         "Name": "Fernie Brewing Co.",
         "City": "Fernie",
         "Province": "BC",
-        "URL": "http://www.ferniebrewing.com/"
+        "URL": "http://www.ferniebrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -352,7 +376,9 @@
         "Name": "Firehall Brewery",
         "City": "Oliver",
         "Province": "BC",
-        "URL": "http://www.firehallbrewery.com/"
+        "URL": "http://www.firehallbrewery.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -368,7 +394,9 @@
         "Name": "Four Winds Brewing Co.",
         "City": "Delta",
         "Province": "BC",
-        "URL": "http://www.fourwindsbrewing.ca/"
+        "URL": "http://www.fourwindsbrewing.ca/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -385,7 +413,11 @@
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.mccurdybowl.com/wp/",
-        "AKA": "Mill Creek Brewery"
+        "AKA": "Mill Creek Brewery",
+        "Type": "Brewpub",
+        "marker-color": "#00f",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -401,7 +433,9 @@
         "Name": "Granville Island Brewing",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://gib.ca/"
+        "URL": "http://gib.ca/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -418,7 +452,9 @@
         "City": "Saltspring",
         "Province": "BC",
         "URL": "http://www.gulfislandsbrewery.com/",
-        "AKA": "Saltspring Island Ales"
+        "AKA": "Saltspring Island Ales",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -434,7 +470,9 @@
         "Name": "Howe Sound Brewing Co.",
         "City": "Squamish",
         "Province": "BC",
-        "URL": "http://www.howesound.com/home.aspx"
+        "URL": "http://www.howesound.com/home.aspx",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -450,7 +488,9 @@
         "Name": "Hoyne Brewing Company",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://hoynebrewing.ca"
+        "URL": "http://hoynebrewing.ca",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -466,7 +506,9 @@
         "Name": "Lighthouse Brewing Co.",
         "City": "Esquimalt",
         "Province": "BC",
-        "URL": "http://www.lighthousebrewing.com/"
+        "URL": "http://www.lighthousebrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -482,7 +524,9 @@
         "Name": "Longwood Brewpub",
         "City": "Nanaimo",
         "Province": "BC",
-        "URL": "http://www.longwoodbrewpub.com/"
+        "URL": "http://www.longwoodbrewpub.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -498,7 +542,9 @@
         "Name": "Mission Springs Brewing Co.",
         "City": "Mission",
         "Province": "BC",
-        "URL": "http://www.missionspringsbrewingcompany.com/"
+        "URL": "http://www.missionspringsbrewingcompany.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -514,7 +560,9 @@
         "Name": "Moon Under Water Brewpub",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://www.moonunderwater.ca/"
+        "URL": "http://www.moonunderwater.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -530,7 +578,9 @@
         "Name": "Mt. Begbie Brewing",
         "City": "Revelstoke",
         "Province": "BC",
-        "URL": "http://www.mt-begbie.com/"
+        "URL": "http://www.mt-begbie.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -546,7 +596,9 @@
         "Name": "Nelson Brewing",
         "City": "Nelson",
         "Province": "BC",
-        "URL": "http://nelsonbrewing.com/"
+        "URL": "http://nelsonbrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -562,7 +614,11 @@
         "Name": "The Noble Pig Brewhouse & Restaurant",
         "City": "Kamloops",
         "Province": "BC",
-        "URL": "http://thenoblepig.ca/"
+        "URL": "http://thenoblepig.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -580,7 +636,9 @@
         "Province": "BC",
         "URL": "http://www.bowenislandbeer.com/",
         "AKA": "Bowen Island Brewing",
-        "AKA2": "Kamloops Brewery"
+        "AKA2": "Kamloops Brewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -596,7 +654,9 @@
         "Name": "Okanagan Spring",
         "City": "Vernon",
         "Province": "BC",
-        "URL": "http://www.okspring.com/"
+        "URL": "http://www.okspring.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -612,7 +672,9 @@
         "Name": "Old Yale Brewing Co.",
         "City": "Chilliwack",
         "Province": "BC",
-        "URL": "http://www.oldyalebrewing.com/"
+        "URL": "http://www.oldyalebrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -628,7 +690,9 @@
         "Name": "Parallel 49 Brewing Co.",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://parallel49brewing.com/"
+        "URL": "http://parallel49brewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -644,7 +708,9 @@
         "Name": "Pat's Pub & Brewhouse",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.patspub.ca/"
+        "URL": "http://www.patspub.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -660,7 +726,9 @@
         "Name": "Phillips Brewing Co.",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://phillipsbeer.com/"
+        "URL": "http://phillipsbeer.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -676,7 +744,9 @@
         "Name": "Powell St. Craft Brewery",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.powellbeer.com/"
+        "URL": "http://www.powellbeer.com/",
+        "Type": "Nanobrewery",
+        "marker-color": "#f60"
       }
     },
     {
@@ -692,7 +762,9 @@
         "Name": "R&B Brewing Inc.",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.r-and-b.com/"
+        "URL": "http://www.r-and-b.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -709,7 +781,9 @@
         "City": "Osoyoos",
         "Province": "BC",
         "URL": "http://www.westridgeinn.com/index.php/restaurant/brewery",
-        "AKA": "Westridge Inn"
+        "AKA": "Westridge Inn",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -725,7 +799,9 @@
         "Name": "Russell Brewing Co.",
         "City": "Surrey",
         "Province": "BC",
-        "URL": "http://www.russellbeer.com/"
+        "URL": "http://www.russellbeer.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -741,7 +817,9 @@
         "Name": "Spinnakers Gastro Brewpub",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://www.spinnakers.com/"
+        "URL": "http://www.spinnakers.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -757,7 +835,9 @@
         "Name": "Steamworks Brewery",
         "City": "Burnaby",
         "Province": "BC",
-        "URL": "http://steamworks.com/brewery"
+        "URL": "http://steamworks.com/brewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -773,7 +853,9 @@
         "Name": "Steamworks Brewpub",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://steamworks.com/brew-pub"
+        "URL": "http://steamworks.com/brew-pub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -789,7 +871,9 @@
         "Name": "Storm Brewing",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.stormbrewing.org/"
+        "URL": "http://www.stormbrewing.org/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -805,7 +889,9 @@
         "Name": "Swans Brewpub",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://swanshotel.com/brew-pub/brew-pub-home"
+        "URL": "http://swanshotel.com/brew-pub/brew-pub-home",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -821,7 +907,9 @@
         "Name": "Tin Whistle Brewing Co.",
         "City": "Penticton",
         "Province": "BC",
-        "URL": "https://www.facebook.com/pages/The-Tin-Whistle-Brewing-Company/135597303286"
+        "URL": "https://www.facebook.com/pages/The-Tin-Whistle-Brewing-Company/135597303286",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -837,7 +925,9 @@
         "Name": "Tofino Brewing Company",
         "City": "Tofino",
         "Province": "BC",
-        "URL": "http://www.tofinobrewingco.com/"
+        "URL": "http://www.tofinobrewingco.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -853,7 +943,9 @@
         "Name": "Townsite Brewing",
         "City": "Powell River",
         "Province": "BC",
-        "URL": "http://townsitebrewing.com/"
+        "URL": "http://townsitebrewing.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -870,7 +962,9 @@
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.treebeer.com/",
-        "AKA": "Duke's Cider"
+        "AKA": "Duke's Cider",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -886,7 +980,9 @@
         "Name": "Vancouver Island Brewery",
         "City": "Victoria",
         "Province": "BC",
-        "URL": "http://www.vanislandbrewery.com/"
+        "URL": "http://www.vanislandbrewery.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -902,7 +998,9 @@
         "Name": "Whistler Brewing Company",
         "City": "Whistler",
         "Province": "BC",
-        "URL": "http://www.whistlerbeer.com/"
+        "URL": "http://www.whistlerbeer.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -919,7 +1017,9 @@
         "City": "Nanaimo",
         "Province": "BC",
         "URL": "http://www.wolfbrewingcompany.com/",
-        "AKA": "formerly Fat Cat Brewing"
+        "AKA": "formerly Fat Cat Brewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -935,7 +1035,9 @@
         "Name": "Yaletown Brewing Company",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.markjamesgroup.com/yaletown.html"
+        "URL": "http://www.markjamesgroup.com/yaletown.html",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     }
 
