@@ -162,7 +162,7 @@
         "Province": "BC",
         "URL": "http://bridgebrewing.com/",
         "Type": "Nanobrewery",
-        "marker-color": "#f60"
+        "marker-color": "#ffAA00"
       }
     },
     {
@@ -746,7 +746,7 @@
         "Province": "BC",
         "URL": "http://www.powellbeer.com/",
         "Type": "Nanobrewery",
-        "marker-color": "#f60"
+        "marker-color": "#ffAA00"
       }
     },
     {
