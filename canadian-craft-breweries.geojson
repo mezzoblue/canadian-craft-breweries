@@ -16,7 +16,7 @@
         "Province": "BC",
         "URL": "http://www.33acresbrewing.com/",
         "Type": "Brewery",
-        "marker-color": "red"
+        "marker-color": "#f00"
       }
     },
     {
@@ -34,7 +34,7 @@
         "Province": "BC",
         "URL": "https://www.facebook.com/pages/Arrowhead-Brewing-Company/364956420200389",
         "Type": "Brewery",
-        "marker-color": "red"
+        "marker-color": "#f00"
       }
     },
     {
@@ -52,7 +52,7 @@
         "Province": "BC",
         "URL": "http://www.barleymillpub.com/",
         "Type": "Brewpub",
-        "marker-color": "blue"
+        "marker-color": "#00f"
       }
     },
     {
@@ -71,7 +71,7 @@
         "URL": "http://www.barleystation.com/",
         "AKA": "Shuswap Lake Brewing Co.",
         "Type": "Brewpub",
-        "marker-color": "blue"
+        "marker-color": "#00f"
       }
     },
     {
@@ -89,7 +89,7 @@
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/bigridge.html",
         "Type": "Brewpub",
-        "marker-color": "blue"
+        "marker-color": "#00f"
       }
     },
     {
@@ -107,7 +107,7 @@
         "Province": "BC",
         "URL": "http://www.zbowl.com/Richmond_BR/BrewStory.html",
         "Type": "Brewpub",
-        "marker-color": "blue"
+        "marker-color": "#00f"
       }
     },
     {
@@ -126,7 +126,7 @@
         "URL": "http://bigsurfbeer.com/",
         "AKA": "Prohibition Brewing Co.",
         "Type": "Brewery",
-        "marker-color": "red"
+        "marker-color": "#f00"
       }
     },
     {
@@ -142,7 +142,9 @@
         "Name": "Brewhouse High Mountain Brewing Co.",
         "City": "Whistler",
         "Province": "BC",
-        "URL": "http://www.markjamesgroup.com/brewhouse.html"
+        "URL": "http://www.markjamesgroup.com/brewhouse.html",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
