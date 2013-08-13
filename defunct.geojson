@@ -16,7 +16,9 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/dix.html",
-        "Closed": "May 24th, 2010"
+        "Closed": "May 24th, 2010",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -33,7 +35,9 @@
         "City": "Smithers",
         "Province": "BC ",
         "URL": "http://www.planbbrewing.com/",
-        "Closed": "January 2013"
+        "Closed": "January 2013",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffAA00"
       }
     },
     {
@@ -50,7 +54,9 @@
         "City": "Comox",
         "Province": "BC",
         "URL": "http://www.surgenorbrewing.ca/",
-        "Closed": "2011"
+        "Closed": "2011",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -67,7 +73,9 @@
         "City": "North Vancouver",
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/taylors_crossing.html",
-        "Closed": "December 2011"
+        "Closed": "December 2011",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     }
 
