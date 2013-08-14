@@ -748,10 +748,11 @@
       "properties": {
         "Name": "Farmery Estate Brewery",
         "City": "Winnipeg",
-        "Province": "MB (Retail outlet at Luxalune Gastropub)",
+        "Province": "MB",
         "URL": "http://www.farmery.ca/",
         "Facebook": "https://www.facebook.com/farmerybeer",
         "Twitter": "https://twitter.com/FarmeryBrewery",
+        "Note": "No address available, retail outlet at Luxalune Gastropub.",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
