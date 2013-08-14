@@ -96,7 +96,9 @@
         "Name": "Comox Glacier Brewing",
         "City": "Comox",
         "Province": "BC (Coming Soon)",
-        "Facebook": "https://www.facebook.com/ComoxBREWING"
+        "Facebook": "https://www.facebook.com/ComoxBREWING",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
