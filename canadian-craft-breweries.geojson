@@ -741,6 +741,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.131187,
+          49.86129
+        ]
+      },
+      "properties": {
+        "Name": "Farmery Estate Brewery",
+        "City": "Winnipeg",
+        "Province": "MB (Retail outlet at Luxalune Gastropub)",
+        "URL": "http://www.farmery.ca/",
+        "Facebook": "https://www.facebook.com/farmerybeer",
+        "Twitter": "https://twitter.com/FarmeryBrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.045532,
           49.526852
         ]
@@ -772,6 +792,27 @@
         "URL": "http://www.firehallbrewery.com/",
         "Facebook": "https://www.facebook.com/firehallbrewery",
         "Twitter": "https://twitter.com/FirehallBrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.207588,
+          49.839603
+        ]
+      },
+      "properties": {
+        "Name": "Fort Garry Brewing Co.",
+        "City": "Winnipeg",
+        "Province": "MB",
+        "URL": "http://www.fortgarry.com/",
+        "Facebook": "https://www.facebook.com/pages/Fort-Garry-Brewing-Company/103771686328808",
+        "Twitter": "https://twitter.com/fortgarrybeer",
+        "Note": "Wholly-owned by Russell Brewing in BC, some beers produced there.",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -873,6 +914,26 @@
         "URL": "http://www.gulfislandsbrewery.com/",
         "Facebook": "https://www.facebook.com/pages/Salt-Spring-Island-Ales/155899623703",
         "Twitter": "https://twitter.com/SaltSpringAles",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.195229,
+          49.926392
+        ]
+      },
+      "properties": {
+        "Name": "Half Pints Brewing Co.",
+        "City": "Winnipeg",
+        "Province": "MB",
+        "URL": "http://www.halfpintsbrewing.com/",
+        "Facebook": "https://www.facebook.com/HalfPintsBrewCo",
+        "Twitter": "https://twitter.com/HalfPintsBrewCo",
         "Type": "Brewery",
         "marker-color": "#f00"
       }

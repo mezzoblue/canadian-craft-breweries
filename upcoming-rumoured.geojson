@@ -45,6 +45,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -99.947273,
+          49.846924
+        ]
+      },
+      "properties": {
+        "Name": "Brewtinierie",
+        "City": "Brandon",
+        "Province": "MB",
+        "URL": "http://www.brewtinerie.ca/",
+        "Facebook": "https://www.facebook.com/Brewtinerie",
+        "Twitter": "https://twitter.com/Brewtinerie",
+        "Opening": "Unknown",
+        "Note": "Proposal rejected by Brandon city council, may not go ahead.",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.074753,
           49.277508
         ]
@@ -237,6 +259,27 @@
         "Note": "Upcoming brewery from Vancouver restauranteer Mark Brand",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.144562,
+          49.89349
+        ]
+      },
+      "properties": {
+        "Name": "Portage Ave BrewWorks & Kitchen",
+        "City": "Winnipeg",
+        "Province": "MB",
+        "URL": "http://www.portageavebrewworksandkitchen.ca/",
+        "Facebook": "https://www.facebook.com/PortageAveBrewWorksandKitchen",
+        "Twitter": "https://twitter.com/portageavebrew",
+        "Opening": "December 2013",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
