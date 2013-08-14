@@ -123,6 +123,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.669731,
+          50.4949
+        ]
+      },
+      "properties": {
+        "Name": "Barley Mill Brew Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://barleymill.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.28511,
           50.699665
         ]
@@ -257,6 +275,24 @@
         "Facebook": "http://bigsurfbeer.com/",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.61956,
+          50.404839
+        ]
+      },
+      "properties": {
+        "Name": "Bonzzini's Brew Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "Facebook": "https://www.facebook.com/BonzzinisBrewPub?rf=129459827088391",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -543,6 +579,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -107.798874,
+          50.286518
+        ]
+      },
+      "properties": {
+        "Name": "Buffalo Brew Pub",
+        "City": "Swift Current",
+        "Province": "SK",
+        "Twitter": "https://twitter.com/BuffaloBrewPub1",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.612816,
+          50.455151
+        ]
+      },
+      "properties": {
+        "Name": "Bushwakker Brewing",
+        "City": "Regina",
+        "Province": "SK,",
+        "URL": "http://www.bushwakker.com/",
+        "Facebook": "https://www.facebook.com/TheBushwakker",
+        "Twitter": "https://twitter.com/thebushwakker",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.593758,
           49.482159
         ]
@@ -603,6 +677,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.72805,
+          52.130924
+        ]
+      },
+      "properties": {
+        "Name": "Clark's Crossing Brew Pub",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.064369,
           49.283951
         ]
@@ -654,6 +745,24 @@
         "Facebook": "https://www.facebook.com/pages/Crannóg-Ales/147130382004277",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.536285,
+          50.448151
+        ]
+      },
+      "properties": {
+        "Name": "Creekside Pub & Brewery",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://www.creeksidebrewpub.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
