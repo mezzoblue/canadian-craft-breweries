@@ -127,9 +127,9 @@
       },
       "properties": {
         "Name": "Fisher Peak Brewing Co.",
+        "AKA": "The Heid Out Restaurant & Brewpub",
         "City": "Cranbrook",
         "Province": "BC",
-        "AKA": "The Heid Out Restaurant & Brewpub",
         "Facebook": "https://www.facebook.com/TheHeidOutRestaurantAndBrewhouse",
         "Opening": "Unknown",
         "Note": "From Dave Beardsell of Noble Pig / Bear Brewing",
@@ -155,6 +155,27 @@
         "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4539,
+          51.18375
+        ]
+      },
+      "properties": {
+        "Name": "Half Hitch Brewery",
+        "City": "Cochrane",
+        "Province": "AB",
+        "URL": "http://www.halfhitchbrewing.ca/",
+        "Facebook": "https://www.facebook.com/HalfHitchBrewingCo",
+        "Twitter": "https://twitter.com/halfhitchbeer",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {

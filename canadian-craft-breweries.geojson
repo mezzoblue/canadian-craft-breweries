@@ -26,6 +26,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.487991,
+          53.495293
+        ]
+      },
+      "properties": {
+        "Name": "Alley Kat Brewing Company",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://www.alleykatbeer.com/",
+        "Facebook": "https://www.facebook.com/groups/2376909468/",
+        "Twitter": "https://twitter.com/alley_kat_beer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.487572,
+          53.514278
+        ]
+      },
+      "properties": {
+        "Name": "Amber's Brewing Company",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://www.ambersbrewing.com/",
+        "Facebook": "https://www.facebook.com/ambersbrewing",
+        "Twitter": "https://twitter.com/ambersbrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.028328,
           50.504578
         ]
@@ -38,6 +78,26 @@
         "Facebook": "https://www.facebook.com/pages/Arrowhead-Brewing-Company/364956420200389",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.570793,
+          51.175091
+        ]
+      },
+      "properties": {
+        "Name": "Banff Ave. Brewing Co.",
+        "City": "Banff",
+        "Province": "AB",
+        "URL": "http://www.banffavebrewingco.ca/",
+        "Facebook": "https://www.facebook.com/banffavebrewing",
+        "Twitter": "https://twitter.com/banffavebrewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -69,12 +129,54 @@
       },
       "properties": {
         "Name": "Barley Station Brewpub",
+        "AKA": "Shuswap Lake Brewing Co.",
         "City": "Salmon Arm",
         "Province": "BC",
         "URL": "http://www.barleystation.com/",
-        "AKA": "Shuswap Lake Brewing Co.",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.081535,
+          51.041794
+        ]
+      },
+      "properties": {
+        "Name": "Beer Revolution",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://beerrevolution.ca/",
+        "Facebook": "https://www.facebook.com/RevolutionYYC",
+        "Twitter": "https://twitter.com/RevolutionYYC",
+        "Note": "Owned by Brewsters brewpub chain, beer presumably produced offsite. Will be removed once confirmed.",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5235,
+          53.5463
+        ]
+      },
+      "properties": {
+        "Name": "Beer Revolution",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://beerrevolution.ca/",
+        "Facebook": "https://www.facebook.com/RevolutionYEG",
+        "Twitter": "https://twitter.com/RevolutionYEG",
+        "Note": "Owned by Brewsters brewpub chain, beer presumably produced offsite. Will be removed once confirmed.",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
       }
     },
     {
@@ -122,19 +224,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.955734,
+          50.984371
+        ]
+      },
+      "properties": {
+        "Name": "Big Rock Brewery",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://www.bigrockbeer.com/",
+        "Facebook": "https://www.facebook.com/BigRockBrewery",
+        "Twitter": "https://twitter.com/bigrockbrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.388885,
           50.007931
         ]
       },
       "properties": {
         "Name": "Big Surf Beer Company",
+        "AKA": "Prohibition Brewing Co.",
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://bigsurfbeer.com/",
         "Facebook": "http://bigsurfbeer.com/",
-        "AKA": "Prohibition Brewing Co.",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0746,
+          51.042652
+        ]
+      },
+      "properties": {
+        "Name": "Brew Brothers Brewery",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://www.brewbrothers.com/",
+        "Twitter": "https://twitter.com/brewbrosbrewery",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -155,6 +296,226 @@
         "Twitter": "https://twitter.com/BREWHOUSEatWHIS",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.474457,
+          53.423157
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.52169,
+          53.547131
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.594788,
+          53.519539
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.515381,
+          53.454594
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.516296,
+          53.614571
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.961479,
+          50.916874
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.047188,
+          50.942516
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.956551,
+          51.003284
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.081131,
+          51.042946
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.199242,
+          51.12698
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.014114,
+          51.301121
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Airdrie",
+        "Province": "AB",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "http://brewsters.ca/",
+        "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
       }
     },
     {
@@ -446,11 +807,11 @@
       },
       "properties": {
         "Name": "Freddy's Brewpub",
+        "AKA": "Mill Creek Brewery",
+        "AKA": "McCurdy Bowling Centre",
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.mccurdybowl.com/wp/",
-        "AKA": "Mill Creek Brewery",
-        "AKA": "McCurdy Bowling Centre",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -480,18 +841,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.357101,
+          51.089252
+        ]
+      },
+      "properties": {
+        "Name": "Grizzly Paw Brewing",
+        "City": "Canmore",
+        "Province": "AB",
+        "URL": "http://www.thegrizzlypaw.com/",
+        "Facebook": "https://www.facebook.com/pages/The-Grizzly-Paw-Brewing-Company/128231440522255",
+        "Twitter": "https://twitter.com/GrizzlyPaw",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.497955,
           48.785011
         ]
       },
       "properties": {
         "Name": "Gulf Islands Brewery",
+        "AKA": "Saltspring Island Ales",
         "City": "Saltspring",
         "Province": "BC",
         "URL": "http://www.gulfislandsbrewery.com/",
-        "AKA": "Saltspring Island Ales",
         "Facebook": "https://www.facebook.com/pages/Salt-Spring-Island-Ales/155899623703",
         "Twitter": "https://twitter.com/SaltSpringAles",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.642281,
+          53.622269
+        ]
+      },
+      "properties": {
+        "Name": "Hog's Head Brewing Company",
+        "City": "St. Albert",
+        "Province": "AB",
+        "URL": "http://www.hogsheadbrewing.ca/",
+        "Facebook": "https://www.facebook.com/HogsHeadBrewingCompany",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -541,6 +941,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.081078,
+          52.874615
+        ]
+      },
+      "properties": {
+        "Name": "Jasper Brewing Co.",
+        "City": "Jasper",
+        "Province": "AB",
+        "URL": "http://www.jasperbrewingco.ca/",
+        "Facebook": "https://www.facebook.com/pages/Jasper-Brewing-Co/168162803222314",
+        "Twitter": "https://twitter.com/JasperBrewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.396423,
           48.435863
         ]
@@ -572,6 +992,26 @@
         "URL": "http://www.longwoodbrewpub.com/",
         "Facebook": "https://www.facebook.com/longwoodbrewpub",
         "Twitter": "https://twitter.com/LongwoodBrewpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.031952,
+          51.091972
+        ]
+      },
+      "properties": {
+        "Name": "Minhas Microbrewery",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://minhasbrewery.com/",
+        "Facebook": "https://www.facebook.com/MinhasMicroBrew",
+        "Twitter": "https://twitter.com/MinhasMicrobrew",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -647,7 +1087,7 @@
         "City": "Nelson",
         "Province": "BC",
         "URL": "http://nelsonbrewing.com/",
-        "Facebook": "https://www.facebook.com/pages/Nelson-Brewing-Company/192612907436095?fref=ts",
+        "Facebook": "https://www.facebook.com/pages/Nelson-Brewing-Company/192612907436095",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -666,6 +1106,28 @@
         "City": "Kamloops",
         "Province": "BC",
         "URL": "http://thenoblepig.ca/",
+        "Twitter": "https://twitter.com/thenoblepig",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.853836,
+          53.017887
+        ]
+      },
+      "properties": {
+        "Name": "Norsemen Brewing Co.",
+        "AKA": "Norseman Inn",
+        "AKA2": "The Taproom Bar + Brewery",
+        "City": "Camrose",
+        "Province": "AB",
+        "URL": "http://www.norsemeninn.com/norsemen-brewing-company/",
+        "Facebook": "https://www.facebook.com/NorsemenbrewingCo",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -681,11 +1143,11 @@
       },
       "properties": {
         "Name": "Northam Brewery",
+        "AKA": "Bowen Island Brewing",
+        "AKA2": "Kamloops Brewery",
         "City": "Kamloops",
         "Province": "BC",
         "URL": "http://www.bowenislandbeer.com/",
-        "AKA": "Bowen Island Brewing",
-        "AKA2": "Kamloops Brewery",
         "Twitter": "https://twitter.com/bowenislandbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -836,16 +1298,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -110.46154,
+          52.759907
+        ]
+      },
+      "properties": {
+        "Name": "Ribstone Creek Brewery",
+        "City": "Edgerton",
+        "Province": "AB",
+        "URL": "http://www.ribstonecreekbrewery.ca/",
+        "Facebook": "https://www.facebook.com/RibstoneCreekBrewery",
+        "Twitter": "https://twitter.com/RibstoneCreek",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.473526,
           49.034588
         ]
       },
       "properties": {
         "Name": "Ridge Brewing Co.",
+        "AKA": "Westridge Inn",
         "City": "Osoyoos",
         "Province": "BC",
         "URL": "http://www.westridgeinn.com/index.php/restaurant/brewery",
-        "AKA": "Westridge Inn",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -961,10 +1443,10 @@
       },
       "properties": {
         "Name": "Swans Brewpub",
+        "AKA": "Swans Suite Hotel",
         "City": "Victoria",
         "Province": "BC",
         "URL": "http://swanshotel.com/brew-pub/brew-pub-home",
-        "AKA": "Swans Suite Hotel",
         "Facebook": "https://www.facebook.com/swanshotel",
         "Twitter": "https://twitter.com/swansvictoria",
         "Type": "Brewpub",
@@ -1015,6 +1497,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -114.123657,
+          50.981022
+        ]
+      },
+      "properties": {
+        "Name": "Toolshed Brewing",
+        "City": "Calgary",
+        "Province": "AB (no address available)",
+        "URL": "http://toolshedbrewing.com/",
+        "Facebook": "https://www.facebook.com/ToolShedBrewing",
+        "Twitter": "https://twitter.com/toolshedbeer",
+        "Note": "Contract brewing at Dead Frog in BC while awaiting permanent space.",
+        "Type": "Gypsy Brewery",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.551201,
           49.874279
         ]
@@ -1041,10 +1544,10 @@
       },
       "properties": {
         "Name": "Tree Brewing",
+        "AKA": "Duke's Cider",
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.treebeer.com/",
-        "AKA": "Duke's Cider",
         "Facebook": "https://www.facebook.com/tree.brewing",
         "Twitter": "https://twitter.com/TreeBrewing",
         "Type": "Brewery",
@@ -1076,6 +1579,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -114.035042,
+          51.009457
+        ]
+      },
+      "properties": {
+        "Name": "Village Brewery",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://www.villagebrewery.com/",
+        "Facebook": "https://www.facebook.com/villagebrewery",
+        "Twitter": "https://twitter.com/villagebrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.039948,
           50.087872
         ]
@@ -1096,20 +1619,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -114.122932,
+          51.014172
+        ]
+      },
+      "properties": {
+        "Name": "Wild Rose Brewery",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://www.wildrosebrewery.com/",
+        "Twitter": "https://twitter.com/WildRoseBrewery",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.931503,
           49.14185
         ]
       },
       "properties": {
         "Name": "Wolf Brewing Co.",
+        "AKA": "formerly Fat Cat Brewing",
         "City": "Nanaimo",
         "Province": "BC",
         "URL": "http://www.wolfbrewingcompany.com/",
-        "AKA": "formerly Fat Cat Brewing",
         "Facebook": "https://www.facebook.com/Wolf.Nanaimo",
         "Twitter": "https://twitter.com/WolfBrewingComp",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3844,
+          56.7286
+        ]
+      },
+      "properties": {
+        "Name": "Wood Buffalo Brewing Co.",
+        "City": "Fort McMurray",
+        "Province": "AB",
+        "URL": "http://www.woodbuffalobrewingco.ca/",
+        "Facebook": "https://www.facebook.com/pages/Wood-Buffalo-Brewing-Co/324777950940866?ref=ts&fref=ts",
+        "Twitter": "https://twitter.com/WoodBuffaloBrew",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -1129,6 +1691,26 @@
         "Twitter": "https://twitter.com/YBC_brewing",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.500938,
+          53.543625
+        ]
+      },
+      "properties": {
+        "Name": "Yellowhead Brewery",
+        "City": "Edmonton",
+        "Province": "AB",
+        "URL": "http://www.yellowheadbrewery.com/",
+        "Facebook": "https://www.facebook.com/yellowheadbrewery",
+        "Twitter": "https://twitter.com/YellowheadBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
