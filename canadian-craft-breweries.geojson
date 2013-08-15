@@ -348,7 +348,7 @@
         "City": "Edmonton",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -368,7 +368,7 @@
         "City": "Edmonton",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -388,7 +388,7 @@
         "City": "Edmonton",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -408,7 +408,7 @@
         "City": "Edmonton",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -428,7 +428,7 @@
         "City": "Edmonton",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -448,7 +448,7 @@
         "City": "Calgary",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -468,7 +468,7 @@
         "City": "Calgary",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -488,7 +488,7 @@
         "City": "Calgary",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -508,7 +508,7 @@
         "City": "Calgary",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -528,7 +528,7 @@
         "City": "Calgary",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
@@ -548,8 +548,68 @@
         "City": "Airdrie",
         "Province": "AB",
         "URL": "http://brewsters.ca/",
-        "Facebook": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Alberta/117480241605889",
         "Twitter": "https://twitter.com/BrewstersPub",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.556824,
+          50.447594
+        ]
+      },
+      "properties": {
+        "Name": "Brewster's Brewing Co. & Restaurant",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Restaurant/232898627052?v=wall",
+        "Twitter": "https://twitter.com/BrewstersSask",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.664322,
+          50.482361
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Restaurant/232898627052?v=wall",
+        "Twitter": "https://twitter.com/BrewstersSask",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.61821,
+          50.412434
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Restaurant/232898627052?v=wall",
+        "Twitter": "https://twitter.com/BrewstersSask",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
       }
@@ -1658,6 +1718,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.618256,
+          50.444698
+        ]
+      },
+      "properties": {
+        "Name": "Slow Food Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://slowpub.com/wordpress/",
+        "Twitter": "https://twitter.com/SlowPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.599045,
+          52.137684
+        ]
+      },
+      "properties": {
+        "Name": "Specklebelly's Brew Pub",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.specklebellys.com/",
+        "Facebook": "https://www.facebook.com/specklebellys.brewpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.384781,
           48.429356
         ]
@@ -1750,6 +1848,25 @@
         "URL": "http://swanshotel.com/brew-pub/brew-pub-home",
         "Facebook": "https://www.facebook.com/swanshotel",
         "Twitter": "https://twitter.com/swansvictoria",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.64164,
+          50.496014
+        ]
+      },
+      "properties": {
+        "Name": "The Tap Brewing Co. & Eatery Inc.",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://www.thetap.ca/",
+        "Facebook": "https://www.facebook.com/TheTapRegina",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
