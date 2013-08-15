@@ -66,6 +66,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.357162,
+          43.706818
+        ]
+      },
+      "properties": {
+        "Name": "Amsterdam Brewery",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://amsterdambeer.com/",
+        "Facebook": "https://www.facebook.com/Amsterdambeer",
+        "Twitter": "https://twitter.com/amsterdambeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.028328,
           50.504578
         ]
@@ -153,6 +173,26 @@
         "URL": "http://www.barleystation.com/",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.637497,
+          45.517723
+        ]
+      },
+      "properties": {
+        "Name": "Beau's All Natural Brewing Co.",
+        "City": "Vankleek Hill",
+        "Province": "ON",
+        "URL": "http://www.beaus.ca/",
+        "Facebook": "https://www.facebook.com/BeausAllNaturalBrewingCo",
+        "Twitter": "https://twitter.com/beausallnatural",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -990,6 +1030,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.686821,
+          44.38924
+        ]
+      },
+      "properties": {
+        "Name": "Flying Monkeys Craft Brewery",
+        "City": "Barrie",
+        "Province": "ON",
+        "URL": "http://www.theflyingmonkeys.ca/",
+        "Facebook": "https://www.facebook.com/pages/Flying-Monkeys-Craft-Brewery/108949405799023",
+        "Twitter": "https://twitter.com/FlyingMonkeys",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.2084,
           49.8359
         ]
@@ -1097,6 +1157,26 @@
         "URL": "http://gib.ca/",
         "Facebook": "https://www.facebook.com/granvilleislandbrewing",
         "Twitter": "https://twitter.com/itsgoodtobehere",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50502,
+          43.622784
+        ]
+      },
+      "properties": {
+        "Name": "Great Lakes Brewery",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.greatlakesbeer.com/",
+        "Facebook": "https://www.facebook.com/GreatLakesBeer",
+        "Twitter": "https://twitter.com/greatlakesbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1342,6 +1422,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.358452,
+          43.650467
+        ]
+      },
+      "properties": {
+        "Name": "Mill St. Brewing",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.millstreetbrewery.com/",
+        "Facebook": "https://www.facebook.com/MillStBrewPubTO",
+        "Twitter": "https://twitter.com/MillStreetBrew",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.031952,
           51.091972
         ]
@@ -1410,6 +1510,25 @@
         "City": "Revelstoke",
         "Province": "BC",
         "URL": "http://www.mt-begbie.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.310204,
+          45.041836
+        ]
+      },
+      "properties": {
+        "Name": "Muskoka Brewery",
+        "City": "Bracebridge",
+        "Province": "ON",
+        "URL": "http://www.muskokabrewery.com/",
+        "Twitter": "https://twitter.com/MuskokaBrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
