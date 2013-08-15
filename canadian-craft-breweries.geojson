@@ -677,6 +677,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.547295,
+          50.385284
+        ]
+      },
+      "properties": {
+        "Name": "Chillers Brew Pub",
+        "City": "Moose Jaw",
+        "Province": "SK",
+        "URL": "http://www.chillersbrewpub.ca/",
+        "Facebook": "https://www.facebook.com/pages/Chillers-Brew-Pub-Eatery-Offsale/196086173793711",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.72805,
           52.130924
         ]
@@ -952,6 +971,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.645538,
+          52.159733
+        ]
+      },
+      "properties": {
+        "Name": "Fox & Hounds Pub & Brewery",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.40567,
           49.901222
         ]
@@ -963,6 +999,24 @@
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.mccurdybowl.com/wp/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.580826,
+          50.473492
+        ]
+      },
+      "properties": {
+        "Name": "Gaebels Brewhouse & Off Sale",
+        "City": "Regina",
+        "Province": "SK",
+        "Facebook": "https://www.facebook.com/gaebels.brewhouse",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -1072,6 +1126,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.656601,
+          52.118683
+        ]
+      },
+      "properties": {
+        "Name": "Hose & Hydrant Brew Pub",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.hoseandhydrant.com/",
+        "Twitter": "https://twitter.com/HoseBrewPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.156181,
           49.695362
         ]
@@ -1132,6 +1205,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.617912,
+          50.477154
+        ]
+      },
+      "properties": {
+        "Name": "Last Straw Brew Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://laststrawbrewpub.com/",
+        "Twitter": "https://twitter.com/LastStrawRegina",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.396423,
           48.435863
         ]
@@ -1163,6 +1255,24 @@
         "URL": "http://www.longwoodbrewpub.com/",
         "Facebook": "https://www.facebook.com/longwoodbrewpub",
         "Twitter": "https://twitter.com/LongwoodBrewpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.627075,
+          52.115704
+        ]
+      },
+      "properties": {
+        "Name": "Maguires Irish Pub & Brewery",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.maguiresbrewpub.com/",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -1360,6 +1470,26 @@
         "URL": "http://www.oldyalebrewing.com/",
         "Facebook": "https://www.facebook.com/pages/Old-Yale-Brewing/154945167944820",
         "Twitter": "https://twitter.com/oldyalebrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.597435,
+          52.130196
+        ]
+      },
+      "properties": {
+        "Name": "Paddock Wood Brewing Co.",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.paddockwood.com/",
+        "Facebook": "https://www.facebook.com/paddockwood",
+        "Twitter": "https://twitter.com/paddock_wood",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
