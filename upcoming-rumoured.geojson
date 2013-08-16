@@ -7,6 +7,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.663,
+          44.3668
+        ]
+      },
+      "properties": {
+        "Name": "Barnstormer Brewing",
+        "City": "Barrie",
+        "Province": "ON",
+        "URL": "http://www.barnstormerbrewing.com/",
+        "Facebook": "https://www.facebook.com/barnstormerbeer",
+        "Twitter": "https://twitter.com/barnstormerbeer",
+        "Opening": "Fall 2013",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.295,
           49.27
         ]
@@ -15,6 +36,27 @@
         "Name": "Big Kettle Brewing",
         "City": "New Westminster",
         "Province": "BC",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.644,
+          45.253
+        ]
+      },
+      "properties": {
+        "Name": "Big Sound Brewing",
+        "City": "Rousseau",
+        "Province": "ON",
+        "URL": "http://bigsoundbrewing.com/",
+        "Facebook": "https://www.facebook.com/BigSoundBrewing",
+        "Twitter": "https://twitter.com/bigsoundbrewing",
         "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#aaa"
@@ -186,6 +228,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.07193,
+          43.255032
+        ]
+      },
+      "properties": {
+        "Name": "The Exchange Brewery",
+        "City": "Niagara-on-the-Lake",
+        "Province": "ON",
+        "URL": "http://www.niagaraadvance.ca/2013/07/24/micro-brewery-in-the-works-for-notls-main-street",
+        "Opening": "2015",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.770149,
           49.512951
         ]
@@ -241,6 +302,27 @@
         "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.869576,
+          43.280205
+        ]
+      },
+      "properties": {
+        "Name": "The Hamilton Brewery",
+        "City": "Hamilton (no address available)",
+        "Province": "ON",
+        "URL": "http://thehamiltonbrewery.com/",
+        "Facebook": "https://www.facebook.com/thehamiltonbrewery",
+        "Twitter": "https://twitter.com/hamiltonbrewery",
+        "Opening": "Late 2013 / Early 2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -371,6 +453,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.250664,
+          44.499657
+        ]
+      },
+      "properties": {
+        "Name": "Side Launch Brewing",
+        "City": "Collingwood",
+        "Province": "ON",
+        "Opening": "2014",
+        "Type": "Unknown",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -128.602524,
           54.517097
         ]
@@ -411,6 +511,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.250778,
+          43.978333
+        ]
+      },
+      "properties": {
+        "Name": "Stoufeville Brewing",
+        "AKA": "Red Falcon Ale",
+        "City": "Stoufeville (no address available)",
+        "Province": "ON",
+        "URL": "http://www.redfalconale.ca/",
+        "Facebook": "https://www.facebook.com/StouffvilleBrewingCompany",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.26320075988768,
           52.82641675600601
         ]
@@ -422,6 +542,28 @@
         "Opening": "Unknown",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.274124,
+          43.775803
+        ]
+      },
+      "properties": {
+        "Name": "Triple Bogey Golf & Brewing Co.",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.triplebogey.com/",
+        "Facebook": "https://www.facebook.com/TripleBogeyCo",
+        "Twitter": "https://twitter.com/triplebogey",
+        "Notes": "Contract brewed at Great Lakes Brewery",
+        "Opening": "Unknown",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
       }
     },
     {
@@ -469,18 +611,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-           -114.38,
-          62.455
-       ]
+          -123.30,
+          49.26
+        ]
       },
       "properties": {
-        "Name": "Unnamed Yellowknife Brewery",
-        "City": "Yellowknife",
-        "Province": "NWT",
-        "URL": "http://www.beerincanada.ca/?p=1688",
-        "Opening": "Late 2013",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
+        "Name": "Unnamed Burnaby Brewery",
+        "City": "Burnaby",
+        "Province": "BC",
+        "Note": "Rumoured brewery from Ben Coli",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.187775,
+          44.492573
+        ]
+      },
+      "properties": {
+        "Name": "Unnamed Collingwood Brewery",
+        "City": "Collingwood",
+        "Province": "ON",
+        "URL": "http://www.bayshorebroadcasting.ca/news_item.php?NewsID=55774",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -507,18 +668,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.30,
-          49.26
-        ]
+           -114.38,
+          62.455
+       ]
       },
       "properties": {
-        "Name": "Unnamed Brewery",
-        "City": "Burnaby",
-        "Province": "BC",
-        "Note": "Rumoured brewery from Ben Coli",
-        "Opening": "Unknown",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "Name": "Unnamed Yellowknife Brewery",
+        "City": "Yellowknife",
+        "Province": "NWT",
+        "URL": "http://www.beerincanada.ca/?p=1688",
+        "Opening": "Late 2013",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     }
 

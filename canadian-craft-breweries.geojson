@@ -26,6 +26,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.914062,
+          43.872189
+        ]
+      },
+      "properties": {
+        "Name": "5 Paddles Brewing",
+        "City": "Whitby",
+        "Province": "ON",
+        "URL": "http://5paddlesbrewing.com/",
+        "Facebook": "https://www.facebook.com/5PaddlesBrewingCompany",
+        "Twitter": "https://twitter.com/5PaddlesBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.487991,
           53.495293
         ]
@@ -75,10 +95,30 @@
         "City": "Toronto",
         "Province": "ON",
         "URL": "http://amsterdambeer.com/",
-        "Facebook": "https://www.facebook.com/Amsterdambeer",
+        "Facebook": "https://www.facebook.com/AmsterdamBH",
         "Twitter": "https://twitter.com/amsterdambeer",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.381035,
+          43.639626
+        ]
+      },
+      "properties": {
+        "Name": "Amsterdam BrewHouse",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.amsterdambrewhouse.com/",
+        "Facebook": "https://www.facebook.com/Amsterdambeer",
+        "Twitter": "https://twitter.com/amsterdambeer",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -303,6 +343,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.273369,
+          43.138462
+        ]
+      },
+      "properties": {
+        "Name": "Bell City Brewing",
+        "City": "Brantford",
+        "Province": "ON",
+        "URL": "http://bellcitybrewing.com/"
+        "Facebook": "https://www.facebook.com/bellcitybrewing",
+        "Twitter": "https://twitter.com/bellcitybeer",
+        "Notes": "No address available",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.419952,
           43.647079
         ]
@@ -474,6 +535,26 @@
         "URL": "http://blackoakbeer.com/",
         "Facebook": "https://www.facebook.com/blackoakbrewery",
         "Twitter": "https://twitter.com/BlackOakBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.553291,
+          43.540279
+        ]
+      },
+      "properties": {
+        "Name": "Block Three Brewing",
+        "City": "St Jacobs",
+        "Province": "ON",
+        "URL": "http://www.blockthreebrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Block-Three-Brewing/520354098003432",
+        "Twitter": "https://twitter.com/BlockThree",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1018,6 +1099,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.517242,
+          43.614262
+        ]
+      },
+      "properties": {
+        "Name": "Cheshire Valley Brewing Company",
+        "City": "Etobicoke",
+        "Province": "ON",
+        "URL": "http://www.cheshirevalleybrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Cheshire-Valley-Brewing/189558554414502",
+        "Twitter": "https://twitter.com/CheshireValley",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.745155,
+          44.350861
+        ]
+      },
+      "properties": {
+        "Name": "Church Key Brewing",
+        "City": "Trent Hills",
+        "Province": "ON",
+        "URL": "http://www.churchkeybrewing.com/"
+        "Facebook": "https://www.facebook.com/churchkeybrewing",
+        "Twitter": "https://twitter.com/churchkeybeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -105.547295,
           50.385284
         ]
@@ -1163,6 +1284,26 @@
         "URL": "http://www.creeksidebrewpub.com/",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.105499,
+          44.325138
+        ]
+      },
+      "properties": {
+        "Name": "Creemore Springs Brewery",
+        "City": "Creemore Springs",
+        "Province": "ON",
+        "URL": "http://www.creemoresprings.com/",
+        "Facebook": "https://www.facebook.com/CreemoreSprings",
+        "Twitter": "https://twitter.com/creemoresprings",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1352,6 +1493,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.175407,
+          43.009918
+        ]
+      },
+      "properties": {
+        "Name": "Forked River Brewing",
+        "City": "London",
+        "Province": "ON",
+        "URL": "http://www.forkedriverbrewing.com/",
+        "Facebook": "https://www.facebook.com/ForkedRiverBrewing",
+        "Twitter": "https://twitter.com/forkedriverbrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.2084,
           49.8359
         ]
@@ -1441,6 +1602,25 @@
         "Facebook": "https://www.facebook.com/gaebels.brewhouse",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.158623,
+          44.326534
+        ]
+      },
+      "properties": {
+        "Name": "Ganonoque Brewing Co.",
+        "City": "Gananoque",
+        "Province": "ON",
+        "Facebook": "https://www.facebook.com/pages/Gananoque-Brewing-Company/169171079809900",
+        "Twitter": "https://twitter.com/GanBeerCo",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1727,6 +1907,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.464607,
+          43.670792
+        ]
+      },
+      "properties": {
+        "Name": "Junction Craft Brewing",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.junctioncraftbrewing.com/jcb/",
+        "Facebook": "https://www.facebook.com/pages/Junction-Craft-Brewing/100579660039964",
+        "Twitter": "https://twitter.com/JUNCTION_CRAFT",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.401367,
+          43.652836
+        ]
+      },
+      "properties": {
+        "Name": "Kensington Brewing Co.",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.kensingtonbrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/kensingtonbrewingcompany",
+        "Twitter": "https://twitter.com/drinkgoodbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.749855,
           45.376297
         ]
@@ -1738,6 +1958,26 @@
         "URL": "http://www.kbeer.ca/",
         "Facebook": "https://www.facebook.com/KichesippiBeer",
         "Twitter": "https://twitter.com/kichesippibeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.917824,
+          44.523613
+        ]
+      },
+      "properties": {
+        "Name": "Kilnnan Brewing Co.",
+        "City": "Owen Sound",
+        "Province": "ON",
+        "URL": "http://www.kilannanbrewing.ca/",
+        "Facebook": "https://www.facebook.com/KilannanBrewingCompany",
+        "Twitter": "https://twitter.com/KilannanBrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1787,6 +2027,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -94.486725,
+          49.765385
+        ]
+      },
+      "properties": {
+        "Name": "Lake of the Woods Brewing",
+        "City": "Kenora",
+        "Province": "ON",
+        "URL": "http://lowbrewco.com/",
+        "Facebook": "https://www.facebook.com/lowbrewco",
+        "Twitter": "https://twitter.com/lowbrewco",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.617912,
           50.477154
         ]
@@ -1799,6 +2059,46 @@
         "Twitter": "https://twitter.com/LastStrawRegina",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.260178,
+          43.632099
+        ]
+      },
+      "properties": {
+        "Name": "Left Field Brewery",
+        "City": "Toronto (no address available)",
+        "Province": "ON",
+        "URL": "http://www.leftfieldbrewery.ca/",
+        "Facebook": "https://www.facebook.com/LeftFieldBrewery",
+        "Twitter": "https://twitter.com/LFbrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.420654,
+          43.638096
+        ]
+      },
+      "properties": {
+        "Name": "Liberty Village Brewing",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://libertyvillagebeer.com/",
+        "Facebook": "https://www.facebook.com/libertyvillagebeer",
+        "Twitter": "https://twitter.com/libertyvilbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -2455,6 +2755,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.870064,
+          43.252003
+        ]
+      },
+      "properties": {
+        "Name": "The Ship",
+        "City": "Hamilton",
+        "Province": "ON",
+        "URL": "http://www.theship.ca/",
+        "Facebook": "https://www.facebook.com/ShipTwits",
+        "Twitter": "https://twitter.com/ShipTwits",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.227608,
           44.995579
         ]
@@ -2523,6 +2843,46 @@
         "URL": "http://www.spinnakers.com/",
         "Facebook": "https://www.facebook.com/pages/Spinnakers-Gastro-Brewpub/225719889304",
         "Twitter": "https://twitter.com/Spinnakers",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02961,
+          46.46486
+        ]
+      },
+      "properties": {
+        "Name": "Stack Brewing",
+        "City": "Sudbury",
+        "Province": "ON",
+        "URL": "http://stackbrewing.ca/",
+        "Facebook": "https://www.facebook.com/stackbrewing",
+        "Twitter": "https://twitter.com/StackBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.736809,
+          45.398758
+        ]
+      },
+      "properties": {
+        "Name": "Stock Pot Ales",
+        "AKA": "Wellington Gastropub",
+        "Province": "ON",
+        "City": "Ottawa",
+        "Facebook": "https://www.facebook.com/stackbrewing",
+        "Twitter": "https://twitter.com/StockPotAles",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -2863,6 +3223,26 @@
         "URL": "http://www.whistlerbeer.com/",
         "Facebook": "https://www.facebook.com/whistlerbrewingcompany",
         "Twitter": "https://twitter.com/whistlerbrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.771301,
+          45.726345
+        ]
+      },
+      "properties": {
+        "Name": "Whitewater Brewing",
+        "City": "Foresters Falls",
+        "Province": "ON",
+        "URL": "http://whitewaterbeer.com/",
+        "Facebook": "https://www.facebook.com/WhitewaterBrewingCompany",
+        "Twitter": "https://twitter.com/WhitewaterBrew",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
