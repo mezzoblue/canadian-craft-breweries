@@ -13,12 +13,13 @@ View the maps here:
 
 ### Marker Colours
 
+```
   Brewery = Red, #f00
   Brewpub = Blue, #00f
   Brewpub Chain = Green, #00bb00
   Nanobrewery = Orange, #ffaa00
   Contract / Gypsy Brewers = Pink, #dd77ff  
-
+```
 
 ### Credits
 
