@@ -56,8 +56,8 @@
         "URL": "http://www.brewtinerie.ca/",
         "Facebook": "https://www.facebook.com/Brewtinerie",
         "Twitter": "https://twitter.com/Brewtinerie",
-        "Opening": "Unknown",
         "Note": "Proposal rejected by Brandon city council, may not go ahead.",
+        "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -88,6 +88,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.123535,
+          43.568451
+        ]
+      },
+      "properties": {
+        "Name": "Bush Pilot Brewing",
+        "City": "No Fixed Address",
+        "Province": "ON",
+        "URL": "http://www.bushpilotbrewing.com/",
+        "Opening": "Unknown",
+        "Type": "Gypsy Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.885712,
           49.658737
         ]
@@ -97,6 +116,28 @@
         "City": "Comox",
         "Province": "BC (Coming Soon)",
         "Facebook": "https://www.facebook.com/ComoxBREWING",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.903732,
+          45.276791
+        ]
+      },
+      "properties": {
+        "Name": "Covered Bridge Brewing",
+        "City": "Stittsville",
+        "Province": "ON",
+        "URL": "http://coveredbridgebrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/The-Covered-Bridge-Brewing-Company-Inc/413755858679626",
+        "Twitter": "https://twitter.com/CBBeer",
+        "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#aaa"
       }
@@ -114,7 +155,7 @@
         "Name": "Doan's Craft Brewing Co.",
         "City": "Vancouver",
         "Province": "BC",
-        "URL": "https://www.facebook.com/doanscraftbrewing",
+        "Facebook": "https://www.facebook.com/doanscraftbrewing",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -155,8 +196,8 @@
         "City": "Cranbrook",
         "Province": "BC",
         "Facebook": "https://www.facebook.com/TheHeidOutRestaurantAndBrewhouse",
-        "Opening": "Unknown",
         "Note": "From Dave Beardsell of Noble Pig / Bear Brewing",
+        "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -218,7 +259,7 @@
         "URL": "http://mainstreetpilsner.com/",
         "Facebook": "https://www.facebook.com/MainStreetBeer",
         "Twitter": "https://twitter.com/mainstreetbeer",
-        "Opening": "Unknown",
+        "Opening": "Unknown (Sign says Spring 2013)",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -259,6 +300,7 @@
         "Facebook": "https://www.facebook.com/PersephoneBrewing",
         "Twitter": "https://twitter.com/Persephonebeer",
         "Note": "Upcoming brewery from Vancouver restauranteer Mark Brand",
+        "Opening": "Imminent",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -319,6 +361,7 @@
         "City": "Royston",
         "Province": "BC",
         "Facebook": "https://www.facebook.com/pages/Royston-Nano-Brewery/242482555868155",
+        "Opening": "Unknown",
         "Type": "Nanobrewery",
         "marker-color": "#ffAA00"
       }
@@ -358,6 +401,7 @@
         "Province": "BC",
         "Opening": "February 2014",
         "Note": "Liquor license application posted April 2013",
+        "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -472,6 +516,7 @@
         "City": "Burnaby",
         "Province": "BC",
         "Note": "Rumoured brewery from Ben Coli",
+        "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
