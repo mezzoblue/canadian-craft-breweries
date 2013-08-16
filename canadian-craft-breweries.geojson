@@ -351,7 +351,7 @@
         "Name": "Bell City Brewing",
         "City": "Brantford",
         "Province": "ON",
-        "URL": "http://bellcitybrewing.com/"
+        "URL": "http://bellcitybrewing.com/",
         "Facebook": "https://www.facebook.com/bellcitybrewing",
         "Twitter": "https://twitter.com/bellcitybeer",
         "Notes": "No address available",
@@ -1127,7 +1127,7 @@
         "Name": "Church Key Brewing",
         "City": "Trent Hills",
         "Province": "ON",
-        "URL": "http://www.churchkeybrewing.com/"
+        "URL": "http://www.churchkeybrewing.com/",
         "Facebook": "https://www.facebook.com/churchkeybrewing",
         "Twitter": "https://twitter.com/churchkeybeer",
         "Type": "Brewery",
