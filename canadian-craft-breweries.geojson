@@ -1690,7 +1690,7 @@
       },
       "properties": {
         "Name": "The Gahan House",
-        "AKA": "(aka PEI Brewing Co.)"
+        "AKA": "(aka PEI Brewing Co.)",
         "City": "Charlottetown",
         "Province": "PEI",
         "URL": "http://www.gahan.ca/",
@@ -2964,7 +2964,7 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
-    }
+    },
     {
       "type": "Feature",
       "geometry": {
