@@ -413,6 +413,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -67.607544,
+          46.454372
+        ]
+      },
+      "properties": {
+        "Name": "Railcar Brewing",
+        "City": "Florenceville-Bristol",
+        "Province": "NB",
+        "URL": "http://railcarbrewing.com/",
+        "Opening": "Unknown",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffAA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.095009,
           49.267239
         ]

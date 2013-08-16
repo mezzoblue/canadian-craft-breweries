@@ -46,6 +46,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.789215,
+          46.089874
+        ]
+      },
+      "properties": {
+        "Name": "Acadie-Broue",
+        "AKA": "(aka Laundromat Espresso Bar)",
+        "City": "Moncton",
+        "Province": "NB",
+        "Facebook": "https://www.facebook.com/pages/Acadie-Broue/176759632361301",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.487991,
           53.495293
         ]
@@ -233,6 +252,25 @@
         "URL": "http://www.barleystation.com/",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.495335,
+          46.320557
+        ]
+      },
+      "properties": {
+        "Name": "Barnone Brewing",
+        "City": "Rose Valley (no address available)",
+        "Province": "PEI",
+        "Facebook": "https://www.facebook.com/BarNone.Brewing",
+        "Twitter": "https://twitter.com/BARNONEBEER",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -497,6 +535,25 @@
         "Facebook": "http://bigsurfbeer.com/",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.060982,
+          45.271473
+        ]
+      },
+      "properties": {
+        "Name": "Big Tide Brewing",
+        "City": "Saint John",
+        "Province": "NB",
+        "URL": "http://www.bigtidebrew.com/",
+        "Facebook": "https://www.facebook.com/pages/Big-Tide-Brewing-Co/301456876447",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -1079,6 +1136,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.807076,
+          46.048847
+        ]
+      },
+      "properties": {
+        "Name": "Celtic Knot Brewing",
+        "City": "Riverview",
+        "Province": "NB",
+        "Facebook": "https://www.facebook.com/CelticKnotBrewing",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.849167,
           49.187622
         ]
@@ -1609,6 +1684,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -63.125946,
+          46.233582
+        ]
+      },
+      "properties": {
+        "Name": "The Gahan House",
+        "AKA": "(aka PEI Brewing Co.)"
+        "City": "Charlottetown",
+        "Province": "PEI",
+        "URL": "http://www.gahan.ca/",
+        "Twitter": "https://twitter.com/GahanPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.158623,
           44.326534
         ]
@@ -1704,6 +1799,25 @@
       }
     },
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.642578,
+          45.962814
+        ]
+      },
+      "properties": {
+        "Name": "Grimross Brewing Co.",
+        "City": "Fredricton",
+        "Province": "NB",
+        "URL": "http://grimross.com/",
+        "Facebook": "https://www.facebook.com/pages/Grimross-Brewing-Co/110264115801307",
+        "Twitter": "https://twitter.com/GrimrossBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -2038,9 +2152,8 @@
         "URL": "http://lowbrewco.com/",
         "Facebook": "https://www.facebook.com/lowbrewco",
         "Twitter": "https://twitter.com/lowbrewco",
-        "Type": "Unknown",
-        "marker-color": "#aaa"
-      }
+        "Type": "Brewpub",
+        "marker-color": "#00f"      }
     },
     {
       "type": "Feature",
@@ -2596,6 +2709,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -63.114815,
+          46.254921
+        ]
+      },
+      "properties": {
+        "Name": "PEI Brewing",
+        "City": "Charlottetown",
+        "Province": "PEI",
+        "URL": "http://www.peibrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/peibrewingcompany",
+        "Twitter": "https://twitter.com/PEIBrew/",
+        "Note": "Commercial brewery for Beach Chair & Gahan House brewpub",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.367401,
           48.432213
         ]
@@ -2607,6 +2741,27 @@
         "URL": "http://phillipsbeer.com/",
         "Facebook": "https://www.facebook.com/pages/Phillips-Brewery-Co/116350548424637",
         "Twitter": "https://twitter.com/phillipsbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.588669,
+          45.956432
+        ]
+      },
+      "properties": {
+        "Name": "Picaroons Traditional Ales",
+        "AKA": "Northampton Brewing Company Ltd.",
+        "City": "Fredericton",
+        "Province": "NB",
+        "URL": "http://www.picaroons.ca/",
+        "Facebook": "https://www.facebook.com/picaroons",
+        "Twitter": "https://twitter.com/picaroons",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -2629,6 +2784,26 @@
         "Twitter": "https://twitter.com/PowellBeer",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.774551,
+          46.089725
+        ]
+      },
+      "properties": {
+        "Name": "Pumphouse Brewery",
+        "City": "Moncton",
+        "Province": "NB",
+        "URL": "http://www.pumphousebrewery.ca/",
+        "Facebook": "https://www.facebook.com/PumpHouseRestaurant",
+        "Twitter": "https://twitter.com/phbrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -2770,6 +2945,26 @@
         "marker-color": "#ffaa00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.355705,
+          48.033329
+        ]
+      },
+      "properties": {
+        "Name": "Shiretown Beer",
+        "City": "Dalhousie (no address available)",
+        "Province": "NB",
+        "URL": "http://www.shiretownbeer.com/",
+        "Facebook": "https://www.facebook.com/shiretown",
+        "Twitter": "https://twitter.com/ShiretownBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    }
     {
       "type": "Feature",
       "geometry": {
