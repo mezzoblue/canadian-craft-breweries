@@ -472,6 +472,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.727,
+          45.0118
+        ]
+      },
+      "properties": {
+        "Name": "Rurban Brewing",
+        "City": "Cornwall",
+        "Province": "ON",
+        "URL": "http://www.rurbanbrewing.com/",
+        "Facebook": "https://www.facebook.com/RurbanBrewing",
+        "Twitter": "https://twitter.com/RurbanBrewing",
+        "Opening": "2014",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2215,
+          44.9603
+        ]
+      },
+      "properties": {
+        "Name": "Schoolhouse Brewery",
+        "City": "Upper Falmouth (No address available)",
+        "Province": "NS",
+        "URL": "http://www.schoolhousebrewery.ca/",
+        "Facebook": "https://www.facebook.com/RurbanBrewing",
+        "Twitter": "https://twitter.com/RurbanBrewing",
+        "Opening": "April 2014",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.250664,
           44.499657
         ]
