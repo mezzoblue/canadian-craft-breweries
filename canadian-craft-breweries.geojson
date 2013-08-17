@@ -2571,6 +2571,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.215,
+          44.51
+        ]
+      },
+      "properties": {
+        "Name": "Northwinds Brewery",
+        "City": "Collingwood (no address available)",
+        "Province": "ON",
+        "URL": "http://www.northwindsbrewery.com/",
+        "Facebook": "https://www.facebook.com/northwindsbrewery",
+        "Twitter": "https://twitter.com/Northwindsbeer",
+        "Note": "Contract brewing while awaiting permanent space.",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.268051,
           50.262253
         ]
@@ -2980,6 +3001,26 @@
         "City": "Perth",
         "Province": "ON",
         "URL": "http://www.wolfgangsbeer.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2562,
+          48.4092
+        ]
+      },
+      "properties": {
+        "Name": "Sleeping Giant Brewing Co.",
+        "City": "Thunder Bay",
+        "Province": "ON",
+        "URL": "http://www.sleepinggiantbrewing.ca/",
+        "Facebook": "https://www.facebook.com/SleepingGiantBrewingCo",
+        "Twitter": "https://twitter.com/sleepgiantbrew",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
