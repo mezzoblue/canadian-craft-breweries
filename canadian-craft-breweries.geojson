@@ -522,6 +522,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -60.890778,
+          46.090168
+        ]
+      },
+      "properties": {
+        "Name": "Big Spruce Brewing",
+        "City": "Nyanza",
+        "Province": "NS",
+        "URL": "http://www.bigspruce.ca/",
+        "Facebook": "https://www.facebook.com/BigSpruceBrewing",
+        "Twitter": "https://twitter.com/BigSpruceBrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.388885,
           50.007931
         ]
@@ -969,6 +989,26 @@
         "URL": "http://brickbeer.com/",
         "Facebook": "https://www.facebook.com/brick.brewery",
         "Twitter": "https://twitter.com/Brickbrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.593353,
+          44.655109
+        ]
+      },
+      "properties": {
+        "Name": "Bridge Brewing Co.",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://bridgebeer.ca/",
+        "Facebook": "https://www.facebook.com/BridgeBrewing",
+        "Twitter": "https://twitter.com/bridgebrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1723,6 +1763,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -63.617271,
+          44.664295
+        ]
+      },
+      "properties": {
+        "Name": "Garrison Brewing Co.",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.garrisonbrewing.com/",
+        "Facebook": "https://www.facebook.com/garrisonbrewing",
+        "Twitter": "https://twitter.com/GarrisonBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.31321,
           43.35107
         ]
@@ -1734,6 +1794,25 @@
         "URL": "http://grandriverbrewing.com/",
         "Facebook": "https://www.facebook.com/pages/Grand-River-Brewing/131494183542014",
         "Twitter": "https://twitter.com/GrandRiverBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.574017,
+          44.646767
+        ]
+      },
+      "properties": {
+        "Name": "Granite Brewery",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.granitebreweryhalifax.ca/",
+        "Twitter": "https://twitter.com/granitebrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1874,6 +1953,46 @@
         "URL": "http://www.halfpintsbrewing.com/",
         "Facebook": "https://www.facebook.com/HalfPintsBrewCo",
         "Twitter": "https://twitter.com/HalfPintsBrewCo",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.573395,
+          44.649944
+        ]
+      },
+      "properties": {
+        "Name": "Hart & Thistle Gastropub and Brewery",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.hartandthistle.com/",
+        "Facebook": "https://www.facebook.com/pages/Hart-Thistle-Gastropub-Brewery/172330196160585",
+        "Twitter": "https://twitter.com/HartandThistle",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7177,
+          44.0385
+        ]
+      },
+      "properties": {
+        "Name": "Hell Bay Brewing Co.",
+        "City": "Liverpool",
+        "Province": "NS",
+        "URL": "http://www.hellbaybrewing.com/",
+        "Facebook": "https://www.facebook.com/Hellbaybrewing",
+        "Twitter": "https://twitter.com/HellBayBrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -2792,6 +2911,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.407349,
+          45.096249
+        ]
+      },
+      "properties": {
+        "Name": "The Port Pub",
+        "AKA": "Sea Level Brewing",
+        "City": "Port Williams",
+        "Province": "NS",
+        "URL": "http://www.theportpub.com/",
+        "Facebook": "https://www.facebook.com/ThePortPub",
+        "Twitter": "https://twitter.com/PortPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.068481,
           49.284187
         ]
@@ -2805,6 +2945,25 @@
         "Twitter": "https://twitter.com/PowellBeer",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.581409,
+          44.65081
+        ]
+      },
+      "properties": {
+        "Name": "Propeller Brewing",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.drinkpropeller.ca/",
+        "Twitter": "https://twitter.com/PropellerBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -2845,6 +3004,26 @@
         "Twitter": "https://twitter.com/railwaycity",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.498142,
+          45.391701
+        ]
+      },
+      "properties": {
+        "Name": "Rare Bird Pub & Eatery",
+        "City": "Guysborough",
+        "Province": "NS",
+        "URL": "http://www.rarebirdpub.com/",
+        "Facebook": "https://www.facebook.com/rarebirdpub",
+        "Twitter": "https://twitter.com/rarebirdpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -2902,6 +3081,65 @@
         "City": "Osoyoos",
         "Province": "BC",
         "URL": "http://www.westridgeinn.com/index.php/restaurant/brewery",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578945,
+          44.642376
+        ]
+      },
+      "properties": {
+        "Name": "Rockbottom Brew Pub",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://rockbottombrewpub.ca/",
+        "Facebook": "https://www.facebook.com/RockbottomBrewpubRestaurant",
+        "Twitter": "https://twitter.com/rockbotmbrewpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575542,
+          44.643475
+        ]
+      },
+      "properties": {
+        "Name": "Rogues Roost Brew Pub",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.roguesroost.ca/",
+        "Facebook": "https://www.facebook.com/RoguesRoost",
+        "Twitter": "https://twitter.com/Rogues_Roost",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.121666,
+          43.836666
+        ]
+      },
+      "properties": {
+        "Name": "Rudders Restaurant & Brew Pub",
+        "City": "Yarmouth",
+        "Province": "NS",
+        "URL": "http://www.ruddersbrewpub.com/",
+        "Facebook": "https://www.facebook.com/pages/Rudders-Seafood-Restaurant-Brew-Pub/350257900009",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
