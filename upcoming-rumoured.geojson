@@ -632,6 +632,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -61.991436,
+          45.622734
+        ]
+      },
+      "properties": {
+        "Name": "The Townhouse Brewpub & Eatery",
+        "City": "Antigonish",
+        "Province": "NS",
+        "URL": "http://antigonishtownhouse.blogspot.ca/",
+        "Facebook": "https://www.facebook.com/AntigonishTownhouse",
+        "Twitter": "https://twitter.com/toolshedbeer",
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.392494,
           48.415443
         ]

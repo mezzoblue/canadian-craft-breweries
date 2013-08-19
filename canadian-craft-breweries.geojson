@@ -381,6 +381,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.61953,
+          52.114456
+        ]
+      },
+      "properties": {
+        "Name": "Beily's Ultralounge",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.beilys.ca/",
+        "Facebook": "https://www.facebook.com/pages/Beilys-Ultralounge/148317558539210?fref=ts",
+        "Twitter": "https://twitter.com/beilyssaskatoon",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.273369,
           43.138462
         ]
@@ -652,6 +672,26 @@
         "Facebook": "https://www.facebook.com/BonzzinisBrewPub?rf=129459827088391",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.338722,
+          43.777214
+        ]
+      },
+      "properties": {
+        "Name": "Boxing Rock Brewing Co.",
+        "City": "Shelburne",
+        "Province": "NS",
+        "URL": "http://boxingrock.ca/",
+        "Facebook": "https://www.facebook.com/boxingrock",
+        "Twitter": "https://twitter.com/boxingrockbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1087,6 +1127,23 @@
         "URL": "http://www.bushwakker.com/",
         "Facebook": "https://www.facebook.com/TheBushwakker",
         "Twitter": "https://twitter.com/thebushwakker",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.353432,
+          48.058784
+        ]
+      },
+      "properties": {
+        "Name": "Café Artisan & Brewpub",
+        "City": "Dalhousie",
+        "Province": "NB",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -2809,6 +2866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.36306,
+          45.091438
+        ]
+      },
+      "properties": {
+        "Name": "Paddy's Brewpub",
+        "City": "Wolfville",
+        "Province": "NS",
+        "URL": "http://www.paddyspub.ca/",
+        "Facebook": "https://www.facebook.com/pages/Paddys-Pub-Rosies-Restaurant/204366802909265",
+        "Twitter": "https://twitter.com/paddysbrew",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.064217,
           49.283836
         ]
@@ -3209,13 +3286,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.355705,
-          48.033329
+          -66.3536,
+          48.0588
         ]
       },
       "properties": {
         "Name": "Shiretown Beer",
-        "City": "Dalhousie (no address available)",
+        "AKA": "Café Artisan Brewpub",
+        "City": "Dalhousie",
         "Province": "NB",
         "URL": "http://www.shiretownbeer.com/",
         "Facebook": "https://www.facebook.com/shiretown",
@@ -3597,6 +3675,26 @@
         "URL": "http://www.treebeer.com/",
         "Facebook": "https://www.facebook.com/tree.brewing",
         "Twitter": "https://twitter.com/TreeBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.768284,
+          45.675213
+        ]
+      },
+      "properties": {
+        "Name": "Uncle Leo's Brewery",
+        "City": "Pictou",
+        "Province": "NS",
+        "URL": "http://uncleleosbrewery.ca/",
+        "Facebook": "https://www.facebook.com/UncleLeosBrewery",
+        "Twitter": "https://twitter.com/UncleLeosBrewer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
