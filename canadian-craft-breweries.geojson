@@ -3068,6 +3068,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -52.676315,
+          47.581375
+        ]
+      },
+      "properties": {
+        "Name": "Quidi Vidi Brewing Co.",
+        "City": "St. John’s",
+        "Province": "NL",
+        "URL": "http://www.quidividibrewery.ca/",
+        "Facebook": "https://www.facebook.com/quidi.brewery",
+        "Twitter": "https://www.facebook.com/quidi.brewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.191681,
           42.779613
         ]
@@ -3504,6 +3524,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -52.807652,
+          47.520607
+        ]
+      },
+      "properties": {
+        "Name": "Storm Brewing",
+        "City": "Mt. Pearl (no address available)",
+        "Province": "NL",
+        "URL": "http://www.stormbrewing.ca/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.070175,
           49.282001
         ]
@@ -3894,6 +3932,26 @@
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/yaletown.html",
         "Twitter": "https://twitter.com/YBC_brewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.709717,
+          47.562141
+        ]
+      },
+      "properties": {
+        "Name": "Yellowbelly Brewery & Pub",
+        "City": "St. John's",
+        "Province": "NL",
+        "URL": "http://www.yellowbellybrewery.com/",
+        "Facebook": "https://www.facebook.com/groups/35532264570/",
+        "Twitter": "https://twitter.com/Yellowbellybrew",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
