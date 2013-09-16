@@ -2455,6 +2455,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.75339,
+          46.54025
+        ]
+      },
+      "properties": {
+        "Name": "Le Trou du Diable",
+        "City": "Shawnigan",
+        "Province": "QC",
+        "URL": "http://www.troududiable.com/",
+        "Facebook": "https://www.facebook.com/ShopTdd",
+        "Twitter": "https://twitter.com/troududiable",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.28,
           43.6
         ]
@@ -2586,6 +2606,26 @@
         "URL": "http://www.maguiresbrewpub.com/",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5218,
+          47.4462
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Charlevoix",
+        "City": "Baie-Saint-Paul",
+        "Province": "QC",
+        "URL": "http://www.microbrasserie.com/",
+        "Facebook": "https://www.facebook.com/microbrasseriecharlevoix",
+        "Twitter": "https://twitter.com/microbrasserie",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
