@@ -26,6 +26,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.0033,
+          46.4896
+        ]
+      },
+      "properties": {
+        "Name": "Northern Breweries",
+        "City": "Sudbury",
+        "Province": "ON",
+        "URL": "http://en.wikipedia.org/wiki/Northern_Breweries",
+        "Closed": "December 2006",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -127.157089,
           54.775845
         ]
@@ -33,7 +52,7 @@
       "properties": {
         "Name": "Plan B Brewing",
         "City": "Smithers",
-        "Province": "BC ",
+        "Province": "BC",
         "URL": "http://www.planbbrewing.com/",
         "Closed": "January 2013",
         "Type": "Nanobrewery",
