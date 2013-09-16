@@ -699,6 +699,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5908,
+          45.468
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie McAuslan",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://mcauslan.com/",
+        "Facebook": "https://facebook.com/bierestambroise",
+        "Twitter": "https://twitter.com/bierestambroise",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.0746,
           51.042652
         ]
@@ -1387,6 +1407,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.29,
+          43.6
+        ]
+      },
+      "properties": {
+        "Name": "Collective Arts",
+        "City": "No Fixed Address",
+        "Province": "ON",
+        "URL": "http://collectiveartsbrewing.com/",
+        "Facebook": "https://www.facebook.com/collectiveartsbrewing",
+        "Twitter": "https://twitter.com/CollectiveBrew",
+        "Type": "Gypsy Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.055603,
           43.826794
         ]
@@ -1516,6 +1556,22 @@
         "Twitter": "https://twitter.com/DeepCoveCraft",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.593353,
+          45.522633
+        ]
+      },
+      "properties": {
+        "Name": "Dieu du Ciel",
+        "City": "Montreal",
+        "Province": "QC",
+        "URL": "http://dieuduciel.com/"
       }
     },
     {
@@ -2118,6 +2174,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.7152,
+          43.6868
+        ]
+      },
+      "properties": {
+        "Name": "Hop City Brewing Co.",
+        "City": "Brampton",
+        "Province": "ON",
+        "URL": "http://www.hopcity.com/",
+        "Facebook": "http://www.facebook.com/pages/Hop-City-Brewing-Co/114800141891117",
+        "Twitter": "https://twitter.com/hopcitybrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.656601,
           52.118683
         ]
@@ -2355,8 +2431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.260178,
-          43.632099
+          -79.28,
+          43.6
         ]
       },
       "properties": {
@@ -3346,6 +3422,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.26078,
+          45.441292
+        ]
+      },
+      "properties": {
+        "Name": "Sleeman Unibroue Inc.",
+        "City": "Chambly",
+        "Province": "QC",
+        "URL": "http://www.unibroue.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -89.2562,
           48.4092
         ]
@@ -3378,6 +3470,27 @@
         "Twitter": "https://twitter.com/SlowPub",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3,
+          43.6
+        ]
+      },
+      "properties": {
+        "Name": "Spearhead Brewing Company",
+        "City": "Toronto",
+        "Province": "ON (no address available)",
+        "URL": "http://spearheadbeer.com/",
+        "Facebook": "http://facebook.com/SpearheadBrewingCompany",
+        "Twitter": "https://twitter.com/SpearheadBeer",
+        "Note": "Most likely a contract brewer.",
+        "Type": "Contract Brewer",
+        "marker-color": "#f00"
       }
     },
     {
