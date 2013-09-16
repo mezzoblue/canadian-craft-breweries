@@ -1563,15 +1563,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.593353,
-          45.522633
+          -74.002,
+          45.7759
         ]
       },
       "properties": {
         "Name": "Dieu du Ciel",
-        "City": "Montreal",
+        "City": "Saint-Jérôme",
         "Province": "QC",
-        "URL": "http://dieuduciel.com/"
+        "URL": "http://dieuduciel.com/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-Dieu-du-ciel/104295439644026",
+        "Twitter": "https://twitter.com/Brasseries_DDC",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -3430,7 +3434,11 @@
         "Name": "Sleeman Unibroue Inc.",
         "City": "Chambly",
         "Province": "QC",
-        "URL": "http://www.unibroue.com/"
+        "URL": "http://www.unibroue.com/",
+        "Facebook": "https://www.facebook.com/unibroue",
+        "Twitter": "https://twitter.com/unibroue",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
