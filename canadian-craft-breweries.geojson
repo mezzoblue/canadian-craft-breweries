@@ -46,6 +46,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.5634,
+          46.72545
+        ]
+      },
+      "properties": {
+        "Name": "À la Fût",
+        "City": "Saint-Tite",
+        "Province": "QC",
+        "URL": "http://www.alafut.qc.ca/",
+        "Facebook": "https://www.facebook.com/microbrasserie.a.la.fut",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.789215,
           46.089874
         ]
@@ -690,6 +709,26 @@
         "URL": "http://boxingrock.ca/",
         "Facebook": "https://www.facebook.com/boxingrock",
         "Twitter": "https://twitter.com/boxingrockbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8005,
+          45.1305
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Dunham",
+        "City": "Dunham",
+        "Province": "QC",
+        "URL": "http://www.brasseriedunham.com/",
+        "Facebook": "https://www.facebook.com/brasseriedunham1",
+        "Twitter": "https://twitter.com/BrasserieDunham",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
