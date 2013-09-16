@@ -1563,6 +1563,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5933,
+          45.5226
+        ]
+      },
+      "properties": {
+        "Name": "Dieu du Ciel",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://dieuduciel.com/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-Dieu-du-ciel/104295439644026",
+        "Twitter": "https://twitter.com/Brasseries_DDC",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.002,
           45.7759
         ]
