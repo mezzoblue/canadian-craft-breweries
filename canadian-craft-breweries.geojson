@@ -182,6 +182,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.429,
+          46.8651
+        ]
+      },
+      "properties": {
+        "Name": "Archibald Microbrasserie",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.archibaldmicrobrasserie.ca/",
+        "Facebook": "https://www.facebook.com/pages/Archibald-microbrasserie/139558206059621",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.028328,
           50.504578
         ]
@@ -212,6 +231,26 @@
         "URL": "http://www.banffavebrewingco.ca/",
         "Facebook": "https://www.facebook.com/banffavebrewing",
         "Twitter": "https://twitter.com/banffavebrewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2181,
+          46.8181
+        ]
+      },
+      "properties": {
+        "Name": "La Barberie",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.labarberie.com/",
+        "Facebook": "https://www.facebook.com/labarberie",
+        "Twitter": "https://twitter.com/labarberie",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -2395,6 +2434,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.21608,
+          46.8064
+        ]
+      },
+      "properties": {
+        "Name": "L'Inox",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.inox.qc.ca/",
+        "Facebook": "https://www.facebook.com/barlinox",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.081078,
           52.874615
         ]
@@ -2508,6 +2566,25 @@
         "Twitter": "https://twitter.com/kingbrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22683,
+          46.81383
+        ]
+      },
+      "properties": {
+        "Name": "La Korrigane",
+        "City": "Nobleton",
+        "Province": "ON",
+        "URL": "http://www.korrigane.ca/",
+        "Facebook": "https://www.facebook.com/LaKorrigane",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -2731,6 +2808,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.943,
+          47.01615
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie des Beaux-Prés",
+        "City": "Sainte-Anne-de-Beaupré",
+        "Province": "QC",
+        "URL": "http://mdbp.ca/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Des-Beaux-Prés-Page-officielle/253036521387756",
+        "Twitter": "https://twitter.com/mbeaux",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.5218,
           47.4462
         ]
@@ -2744,6 +2841,26 @@
         "Twitter": "https://twitter.com/microbrasserie",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9634,
+          46.97259
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie de l'Île d’Orléans",
+        "AKA": "Pub Le Mitan",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.microorleans.com/",
+        "Facebook": "https://www.facebook.com/microorleans",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -3245,6 +3362,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.439,
+          46.7744
+        ]
+      },
+      "properties": {
+        "Name": "Phil et Auré Brasseurs",
+        "City": "Armagh",
+        "Province": "QC",
+        "URL": "http://www.biere-lyon.ca/",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.367401,
           48.432213
         ]
@@ -3694,6 +3829,25 @@
         "Province": "SK",
         "URL": "http://slowpub.com/wordpress/",
         "Twitter": "https://twitter.com/SlowPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22576,
+          46.82882
+        ]
+      },
+      "properties": {
+        "Name": "La Souche Brasserie Artisinale",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.lasouche.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-Artisanale-La-Souche/192214074206829",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }

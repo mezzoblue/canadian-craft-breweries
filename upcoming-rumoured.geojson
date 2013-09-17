@@ -87,6 +87,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.074753,
+          49.277508
+        ]
+      },
+      "properties": {
+        "Name": "Bomber Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.bomberbrewing.com/",
+        "Facebook": "https://www.facebook.com/bomberbrewing",
+        "Twitter": "https://twitter.com/BomberBrewing",
+        "Opening": "November 2013",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.100594,
           49.265804
         ]
@@ -100,6 +121,24 @@
         "Opening": "Fall 2013",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3188,
+          46.8902
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Générale",
+        "City": "Québec",
+        "Province": "QC",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
@@ -122,27 +161,6 @@
         "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.074753,
-          49.277508
-        ]
-      },
-      "properties": {
-        "Name": "Bomber Brewing",
-        "City": "Vancouver",
-        "Province": "BC",
-        "URL": "http://www.bomberbrewing.com/",
-        "Facebook": "https://www.facebook.com/bomberbrewing",
-        "Twitter": "https://twitter.com/BomberBrewing",
-        "Opening": "November 2013",
-        "Type": "Brewery",
-        "marker-color": "#f00"
       }
     },
     {
@@ -683,7 +701,7 @@
         "Twitter": "https://twitter.com/wheelhousebeer",
         "Opening": "Late 2013",
         "Type": "Unknown",
-        "marker-color": "#ffaa00"
+        "marker-color": "#aaa"
       }
     },
     {
