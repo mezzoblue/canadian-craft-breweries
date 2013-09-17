@@ -46,6 +46,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -61.950,
+          47.348
+        ]
+      },
+      "properties": {
+        "Name": "À L'Abri de la Tempête",
+        "City": "L'Étang-du-Nord",
+        "Province": "QC",
+        "URL": "http://www.alabridelatempete.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.5634,
           46.72545
         ]
@@ -749,6 +767,47 @@
         "URL": "http://mcauslan.com/",
         "Facebook": "https://facebook.com/bierestambroise",
         "Twitter": "https://twitter.com/bierestambroise",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8879,
+          45.6635
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Nord",
+        "AKA": "Boréale",
+        "City": "Blainville",
+        "Province": "QC",
+        "URL": "http://www.boreale.com/",
+        "Facebook": "https://www.facebook.com/BiereBoreale",
+        "Twitter": "https://twitter.com/BiereBoreale",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7269,
+          45.4298
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Temps",
+        "City": "Gatineau",
+        "Province": "QC",
+        "URL": "http://www.brasseursdutemps.com/",
+        "Facebook": "https://www.facebook.com/LesBrasseursDuTemps",
+        "Twitter": "https://twitter.com/BrasseursDT",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -2683,6 +2742,26 @@
         "URL": "http://www.microbrasserie.com/",
         "Facebook": "https://www.facebook.com/microbrasseriecharlevoix",
         "Twitter": "https://twitter.com/microbrasserie",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7826,
+          48.4906
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie du Lac Saint-Jean",
+        "City": "St-Gédéon",
+        "Province": "QC",
+        "URL": "http://www.microdulac.com/",
+        "Facebook": "https://www.facebook.com/groups/21372176423/",
+        "Twitter": "https://twitter.com/Microdulac",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
