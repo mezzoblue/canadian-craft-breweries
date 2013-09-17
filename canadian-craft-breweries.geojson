@@ -1743,6 +1743,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.770149,
+          49.512951
+        ]
+      },
+      "properties": {
+        "Name": "Fisher Peak Brewing Co.",
+        "AKA": "The Heid Out Restaurant & Brewpub",
+        "City": "Cranbrook",
+        "Province": "BC",
+        "Facebook": "https://www.facebook.com/TheHeidOutRestaurantAndBrewhouse",
+        "Note": "From Dave Beardsell of Noble Pig / Bear Brewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.686821,
           44.38924
         ]

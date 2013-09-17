@@ -7,6 +7,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.4933,
+          52.9757
+        ]
+      },
+      "properties": {
+        "Name": "Barkerville Brewing",
+        "City": "Quesnel",
+        "Province": "BC",
+        "URL": "http://www.stakeyourclaim.ca/",
+        "Facebook": "https://www.facebook.com/BarkervilleBeer",
+        "Opening": "December 2013",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.663,
           44.3668
         ]
@@ -120,7 +140,7 @@
         "URL": "http://www.bomberbrewing.com/",
         "Facebook": "https://www.facebook.com/bomberbrewing",
         "Twitter": "https://twitter.com/BomberBrewing",
-        "Opening": "Unknown",
+        "Opening": "November 2013",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -156,9 +176,9 @@
       "properties": {
         "Name": "Comox Glacier Brewing",
         "City": "Comox",
-        "Province": "BC (Coming Soon)",
+        "Province": "BC",
         "Facebook": "https://www.facebook.com/ComoxBREWING",
-        "Opening": "Unknown",
+        "Opening": "Late 2014",
         "Type": "Unknown",
         "marker-color": "#aaa"
       }
@@ -247,27 +267,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.770149,
-          49.512951
-        ]
-      },
-      "properties": {
-        "Name": "Fisher Peak Brewing Co.",
-        "AKA": "The Heid Out Restaurant & Brewpub",
-        "City": "Cranbrook",
-        "Province": "BC",
-        "Facebook": "https://www.facebook.com/TheHeidOutRestaurantAndBrewhouse",
-        "Note": "From Dave Beardsell of Noble Pig / Bear Brewing",
-        "Opening": "Unknown",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -123.434654,
           48.452576
         ]
@@ -278,7 +277,7 @@
         "Province": "BC",
         "URL": "http://fourmilehouse.com/",
         "Facebook": "https://www.facebook.com/pages/Four-Mile-Bar-Grill-and-Liquor-Store/201998693162305",
-        "Opening": "Unknown",
+        "Opening": "Nov 1st 2013",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -561,6 +560,26 @@
         "Province": "ON",
         "URL": "http://www.redfalconale.ca/",
         "Facebook": "https://www.facebook.com/StouffvilleBrewingCompany",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.250778,
+          43.978333
+        ]
+      },
+      "properties": {
+        "Name": "Surlie Brewing",
+        "City": "Abbotsford",
+        "Province": "BC",
+        "Facebook": "https://www.facebook.com/surlie.brewing",
+        "Opening": "November 2013",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -578,7 +597,8 @@
         "Name": "Three Ranges Brewing Co.",
         "City": "Valemount",
         "Province": "BC",
-        "Opening": "Unknown",
+        "URL": "http://threeranges.com/",
+        "Opening": "November 2013",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
       }
@@ -661,7 +681,7 @@
         "URL": "http://www.wheelhousebrewing.com/",
         "Facebook": "https://www.facebook.com/wheelhousebrewing",
         "Twitter": "https://twitter.com/wheelhousebeer",
-        "Opening": "Unknown",
+        "Opening": "Late 2013",
         "Type": "Unknown",
         "marker-color": "#ffaa00"
       }
