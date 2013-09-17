@@ -3126,6 +3126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.5083,
+          49.4267
+        ]
+      },
+      "properties": {
+        "Name": "Persephone Brewing",
+        "City": "Gibsons",
+        "Province": "BC (no address available)",
+        "URL": "http://persephonebrewing.com/",
+        "Facebook": "https://www.facebook.com/PersephoneBrewing",
+        "Twitter": "https://twitter.com/Persephonebeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.367401,
           48.432213
         ]

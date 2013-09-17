@@ -370,28 +370,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.491478,
-          49.399803
-        ]
-      },
-      "properties": {
-        "Name": "Persephone Brewing",
-        "City": "Gibsons",
-        "Province": "BC (no address available)",
-        "URL": "http://persephonebrewing.com/",
-        "Facebook": "https://www.facebook.com/PersephoneBrewing",
-        "Twitter": "https://twitter.com/Persephonebeer",
-        "Note": "Upcoming brewery from Vancouver restauranteer Mark Brand",
-        "Opening": "Imminent",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -97.144562,
           49.89349
         ]
