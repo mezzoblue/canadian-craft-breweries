@@ -1432,7 +1432,29 @@
         ]
       },
       "properties": {
-        "Name": "Central City Brewpub / Red Racer",
+        "Name": "Central City Brewpub",
+        "City": "Surrey",
+        "Province": "BC",
+        "URL": "http://centralcitybrewing.com/",
+        "Facebook": "https://www.facebook.com/CentralCityBrewing",
+        "Twitter": "https://twitter.com/CentralCityBrew",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8619,
+          49.21187
+        ]
+      },
+      "properties": {
+        "Name": "Central City Brewers & Distillers",
+        "AKA": "Red Racer",
+        "AKA": "Red Betty",
         "City": "Surrey",
         "Province": "BC",
         "URL": "http://centralcitybrewing.com/",
