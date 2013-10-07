@@ -1312,23 +1312,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.353432,
-          48.058784
-        ]
-      },
-      "properties": {
-        "Name": "Café Artisan & Brewpub",
-        "City": "Dalhousie",
-        "Province": "NB",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.677017,
           43.475094
         ]
@@ -3851,8 +3834,8 @@
         "URL": "http://www.shiretownbeer.com/",
         "Facebook": "https://www.facebook.com/shiretown",
         "Twitter": "https://twitter.com/ShiretownBeer",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
