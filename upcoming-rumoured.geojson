@@ -108,19 +108,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.100594,
-          49.265804
+          -78.6969,
+          45.0468
         ]
       },
       "properties": {
-        "Name": "Brassneck Brewery",
-        "City": "Vancouver",
-        "Province": "BC",
-        "URL": "http://brassneck.ca/",
-        "Twitter": "https://twitter.com/Brassneckbrew",
-        "Opening": "Fall 2013",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "Name": "Boshkung Brewing",
+        "AKA": "Rhubarb Restaurant",
+        "City": "Carnarvon",
+        "Province": "ON",
+        "URL": "http://rhubarbhaliburton.com/Rhubarb/Rhubarb.html",
+        "Opening": "2014",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -180,6 +180,26 @@
         "Opening": "Unknown",
         "Type": "Gypsy Brewer",
         "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1808,
+          44.492
+        ]
+      },
+      "properties": {
+        "Name": "The Collingwood Brewery",
+        "City": "Collingwood",
+        "Province": "ON",
+        "Facebook": "https://www.facebook.com/TheCollingwoodBrewery",
+        "Twitter": "https://twitter.com/CollingwoodBeer",
+        "Opening": "Late 2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -387,6 +407,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.9438,
+          44.1042
+        ]
+      },
+      "properties": {
+        "Name": "Old Flame Brewing",
+        "City": "Port Perry",
+        "Province": "ON",
+        "URL": "http://www.durhamregion.com/news-story/4125715-old-flame-brewing-co-rekindles-old-port-perry-lcbo-site/",
+        "Twitter": "https://twitter.com/OldFlameBrewery",
+        "Opening": "2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.144562,
           49.89349
         ]
@@ -547,6 +587,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.9274,
+          49.2018
+        ]
+      },
+      "properties": {
+        "Name": "Steel & Oak Brewing",
+        "City": "New Westminster",
+        "Province": "BC",
+        "URL": "http://steelandoak.ca/",
+        "Facebook": "https://www.facebook.com/steelandoak",
+        "Twitter": "https://twitter.com/SteelAndOak",
+        "Opening": "2014",
+        "Type": "Brewery",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.102898,
           49.269501
         ]
@@ -555,9 +616,8 @@
         "Name": "Steel Toad Brewing",
         "City": "Vancouver",
         "Province": "BC",
-        "Opening": "February 2014",
         "Note": "Liquor license application posted April 2013",
-        "Opening": "Unknown",
+        "Opening": "February 2014",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -658,7 +718,6 @@
         "Province": "NS",
         "URL": "http://antigonishtownhouse.blogspot.ca/",
         "Facebook": "https://www.facebook.com/AntigonishTownhouse",
-        "Twitter": "https://twitter.com/toolshedbeer",
         "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
@@ -721,25 +780,6 @@
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.187775,
-          44.492573
-        ]
-      },
-      "properties": {
-        "Name": "Unnamed Collingwood Brewery",
-        "City": "Collingwood",
-        "Province": "ON",
-        "URL": "http://www.bayshorebroadcasting.ca/news_item.php?NewsID=55774",
-        "Opening": "Unknown",
-        "Type": "Unknown",
-        "marker-color": "#aaa"
       }
     },
     {

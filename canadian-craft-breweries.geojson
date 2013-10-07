@@ -856,6 +856,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.100594,
+          49.265804
+        ]
+      },
+      "properties": {
+        "Name": "Brassneck Brewery",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://brassneck.ca/",
+        "Twitter": "https://twitter.com/Brassneckbrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.0746,
           51.042652
         ]
@@ -1740,6 +1759,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.6034,
+          50.4567
+        ]
+      },
+      "properties": {
+        "Name": "District Brewing",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://districtbrewing.ca/",
+        "Facebook": "https://www.facebook.com/DistrictBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.131378,
           49.269356
         ]
@@ -2070,6 +2108,26 @@
         "Twitter": "https://twitter.com/GarrisonBrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0206,
+          45.3437
+        ]
+      },
+      "properties": {
+        "Name": "Georgian Lanes",
+        "City": "Parry Sound",
+        "Province": "ON",
+        "URL": "http://www.georgianlanes.com/",
+        "Facebook": "https://www.facebook.com/groups/122108074476204/",
+        "Twitter": "https://twitter.com/georgianlanes",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -3362,6 +3420,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.2702,
+          44.9065
+        ]
+      },
+      "properties": {
+        "Name": "Perth Brewery",
+        "City": "Perth",
+        "Province": "ON",
+        "URL": "http://perthbrewery.ca/",
+        "Facebook": "https://www.facebook.com/PerthBrewery",
+        "Twitter": "https://twitter.com/PerthBrewery",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.439,
           46.7744
         ]
@@ -4076,6 +4154,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.320648,
+          43.53336
+        ]
+      },
+      "properties": {
+        "Name": "Sweetgrass Brewing",
+        "City": "Guelph",
+        "Province": "ON",
+        "Note": "Contract brewing at Wellington",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.64164,
           50.496014
         ]
@@ -4134,8 +4230,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.123657,
-          50.981022
+          -122.468857,
+          49.0977
         ]
       },
       "properties": {
