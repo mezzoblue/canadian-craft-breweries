@@ -240,6 +240,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.4851,
+          45.8831
+        ]
+      },
+      "properties": {
+        "Name": "Bar Centre Ale Artisan Brasseur",
+        "City": "Drummondville",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/Bar-Centre-Ale-Artisan-Brasseur-inc/461298350588237",
+        "Twitter": "https://twitter.com/labarberie",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.2181,
           46.8181
         ]
@@ -3154,6 +3174,25 @@
         "City": "Revelstoke",
         "Province": "BC",
         "URL": "http://www.mt-begbie.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9428,
+          45.8807
+        ]
+      },
+      "properties": {
+        "Name": "Multi-Brasses",
+        "City": "Tingwick",
+        "Province": "QC",
+        "URL": "http://www.multi-brasses.com/",
+        "Twitter": "https://twitter.com/MuskokaBrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
