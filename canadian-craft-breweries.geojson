@@ -477,6 +477,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.13,
+          48.56
+        ]
+      },
+      "properties": {
+        "Name": "Belghe Brasse",
+        "AKA": "Mons Beer",
+        "City": "Amos",
+        "Province": "QC",
+        "URL": "http://www.monsbeer.com/",
+        "Facebook": "https://www.facebook.com/MonsBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.273369,
           43.138462
         ]
@@ -529,6 +549,26 @@
         "URL": "http://beyondthepale.ca/",
         "Facebook": "https://www.facebook.com/BeyondThePaleBrewingCompany",
         "Twitter": "https://twitter.com/BTPBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5235,
+          48.4533
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Artisinale Le Bien, le Malt",
+        "City": "Rimouski",
+        "Province": "QC",
+        "URL": "http://lebienlemalt.com/",
+        "Facebook": "https://www.facebook.com/leBienleMalt",
+        "Twitter": "https://twitter.com/leBienleMalt",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -866,6 +906,24 @@
         "Province": "BC",
         "URL": "http://brassneck.ca/",
         "Twitter": "https://twitter.com/Brassneckbrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8677,
+          47.56644
+        ]
+      },
+      "properties": {
+        "Name": "Breughel à Kamouraska",
+        "City": "Kamouraska",
+        "Province": "QC",
+        "URL": "http://www.breughel.com/",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1372,6 +1430,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -67.4341,
+          48.4656
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie La Captive",
+        "City": "Amqui",
+        "Province": "QC",
+        "URL": "http://www.lacaptive.ca/",
+        "Facebook": "https://www.facebook.com/la.captive",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.086639,
           45.312817
         ]
@@ -1823,6 +1900,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -67.5297,
+          48.846
+        ]
+      },
+      "properties": {
+        "Name": "À la Fabrique",
+        "AKA": "Coopérative Le Cabestan",
+        "City": "Matane",
+        "Province": "QC",
+        "URL": "http://www.publafabrique.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.131187,
           49.86129
         ]
@@ -1999,6 +2095,25 @@
         "Twitter": "https://twitter.com/FourWindsBrewCo",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5372,
+          47.834
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie aux Fous Brassant",
+        "City": "Rivière-du-Loup",
+        "Province": "QC",
+        "URL": "http://www.auxfousbrassant.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Aux-Fous-Brassant/332016783504124",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
@@ -4307,6 +4422,25 @@
         "URL": "http://www.treebeer.com/",
         "Facebook": "https://www.facebook.com/tree.brewing",
         "Twitter": "https://twitter.com/TreeBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0196,
+          48.2152
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Trèfle Noir",
+        "City": "Rouyn-Noranda",
+        "Province": "QC",
+        "URL": "http://www.letreflenoir.com/",
+        "Facebook": "https://www.facebook.com/groups/83179587033/",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
