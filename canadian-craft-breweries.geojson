@@ -538,6 +538,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.5455,
+          46.6193
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie de Bellechase",
+        "AKA": "Pub de la Contrée",
+        "City": "Buckland",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/Pub-de-la-Contr%C3%A9e-et-Microbrasserie-de-Bellechasse/285989228202177",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.419952,
           43.647079
         ]
@@ -1685,6 +1704,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.1868,
+          46.80967
+        ]
+      },
+      "properties": {
+        "Name": "Le Corsaire",
+        "City": "Lévis",
+        "Province": "QC",
+        "URL": "http://www.corsairemicro.com/",
+        "Facebook": "https://www.facebook.com/pages/Le-Corsaire/123875674334727",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.055603,
           43.826794
         ]
@@ -2151,6 +2189,25 @@
         "Province": "SK",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7866,
+          46.485
+        ]
+      },
+      "properties": {
+        "Name": "Frampton Brasse",
+        "City": "Frampton",
+        "Province": "QC",
+        "URL": "http://www.framptonbrasse.com/",
+        "Facebook": "https://www.facebook.com/pages/Frampton-Brasse/141393719246944",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -4075,6 +4132,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.674,
+          46.1215
+        ]
+      },
+      "properties": {
+        "Name": "La Société Microbrasserie",
+        "City": "Saint Georges de Beauce",
+        "Province": "QC",
+        "URL": "http://societemicrobrasserie.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.22576,
           46.82882
         ]
@@ -4145,6 +4220,25 @@
         "URL": "http://www.spinnakers.com/",
         "Facebook": "https://www.facebook.com/pages/Spinnakers-Gastro-Brewpub/225719889304",
         "Twitter": "https://twitter.com/Spinnakers",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1527,
+          49.221
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie St-Pancrace",
+        "City": "Baie-Comeau",
+        "Province": "QC",
+        "URL": "http://www.stpancrace.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-St-Pancrace/129953120534339",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
