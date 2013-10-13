@@ -834,6 +834,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.89078,
+          45.40238
+        ]
+      },
+      "properties": {
+        "Name": "Boquébière",
+        "AKA": "Microbrasserie de Sherbrooke",
+        "City": "Sherbrook",
+        "Province": "QC",
+        "URL": "http://boquebiere.com/",
+        "Facebook": "https://www.facebook.com/boquebiere",
+        "Twitter": "https://twitter.com/Boquebiere",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -65.338722,
           43.777214
         ]
@@ -1371,6 +1392,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.6430,
+          45.3163
+        ]
+      },
+      "properties": {
+        "Name": "Micro-Brasserie le Brouemont",
+        "AKA": "formerly Le Chaudron",
+        "City": "Bromont",
+        "Province": "QC",
+        "URL": "http://www.brouemont.com/",
+        "Facebook": "https://www.facebook.com/brouemont",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -107.798874,
           50.286518
         ]
@@ -1568,6 +1609,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.5218,
+          47.4462
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Charlevoix",
+        "City": "Baie-Saint-Paul",
+        "Province": "QC",
+        "URL": "http://www.microbrasserie.com/",
+        "Facebook": "https://www.facebook.com/microbrasseriecharlevoix",
+        "Twitter": "https://twitter.com/microbrasserie",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.517242,
           43.614262
         ]
@@ -1675,6 +1736,24 @@
         "URL": "http://www.coalharbourbrewing.com/",
         "Facebook": "https://www.facebook.com/CoalHarbourBrewing",
         "Twitter": "https://twitter.com/CoalHarBrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8007,
+          45.1567
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Coaticook",
+        "City": "Coaticook",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/MicrobrasserieCoaticook",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -2511,6 +2590,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.6025,
+          45.757
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Hameau",
+        "City": "Saint-Joseph-de-Ham-Sud",
+        "Province": "QC",
+        "URL": "http://lesbrasseursduhameau.ca/",
+        "Facebook": "https://www.facebook.com/pages/Les-Brasseurs-du-Hameau/134915653193739",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -63.573395,
           44.649944
         ]
@@ -3006,6 +3104,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.8555
+          45.3662
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie le Lion d'Or",
+        "AKA": "Golden Lion Pub & Brewery",
+        "City": "Lennoxville",
+        "Province": "QC",
+        "URL": "http://www.lionlennoxville.com/",
+        "Facebook": "https://www.facebook.com/GoldenLionPubBrewery",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.035538,
           49.224449
         ]
@@ -3063,6 +3181,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.89144,
+          45.40085
+        ]
+      },
+      "properties": {
+        "Name": "La Mare du Diable",
+        "City": "Sherbrooke",
+        "Province": "QC",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15569,
+          45.26602
+        ]
+      },
+      "properties": {
+        "Name": "La Memphré Microbrasserie",
+        "City": "Magog",
+        "Province": "QC",
+        "URL": "http://www.lamic.ca/",
+        "Facebook": "https://www.facebook.com/microbrasserie.memphre",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.943,
           47.01615
         ]
@@ -3074,26 +3228,6 @@
         "URL": "http://mdbp.ca/",
         "Facebook": "https://www.facebook.com/pages/Microbrasserie-Des-Beaux-Prés-Page-officielle/253036521387756",
         "Twitter": "https://twitter.com/mbeaux",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.5218,
-          47.4462
-        ]
-      },
-      "properties": {
-        "Name": "Microbrasserie Charlevoix",
-        "City": "Baie-Saint-Paul",
-        "Province": "QC",
-        "URL": "http://www.microbrasserie.com/",
-        "Facebook": "https://www.facebook.com/microbrasseriecharlevoix",
-        "Twitter": "https://twitter.com/microbrasserie",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -4065,6 +4199,26 @@
         "URL": "http://www.shiretownbeer.com/",
         "Facebook": "https://www.facebook.com/shiretown",
         "Twitter": "https://twitter.com/ShiretownBeer",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8888,
+          45.4007
+        ]
+      },
+      "properties": {
+        "Name": "Siboire",
+        "City": "Sherbrooke",
+        "Province": "QC",
+        "URL": "http://www.siboire.ca/",
+        "Facebook": "https://www.facebook.com/Siboire",
+        "Twitter": "https://twitter.com/equipesiboire",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }

@@ -26,6 +26,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.1759,
+          45.2715
+        ]
+      },
+      "properties": {
+        "Name": "Lady of the Lake",
+        "City": "Magog",
+        "Province": "QC",
+        "URL": "http://www.bistrolady.com/",
+        "Note": "Former brewpub, no longer brewing",
+        "Closed": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.0033,
           46.4896
         ]
