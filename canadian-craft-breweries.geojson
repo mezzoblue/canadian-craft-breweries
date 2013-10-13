@@ -3756,6 +3756,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.6631,
+          52.1572
+        ]
+      },
+      "properties": {
+        "Name": "Prairie Sun Brewing",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.prairiesun.ca/",
+        "Facebook": "https://www.facebook.com/PrairieSunBrewery",
+        "Twitter": "https://twitter.com/PrairieSunBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -63.581409,
           44.65081
         ]

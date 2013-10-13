@@ -87,6 +87,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -107.75,
+          50.306
+        ]
+      },
+      "properties": {
+        "Name": "Black Bridge Brewery",
+        "City": "Swift Current",
+        "Province": "SK (no address available)",
+        "Twitter": "https://twitter.com/BLckBrgBrew",
+        "Opening": "Spring 2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.074753,
           49.277508
         ]
