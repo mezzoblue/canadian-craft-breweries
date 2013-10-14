@@ -292,7 +292,6 @@
         "marker-color": "#00f"
       }
     },
-
     {
       "type": "Feature",
       "geometry": {
@@ -309,6 +308,25 @@
         "URL": "http://www.labarberie.com/",
         "Facebook": "https://www.facebook.com/labarberie",
         "Twitter": "https://twitter.com/labarberie",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2088,
+          46.0285
+        ]
+      },
+      "properties": {
+        "Name": "Le Baril Roulant",
+        "City": "Val-David",
+        "Province": "QC",
+        "URL": "http://barilroulant.wordpress.com/",
+        "Facebook": "https://www.facebook.com/Brasserie.Artisanale.Le.Baril.Roulant",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -1976,6 +1994,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.58752,
+          46.21273
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie la Diable",
+        "AKA": "Bistro le P'Tit Caribou",
+        "City": "Mont-Tremblant",
+        "Province": "QC",
+        "URL": "http://www.microladiable.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-La-Diable/105320326197790",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.5933,
           45.5226
         ]
@@ -2449,6 +2487,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8610,
+          45.6308
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Goudale",
+        "City": "Boisbriand",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/MicrobrasserieGoudale",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.31321,
           43.35107
         ]
@@ -2846,6 +2902,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.9184,
+          45.5663
+        ]
+      },
+      "properties": {
+        "Name": "Brasseurs Illimités",
+        "City": "Saint-Eustache",
+        "Province": "QC",
+        "URL": "http://www.brasseursillimites.com/",
+        "Facebook": "https://www.facebook.com/barlinox",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.21608,
           46.8064
         ]
@@ -3113,6 +3188,25 @@
         "URL": "http://libertyvillagebeer.com/",
         "Facebook": "https://www.facebook.com/libertyvillagebeer",
         "Twitter": "https://twitter.com/libertyvilbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5133,
+          46.5492
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie du Lièvre",
+        "City": "Mont-Laurie",
+        "Province": "QC",
+        "URL": "http://www.microdulievre.com/",
+        "Facebook": "https://www.facebook.com/Microbrasseriedulievre",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -3577,6 +3671,25 @@
         "Province": "BC",
         "URL": "http://thenoblepig.ca/",
         "Twitter": "https://twitter.com/thenoblepig",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8941,
+          45.55824
+        ]
+      },
+      "properties": {
+        "Name": "Noire & Blanche Microbrasserie Restaurant",
+        "City": "Saint-Eustache",
+        "Province": "QC",
+        "URL": "http://noire-et-blanche.ca/",
+        "Facebook": "https://www.facebook.com/nebmicro",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -4244,6 +4357,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8408,
+          45.6385
+        ]
+      },
+      "properties": {
+        "Name": "Le Saint Graal (Brasserie Artisinale)",
+        "City": "Sainte-Thérèse",
+        "Province": "QC",
+        "URL": "http://www.saintgraal.ca/",
+        "Facebook": "https://www.facebook.com/pages/Le-Saint-Graal-Brasserie-artisanale/143139195698756",
+        "Twitter": "https://twitter.com/lesaintgraal",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.391693,
           44.920715
         ]
@@ -4491,6 +4624,25 @@
         "URL": "http://www.spinnakers.com/",
         "Facebook": "https://www.facebook.com/pages/Spinnakers-Gastro-Brewpub/225719889304",
         "Twitter": "https://twitter.com/Spinnakers",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5716,
+          46.1186
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Saint-Arnould",
+        "City": "Mont-Tremblant",
+        "Province": "QC",
+        "URL": "http://www.saintarnould.com/",
+        "Facebook": "https://www.facebook.com/saintarnould",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }

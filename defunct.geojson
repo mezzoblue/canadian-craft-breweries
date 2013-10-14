@@ -7,6 +7,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.33976,
+          45.656
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs Qui Fument",
+        "City": "Lachute",
+        "Province": "QC",
+        "URL": "http://www.lesbrasseursquifument.com/",
+        "Closed": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.115379,
           49.276703
         ]
