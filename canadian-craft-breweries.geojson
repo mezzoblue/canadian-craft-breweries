@@ -3412,6 +3412,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.1256,
+          48.1038
+        ]
+      },
+      "properties": {
+        "Name": "Micro-Brasserie Le Naufrageur",
+        "City": "Carleton",
+        "Province": "QC",
+        "URL": "http://www.lenaufrageur.com/",
+        "Facebook": "https://www.facebook.com/pages/microbrasserie-le-Naufrageur/142332679113613",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.290245,
           49.488274
         ]
@@ -3840,6 +3859,25 @@
         "URL": "http://www.picaroons.ca/",
         "Facebook": "https://www.facebook.com/picaroons",
         "Twitter": "https://twitter.com/picaroons",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3095,
+          48.4714
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Pit Caribou",
+        "City": "Anse-à-Beaufils",
+        "Province": "QC",
+        "URL": "http://www.pitcaribou.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Pit-Caribou/525384144158039",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -4763,6 +4801,7 @@
       },
       "properties": {
         "Name": "Uncle Leo's Brewery",
+        "AKA": "Whiffen Brewing Company",
         "City": "Pictou",
         "Province": "NS",
         "URL": "http://uncleleosbrewery.ca/",
