@@ -102,6 +102,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.4394,
+          46.0254
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Artisinale Albion",
+        "City": "Joliette",
+        "Province": "QC",
+        "URL": "http://www.brasseriealbion.com/",
+        "Facebook": "https://www.facebook.com/brasserieartisanale.albion",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4444,
+          46.0067
+        ]
+      },
+      "properties": {
+        "Name": "Micro-Brasserie l'Alchimiste",
+        "City": "Joliette",
+        "Province": "QC",
+        "URL": "http://lalchimiste.ca/",
+        "Facebook": "https://www.facebook.com/mblalchimiste",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.487991,
           53.495293
         ]
@@ -2719,6 +2757,27 @@
         "URL": "http://www.hopcity.com/",
         "Facebook": "http://www.facebook.com/pages/Hop-City-Brewing-Co/114800141891117",
         "Twitter": "https://twitter.com/hopcitybrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4314,
+          45.82215
+        ]
+      },
+      "properties": {
+        "Name": "Hopfenstark",
+        "AKA": "Brasserie Host",
+        "City": "l'Assomption",
+        "Province": "QC",
+        "URL": "http://www.hopfenstark.com/",
+        "Facebook": "https://www.facebook.com/pages/Hopfenstark-Brewery/10141119337",
+        "Twitter": "https://twitter.com/Hopfenstark",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
