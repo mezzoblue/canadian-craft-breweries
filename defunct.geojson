@@ -7,6 +7,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.76682,
+          45.55695
+        ]
+      },
+      "properties": {
+        "Name": "Braise et Houblon",
+        "City": "Laval",
+        "Province": "QC",
+        "URL": "http://www.braiseethoublon.com/",
+        "Facebook": "https://www.facebook.com/BraiseetHoublon",
+        "Closed": "2013",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.33976,
           45.656
         ]
@@ -60,7 +80,26 @@
         "marker-color": "#00f"
       }
     },
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78851,
+          45.56565
+        ]
+      },
+      "properties": {
+        "Name": "Au Maître Brasseur",
+        "AKA": "AMB",
+        "City": "Laval",
+        "Province": "QC",
+        "URL": "http://www.aumaitrebrasseur.com/",
+        "Closed": "2011",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
