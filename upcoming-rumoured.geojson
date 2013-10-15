@@ -48,24 +48,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.295,
-          49.27
-        ]
-      },
-      "properties": {
-        "Name": "Big Kettle Brewing",
-        "City": "New Westminster",
-        "Province": "BC",
-        "Opening": "Unknown",
-        "Type": "Unknown",
-        "marker-color": "#aaa"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.644,
           45.253
         ]
@@ -421,25 +403,6 @@
         "Opening": "Unknown (Sign says Spring 2013)",
         "Type": "Brewery",
         "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.295,
-          49.26
-        ]
-      },
-      "properties": {
-        "Name": "Nanocraft Brewing Co.",
-        "City": "Vancouver",
-        "Province": "BC",
-        "Facebook": "https://www.facebook.com/NanoCraftBeer",
-        "Opening": "Unknown, possibly a dead project",
-        "Type": "Nanobrewery",
-        "marker-color": "#ffaa00"
       }
     },
     {
