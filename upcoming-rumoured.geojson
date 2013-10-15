@@ -776,10 +776,10 @@
         ]
       },
       "properties": {
-        "Name": "Unnamed Burnaby Brewery",
+        "Name": "Dageraad Brewing (rumoured)",
         "City": "Burnaby",
         "Province": "BC",
-        "Note": "Rumoured brewery from Ben Coli",
+        "Note": "Upcoming brewery from Ben Coli",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
