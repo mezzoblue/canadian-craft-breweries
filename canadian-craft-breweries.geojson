@@ -1419,8 +1419,28 @@
         "URL": "http://bridgebrewing.com/",
         "Facebook": "https://www.facebook.com/BridgeBrewingCompany",
         "Twitter": "https://twitter.com/bridgebrewcrew",
-        "Type": "Nanobrewery",
-        "marker-color": "#ffaa00"
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0519,
+          42.8804
+        ]
+      },
+      "properties": {
+        "Name": "Brimstone Brewing Company",
+        "City": "Ridgeway",
+        "Province": "ON",
+        "URL": "http://www.brimstonebrewing.ca/",
+        "Facebook": "https://www.facebook.com/BrimstoneBrewing",
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -1705,6 +1725,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.547295,
+          50.385284
+        ]
+      },
+      "properties": {
+        "Name": "Chillers Brew Pub",
+        "City": "Moose Jaw",
+        "Province": "SK",
+        "URL": "http://www.chillersbrewpub.ca/",
+        "Facebook": "https://www.facebook.com/pages/Chillers-Brew-Pub-Eatery-Offsale/196086173793711",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.745155,
           44.350861
         ]
@@ -1718,25 +1757,6 @@
         "Twitter": "https://twitter.com/churchkeybeer",
         "Type": "Brewery",
         "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.547295,
-          50.385284
-        ]
-      },
-      "properties": {
-        "Name": "Chillers Brew Pub",
-        "City": "Moose Jaw",
-        "Province": "SK",
-        "URL": "http://www.chillersbrewpub.ca/",
-        "Facebook": "https://www.facebook.com/pages/Chillers-Brew-Pub-Eatery-Offsale/196086173793711",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
       }
     },
     {
@@ -2390,6 +2410,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.6472,
+          46.305
+        ]
+      },
+      "properties": {
+        "Name": "Les Frères Houblon Microbrasserie",
+        "City": "Trois-Rivières",
+        "Province": "QC",
+        "URL": "http://www.lesfrereshoublon.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5634,
+          46.7254
+        ]
+      },
+      "properties": {
+        "Name": "À la Fût",
+        "City": "Saint-Tite",
+        "Province": "QC",
+        "URL": "http://www.alafut.com/",
+        "Facebook": "https://www.facebook.com/microbrasserie.a.la.fut",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.580826,
           50.473492
         ]
@@ -2423,6 +2480,27 @@
         "marker-color": "#00f"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5718,
+          46.349
+        ]
+      },
+      "properties": {
+        "Name": "Gambrinus Brasserie Artisanale",
+        "AKA": "Chez Gambrinus",
+        "City": "Trois-Rivières",
+        "Province": "QC",
+        "URL": "http://www.gambrinus.qc.ca/",
+        "Facebook": "https://www.facebook.com/pages/Gambrinus/129524540433200",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -3148,8 +3226,8 @@
         "URL": "http://www.troududiable.com/",
         "Facebook": "https://www.facebook.com/ShopTdd",
         "Twitter": "https://twitter.com/troududiable",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -3755,6 +3833,26 @@
         "Note": "Contract brewing while awaiting permanent space.",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1492,
+          46.45059
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Nouvelle-France",
+        "AKA": "Les bières de la Nouvelle-France",
+        "City": "Saint-Alexis-des-Monts",
+        "Province": "QC",
+        "URL": "http://www.lesbieresnouvellefrance.com/home",
+        "Facebook": "https://www.facebook.com/bieresansgluten",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
