@@ -1744,6 +1744,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.4456,
+          48.65233
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie La Chouape",
+        "City": "Saint-Félicien",
+        "Province": "QC",
+        "URL": "http://www.lachouape.com/",
+        "Facebook": "https://www.facebook.com/lachouape",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.745155,
           44.350861
         ]
@@ -1891,6 +1910,25 @@
         "Twitter": "https://twitter.com/durhambrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.23012,
+          48.87976
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Coureur Des Bois",
+        "City": "Dolbeau",
+        "Province": "QC",
+        "URL": "http://www.lecoureurdesbois.com/",
+        "Facebook": "https://www.facebook.com/lecoureurdesbois",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -2485,6 +2523,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.7155,
+          45.427
+        ]
+      },
+      "properties": {
+        "Name": "Gainsbourg Bistro-Brasserie",
+        "City": "Gatineau",
+        "Province": "QC",
+        "URL": "http://www.gainsbourg.ca/",
+        "Facebook": "https://www.facebook.com/legainsbourg",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.5718,
           46.349
         ]
@@ -2716,6 +2773,27 @@
         "marker-color": "#00f"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1408,
+          48.4357
+        ]
+      },
+      "properties": {
+        "Name": "La Gueule de Bois",
+        "City": "Jonquière",
+        "Province": "QC",
+        "URL": "http://www.lagueuledebois.net/",
+        "Facebook": "https://www.facebook.com/MaxymDesmeules",
+        "Twitter": "https://twitter.com/Lagueuledebois",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -3493,8 +3571,8 @@
         ]
       },
       "properties": {
-        "Name": "Microbrasserie du Lac Saint-Jean",
-        "City": "St-Gédéon",
+        "Name": "Microbrasserie du Lac-Saint-Jean",
+        "City": "Saint-Gédéon",
         "Province": "QC",
         "URL": "http://www.microdulac.com/",
         "Facebook": "https://www.facebook.com/groups/21372176423/",
@@ -5025,6 +5103,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.0522,
+          48.4289
+        ]
+      },
+      "properties": {
+        "Name": "La Tour à Bières Microbrasserie",
+        "City": "Chicoutimi",
+        "Province": "QC",
+        "URL": "http://www.latourabieres.com/",
+        "Facebook": "https://www.facebook.com/pages/La-Tour-a-Bi%C3%A8res/45620433021",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.551201,
           49.874279
         ]
@@ -5158,6 +5255,26 @@
         "Twitter": "https://twitter.com/villagebrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0457,
+          48.4169
+        ]
+      },
+      "properties": {
+        "Name": "La Voie Maltée",
+        "City": "Chicoutimi",
+        "Province": "QC",
+        "URL": "http://www.lavoiemaltee.com/",
+        "Facebook": "https://www.facebook.com/voiemaltee",
+        "Twitter": "https://twitter.com/VoieMaltee",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {

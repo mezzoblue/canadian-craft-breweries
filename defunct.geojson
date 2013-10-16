@@ -105,6 +105,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.7057,
+          46.5895
+        ]
+      },
+      "properties": {
+        "Name": "Brasseurs de la Mauricie",
+        "City": "Shawnigan",
+        "Province": "QC",
+        "URL": "http://www.brasseursmauricie.com/",
+        "Notes": "Contract brewed at AMB",
+        "Closed": "Unknown",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.0033,
           46.4896
         ]
