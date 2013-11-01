@@ -402,7 +402,7 @@
         "Twitter": "",
         "Opening": "Late 2013 / Early 2014",
         "Type": "Nanobrewery",
-        "marker-color": "#f00"
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -472,8 +472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.607544,
-          46.454372
+          -67.5803,
+          46.4715
         ]
       },
       "properties": {

@@ -457,6 +457,7 @@
       },
       "properties": {
         "Name": "Beau's All Natural Brewing Co.",
+        "AKA": "B-Side Brewing",
         "City": "Vankleek Hill",
         "Province": "ON",
         "URL": "http://www.beaus.ca/",
@@ -2163,6 +2164,27 @@
         "Facebook": "https://www.facebook.com/driftwoodbeer",
         "Twitter": "https://twitter.com/driftwoodbeer",
         "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3774,
+          43.65162
+        ]
+      },
+      "properties": {
+        "Name": "Duggan's Brewery",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.duggansbrewery.com/Beer.html",
+        "Facebook": "https://www.facebook.com/duggansbrewery",
+        "Twitter": "https://twitter.com/duggansbrewery",
+        "Note": "Shut down in 2011, but brewing again. Unclear whether it's in the same location.",
+        "Type": "Brewpub",
         "marker-color": "#f00"
       }
     },
@@ -4007,6 +4029,25 @@
         "URL": "http://www.oldyalebrewing.com/",
         "Facebook": "https://www.facebook.com/pages/Old-Yale-Brewing/154945167944820",
         "Twitter": "https://twitter.com/oldyalebrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27,
+          43.6
+        ]
+      },
+      "properties": {
+        "Name": "Ontario Beer Company",
+        "City": "Toronto",
+        "Province": "ON (no address available)",
+        "Facebook": "https://www.facebook.com/pages/Ontario-Beer-Company/205451729636616",
+        "Twitter": "https://twitter.com/OntarioBeerCo",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
