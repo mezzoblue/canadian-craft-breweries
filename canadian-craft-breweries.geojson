@@ -595,6 +595,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.2859,
+          45.4466
+        ]
+      },
+      "properties": {
+        "Name": "Bedondaine & Bedons Ronds",
+        "City": "Chambly",
+        "Province": "QC",
+        "URL": "http://www.bedondaine.com/",
+        "Facebook": "https://www.facebook.com/bedondaine.bedonsronds",
+        "Twitter": "https://twitter.com/bedondaine_br",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -70.5455,
           46.6193
         ]
@@ -813,6 +833,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.9484,
+          45.6238
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Bilboquet",
+        "City": "Saint-Hyacinthe",
+        "Province": "QC",
+        "URL": "http://www.lebilboquet.qc.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.515221,
           43.773415
         ]
@@ -963,6 +1001,26 @@
         "URL": "http://mcauslan.com/",
         "Facebook": "https://facebook.com/bierestambroise",
         "Twitter": "https://twitter.com/bierestambroise",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9907,
+          45.6293
+        ]
+      },
+      "properties": {
+        "Name": "Brasseurs du Monde",
+        "City": "Saint-Hyacinthe",
+        "Province": "QC",
+        "URL": "http://brasseursdumonde.com/",
+        "Facebook": "https://www.facebook.com/BrasseurDuMonde",
+        "Twitter": "https://twitter.com/BrasseurDuMonde",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1626,6 +1684,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.3188,
+          45.4863
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Castor",
+        "City": "Rigaud",
+        "Province": "QC",
+        "URL": "http://microlecastor.ca/",
+        "Facebook": "https://www.facebook.com/micro.lecastor",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.807076,
           46.048847
         ]
@@ -2233,6 +2310,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.3393,
+          45.2958
+        ]
+      },
+      "properties": {
+        "Name": "Ferme Brasserie Schoune",
+        "City": "St.Polycarpe",
+        "Province": "QC",
+        "URL": "http://www.schoune.com/",
+        "Facebook": "https://www.facebook.com/brasserie.schoune",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.045532,
           49.526852
         ]
@@ -2775,7 +2871,29 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
-    },    {
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7278,
+          45.4004
+        ]
+      },
+      "properties": {
+        "Name": "Le Grimoire",
+        "City": "Granby",
+        "Province": "QC",
+        "URL": "http://www.brasseriegrimoire.com/",
+        "Facebook": "https://www.facebook.com/brasseriegrimoire",
+        "Twitter": "https://twitter.com/Le_Grimoire",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -3257,6 +3375,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.2506,
+          45.30546
+        ]
+      },
+      "properties": {
+        "Name": "Lagabière",
+        "City": "Saint-Jean-sur-Richelieu",
+        "Province": "QC",
+        "URL": "http://lagabiere.com/",
+        "Facebook": "https://www.facebook.com/Lagabiere",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.113838,
           45.149841
         ]
@@ -3475,6 +3612,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.1148,
+          46.0452
+        ]
+      },
+      "properties": {
+        "Name": "Loup Rouge",
+        "City": "Sorel",
+        "Province": "QC",
+        "URL": "http://www.artisanbrasseur.com/",
+        "Facebook": "https://www.facebook.com/louprouge",
+        "Twitter": "https://twitter.com/artisanbrasseur",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.864227,
           44.126381
         ]
@@ -3485,6 +3642,25 @@
         "Province": "ON",
         "URL": "http://www.macleansales.com/",
         "Twitter": "https://twitter.com/macleansales",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.117,
+          45.258
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Maltéus",
+        "City": "Salaberry-de-Valleyfield",
+        "Province": "QC",
+        "URL": "http://www.mbmalteus.com/",
+        "Facebook": "https://www.facebook.com/Malteus",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -4574,6 +4750,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.8489,
+          45.0763
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie-Saint-Antoine-Abbé",
+        "City": "Franklin",
+        "Province": "QC",
+        "URL": "http://www.brasserie-saint-antoine-abbe.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.8408,
           45.6385
         ]
@@ -5237,6 +5432,27 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4633,
+          45.4310
+        ]
+      },
+      "properties": {
+        "Name": "Les Trois Mousquetaires",
+        "City": "Brossard",
+        "Province": "QC",
+        "URL": "http://lestroismousquetaires.ca/",
+        "Facebook": "https://www.facebook.com/les.trois.mousquetaires",
+        "Twitter": "https://twitter.com/3_Mousquetaires",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {

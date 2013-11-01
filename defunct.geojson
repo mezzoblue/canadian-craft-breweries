@@ -65,6 +65,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.4866,
+          45.4994
+        ]
+      },
+      "properties": {
+        "Name": "Le Fou en Fût",
+        "City": "Saint-Hubert",
+        "Province": "QC",
+        "URL": "http://lefouenfut.com/",
+        "Closed": "2008",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.1759,
           45.2715
         ]
