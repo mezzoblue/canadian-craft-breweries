@@ -88,6 +88,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0917,
+          49.3166
+        ]
+      },
+      "properties": {
+        "Name": "Black Kettle Brewing",
+        "City": "North Vancouver",
+        "Province": "BC (no address available)",
+        "URL": "http://blackkettlebrewing.com/",
+        "Facebook": "https://www.facebook.com/BlackKettleBrewing",
+        "Opening": "Late 2013",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.074753,
           49.277508
         ]
