@@ -1001,6 +1001,7 @@
         "URL": "http://mcauslan.com/",
         "Facebook": "https://facebook.com/bierestambroise",
         "Twitter": "https://twitter.com/bierestambroise",
+        "Note": "Fully owned by Les Brasseurs RJ",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1956,6 +1957,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5660,
+          45.4894
+        ]
+      },
+      "properties": {
+        "Name": "La Compagnie de Bière Brisset",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://bierebrisset.com/",
+        "Twitter": "https://twitter.com/Biere_Brisset",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1868,
           46.80967
         ]
@@ -2262,6 +2282,25 @@
         "Twitter": "https://twitter.com/duggansbrewery",
         "Note": "Shut down in 2011, but brewing again. Unclear whether it's in the same location.",
         "Type": "Brewpub",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54454,
+          45.54554
+        ]
+      },
+      "properties": {
+        "Name": "L'Espace Public",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.lespacepublic.ca/",
+        "Facebook": "https://www.facebook.com/Espacepublic",
+        "Type": "Brewery",
         "marker-color": "#f00"
       }
     },
@@ -4671,6 +4710,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5917,
+          45.5338
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs RJ",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseursrj.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -63.578945,
           44.642376
         ]
@@ -5490,6 +5547,24 @@
         "URL": "http://www.vanislandbrewery.com/",
         "Facebook": "https://www.facebook.com/VanIsleBrewery",
         "Twitter": "https://twitter.com/VanIsleBrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6156,
+          45.5298
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie du Vieux Montréal",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://bvmbrewery.com/fr/",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
