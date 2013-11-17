@@ -269,7 +269,7 @@
         "type": "Point",
         "coordinates": [
           -123.30,
-          49.27
+          49.275
         ]
       },
       "properties": {
@@ -692,13 +692,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.250778,
-          43.978333
+          -122.3108,
+          49.0445
         ]
       },
       "properties": {
         "Name": "Surlie Brewing",
-        "City": "Abbotsford",
+        "City": "Abbotsford (no address available)",
         "Province": "BC",
         "Facebook": "https://www.facebook.com/surlie.brewing",
         "Opening": "November 2013",
@@ -812,8 +812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.30,
-          49.26
+           -123.29,
+          49.275
         ]
       },
       "properties": {
@@ -831,7 +831,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-           -123.295,
+           -123.29,
           49.28
        ]
       },
