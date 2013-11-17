@@ -160,19 +160,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.487572,
-          53.514278
+          -73.5659,
+          45.5165
         ]
       },
       "properties": {
-        "Name": "Amber's Brewing Company",
-        "City": "Edmonton",
-        "Province": "AB",
-        "URL": "http://www.ambersbrewing.com/",
-        "Facebook": "https://www.facebook.com/ambersbrewing",
-        "Twitter": "https://twitter.com/ambersbrewing",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "Name": "L'Amère à Boire",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.amereaboire.com/",
+        "Twitter": "https://twitter.com/amereaboire",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -654,6 +653,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5710,
+          45.5096
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Benelux",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseriebenelux.com/",
+        "Facebook": "https://www.facebook.com/BrasserieArtisanaleBENELUX",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.730827,
           45.401703
         ]
@@ -687,6 +705,25 @@
         "Twitter": "https://twitter.com/leBienleMalt",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.800621,
+          49.103989
+        ]
+      },
+      "properties": {
+        "Name": "Broue Pub Brouhaha",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://brouepubbrouhaha.com/",
+        "Facebook": "https://www.facebook.com/brouepubbrouhaha",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -1540,6 +1577,26 @@
         "Province": "QC",
         "URL": "http://www.brouemont.com/",
         "Facebook": "https://www.facebook.com/brouemont",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5745,
+          45.4967
+        ]
+      },
+      "properties": {
+        "Name": "Brutopia",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brutopia.net/",
+        "Facebook": "https://www.facebook.com/pages/Brutopia-Brew-Pub/30270360433",
+        "Twitter": "https://twitter.com/Brutopia",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -3079,6 +3136,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.6054,
+          45.5240
+        ]
+      },
+      "properties": {
+        "Name": "Helm Brasseur Gourmand",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://helmmicrobrasserie.ca/",
+        "Facebook": "https://www.facebook.com/Helmmicrobrasseriesurbernard",
+        "Twitter": "https://twitter.com/BrasseurHelm",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.360855,
           45.841415
         ]
@@ -3874,6 +3951,25 @@
         "Province": "BC",
         "URL": "http://www.missionspringsbrewingcompany.com/",
         "Twitter": "https://twitter.com/MSBCBREWERY",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5644,
+          45.4897
+        ]
+      },
+      "properties": {
+        "Name": "Brasseur de Montreal",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseurdemontreal.ca/",
+        "Facebook": "https://www.facebook.com/BrasseurdeMontreal",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -4712,6 +4808,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5792,
+          45.5172
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Réservoir",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseriereservoir.ca/",
+        "Facebook": "https://www.facebook.com/pages/Le-Reservoir/157516660936598",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -110.46154,
           52.759907
         ]
@@ -4757,6 +4872,7 @@
       },
       "properties": {
         "Name": "Les Brasseurs RJ",
+        "AKA": "Le Cheval Blanc",
         "City": "Montréal",
         "Province": "QC",
         "URL": "http://www.brasseursrj.com/",
@@ -4861,7 +4977,25 @@
         "marker-color": "#f00"
       }
     },
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5647,
+          45.5158
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie artisanale Le Saint-Bock",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.saintbock.com/",
+        "Facebook": "https://www.facebook.com/SaintBock",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -4882,6 +5016,28 @@
         "marker-color": "#00f"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5826,
+          45.4696
+        ]
+      },
+      "properties": {
+        "Name": "Brasseurs sans Gluten",
+        "AKA": "Glutenberg",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "https://glutenberg.ca/",
+        "Facebook": "https://www.facebook.com/brasseurssansgluten",
+        "Twitter": "https://twitter.com/glutenberg",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -5312,6 +5468,26 @@
         "Twitter": "https://twitter.com/StormBrewingVan",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736,
+          45.5502
+        ]
+      },
+      "properties": {
+        "Name": "La Succursale",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://lasuccursale.com/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-artisanale-La-Succursale/143406492363466",
+        "Twitter": "https://twitter.com/LaSuccursale",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {

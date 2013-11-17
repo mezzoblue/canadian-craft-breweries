@@ -202,6 +202,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5892,
+          45.5213
+        ]
+      },
+      "properties": {
+        "Name": "La Taverne Du Sergeant-Recruteur",
+        "City": "Montréal",
+        "Province": "QC",
+        "Closed": "2009",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.103157,
           49.323822
         ]
@@ -212,6 +230,24 @@
         "Province": "BC",
         "URL": "http://www.markjamesgroup.com/taylors_crossing.html",
         "Closed": "December 2011",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8242,
+          45.4677
+        ]
+      },
+      "properties": {
+        "Name": "Vessels and Barrels",
+        "City": "Montréal",
+        "Province": "QC",
+        "Closed": "2003",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
