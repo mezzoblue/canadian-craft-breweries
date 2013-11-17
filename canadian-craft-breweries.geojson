@@ -1434,6 +1434,7 @@
       },
       "properties": {
         "Name": "Brick Brewing Co.",
+        "AKA": "Waterloo Brewing Co.",
         "City": "Waterloo",
         "Province": "ON",
         "URL": "http://brickbeer.com/",
@@ -4213,6 +4214,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.31991,
+          44.30527
+        ]
+      },
+      "properties": {
+        "Name": "The Old Stone Brewing Co.",
+        "City": "Peterborough",
+        "Province": "ON",
+        "URL": "http://oldestone.ca/menu/drinks",
+        "Facebook": "https://www.facebook.com/pages/Olde-Stone-Brewing-Company/127035937468248",
+        "Twitter": "https://twitter.com/OldeStoneBrew",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.033951,
           45.156818
         ]
@@ -4562,6 +4583,26 @@
         "Province": "NS",
         "URL": "http://www.drinkpropeller.ca/",
         "Twitter": "https://twitter.com/PropellerBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3265,
+          44.3032
+        ]
+      },
+      "properties": {
+        "Name": "The Publican House Brewery",
+        "City": "Peterborough",
+        "Province": "ON",
+        "URL": "http://www.thepublicanhouse.com/",
+        "Facebook": "https://www.facebook.com/pages/The-Publican-House-Brewery/182300805171278",
+        "Twitter": "https://twitter.com/PublicanHouse",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
