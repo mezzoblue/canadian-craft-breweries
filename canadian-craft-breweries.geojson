@@ -429,6 +429,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.663,
+          44.3668
+        ]
+      },
+      "properties": {
+        "Name": "Barnstormer Brewing",
+        "City": "Barrie",
+        "Province": "ON",
+        "URL": "http://www.barnstormerbrewing.com/",
+        "Facebook": "https://www.facebook.com/barnstormerbeer",
+        "Twitter": "https://twitter.com/barnstormerbeer",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.384956,
           43.665977
         ]
