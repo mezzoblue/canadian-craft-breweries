@@ -346,27 +346,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.0823,
-          49.311
-        ]
-      },
-      "properties": {
-        "Name": "Green Leaf Brewing",
-        "City": "North Vancouver",
-        "Province": "BC",
-        "URL": "http://greenleafbrew.com/",
-        "Facebook": "https://www.facebook.com/GLbrewery",
-        "Twitter": "https://twitter.com/greenleafbrew",
-        "Opening": "Unknown",
-        "Type": "Unknown",
-        "marker-color": "#aaa"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -114.4539,
           51.18375
         ]
@@ -444,6 +423,25 @@
         "Opening": "Unknown (Sign says Spring 2013)",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -114.38,
+          62.455
+       ]
+      },
+      "properties": {
+        "Name": "NWT Brewing Company",
+        "City": "Yellowknife",
+        "Province": "NWT",
+        "URL": "http://www.beerincanada.ca/?p=1688",
+        "Opening": "Late 2013",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -692,37 +690,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3108,
-          49.0445
+          -122.3610,
+          49.0438
         ]
       },
       "properties": {
         "Name": "Surlie Brewing",
-        "City": "Abbotsford (no address available)",
+        "City": "Abbotsford",
         "Province": "BC",
         "Facebook": "https://www.facebook.com/surlie.brewing",
         "Opening": "November 2013",
         "Type": "Brewery",
         "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.26320075988768,
-          52.82641675600601
-        ]
-      },
-      "properties": {
-        "Name": "Three Ranges Brewing Co.",
-        "City": "Valemount",
-        "Province": "BC",
-        "URL": "http://threeranges.com/",
-        "Opening": "November 2013",
-        "Type": "Nanobrewery",
-        "marker-color": "#ffaa00"
       }
     },
     {
@@ -843,25 +822,6 @@
         "Opening": "earliest possible opening date: 2017",
         "Type": "Brewery",
         "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-           -114.38,
-          62.455
-       ]
-      },
-      "properties": {
-        "Name": "NWT Brewing Company",
-        "City": "Yellowknife",
-        "Province": "NWT",
-        "URL": "http://www.beerincanada.ca/?p=1688",
-        "Opening": "Late 2013",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
       }
     }
 

@@ -2954,6 +2954,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0823,
+          49.311
+        ]
+      },
+      "properties": {
+        "Name": "Green Leaf Brewing",
+        "City": "North Vancouver",
+        "Province": "BC",
+        "URL": "http://greenleafbrew.com/",
+        "Facebook": "https://www.facebook.com/GLbrewery",
+        "Twitter": "https://twitter.com/greenleafbrew",
+        "Type": "Brewery",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.642578,
           45.962814
         ]
@@ -5546,6 +5566,24 @@
         "Facebook": "https://www.facebook.com/TheTapRegina",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26338,
+          52.83209
+        ]
+      },
+      "properties": {
+        "Name": "Three Ranges Brewing Co.",
+        "City": "Valemount",
+        "Province": "BC",
+        "URL": "http://threeranges.com/",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
