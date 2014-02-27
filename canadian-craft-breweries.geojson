@@ -102,6 +102,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.737688,
+          45.0587753
+        ]
+      },
+      "properties": {
+        "Name": "Bad Apple Brewhouse",
+        "City": "Berwick",
+        "Province": "NS",
+        "URL": "http://badapplebrewhouse.ca/",
+        "Facebook": "https://www.facebook.com/badapplebrewhouse",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.4394,
           46.0254
         ]
@@ -3136,19 +3155,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.573395,
-          44.649944
+          -65.8915076,
+          45.4303884
         ]
       },
       "properties": {
-        "Name": "Hart & Thistle Gastropub and Brewery",
-        "City": "Halifax",
-        "Province": "NS",
-        "URL": "http://www.hartandthistle.com/",
-        "Facebook": "https://www.facebook.com/pages/Hart-Thistle-Gastropub-Brewery/172330196160585",
-        "Twitter": "https://twitter.com/HartandThistle",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
+        "Name": "Hammond River Brewing",
+        "City": "Quispamsis",
+        "Province": "NB",
+        "URL": "https://www.facebook.com/hammondriverbrewery",
+        "Facebook": "https://www.facebook.com/hammondriverbrewery",
+        "Twitter": "",
+        "Opening": "Late 2013 / Early 2014",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {

@@ -388,27 +388,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.8915076,
-          45.4303884
-        ]
-      },
-      "properties": {
-        "Name": "Hammond River Brewing",
-        "City": "Quispamsis",
-        "Province": "NB",
-        "URL": "https://www.facebook.com/hammondriverbrewery",
-        "Facebook": "https://www.facebook.com/hammondriverbrewery",
-        "Twitter": "",
-        "Opening": "Late 2013 / Early 2014",
-        "Type": "Nanobrewery",
-        "marker-color": "#ffaa00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -123.099342,
           49.264713
         ]

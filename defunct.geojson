@@ -84,6 +84,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -63.573395,
+          44.649944
+        ]
+      },
+      "properties": {
+        "Name": "Hart & Thistle Gastropub and Brewery",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.hartandthistle.com/",
+        "Facebook": "https://www.facebook.com/pages/Hart-Thistle-Gastropub-Brewery/172330196160585",
+        "Twitter": "https://twitter.com/HartandThistle",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.1759,
           45.2715
         ]
