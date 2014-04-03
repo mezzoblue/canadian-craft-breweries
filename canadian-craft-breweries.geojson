@@ -335,6 +335,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.4933,
+          52.9757
+        ]
+      },
+      "properties": {
+        "Name": "Barkerville Brewing",
+        "City": "Quesnel",
+        "Province": "BC",
+        "URL": "http://www.stakeyourclaim.ca/",
+        "Facebook": "https://www.facebook.com/BarkervilleBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.184494,
           43.992924
         ]
@@ -908,6 +927,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -107.8087,
+          50.2827
+        ]
+      },
+      "properties": {
+        "Name": "Bin Brewing",
+        "City": "Swift Current",
+        "Province": "SK (no address available)",
+        "URL": "http://binbrewing.com/",
+        "Facebook": "https://www.facebook.com/BinBrewing",
+        "Twitter": "https://twitter.com/binbrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.515221,
           43.773415
         ]
@@ -921,6 +960,25 @@
         "Twitter": "https://twitter.com/BlackCreekBeer",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0917,
+          49.3166
+        ]
+      },
+      "properties": {
+        "Name": "Black Kettle Brewing",
+        "City": "North Vancouver",
+        "Province": "BC (no address available)",
+        "URL": "http://blackkettlebrewing.com/",
+        "Facebook": "https://www.facebook.com/BlackKettleBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1018,6 +1076,25 @@
         "URL": "http://boquebiere.com/",
         "Facebook": "https://www.facebook.com/boquebiere",
         "Twitter": "https://twitter.com/Boquebiere",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6969,
+          45.0468
+        ]
+      },
+      "properties": {
+        "Name": "Boshkung Brewing",
+        "AKA": "Rhubarb Restaurant",
+        "City": "Carnarvon",
+        "Province": "ON",
+        "URL": "http://rhubarbhaliburton.com/Rhubarb/Rhubarb.html",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -2601,6 +2678,25 @@
         "Note": "Wholly-owned by Russell Brewing in BC, some beers produced there.",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.434654,
+          48.452576
+        ]
+      },
+      "properties": {
+        "Name": "Four Mile Brewpub",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://fourmilehouse.com/",
+        "Facebook": "https://www.facebook.com/pages/Four-Mile-Bar-Grill-and-Liquor-Store/201998693162305",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -5548,6 +5644,24 @@
         "Twitter": "https://twitter.com/LaSuccursale",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3610,
+          49.0438
+        ]
+      },
+      "properties": {
+        "Name": "Surlie Brewing",
+        "City": "Abbotsford",
+        "Province": "BC",
+        "Facebook": "https://www.facebook.com/surlie.brewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
