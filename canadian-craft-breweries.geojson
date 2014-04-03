@@ -968,6 +968,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.074753,
+          49.277508
+        ]
+      },
+      "properties": {
+        "Name": "Bomber Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.bomberbrewing.com/",
+        "Facebook": "https://www.facebook.com/bomberbrewing",
+        "Twitter": "https://twitter.com/BomberBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.61956,
           50.404839
         ]
@@ -6099,26 +6119,6 @@
         "URL": "http://yukonbeer.com/",
         "Facebook": "https://www.facebook.com/yukonbeer",
         "Twitter": "https://twitter.com/yukonbeer",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.074753,
-          49.277508
-        ]
-      },
-      "properties": {
-        "Name": "Bomber Brewing",
-        "City": "Vancouver",
-        "Province": "BC",
-        "URL": "http://www.bomberbrewing.com/",
-        "Facebook": "https://www.facebook.com/bomberbrewing",
-        "Twitter": "https://twitter.com/BomberBrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
