@@ -4175,6 +4175,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.984991,
+          49.685778
+        ]
+      },
+      "properties": {
+        "Name": "Mozart Brewing",
+        "AKA": "Mozart Inn",
+        "City": "Kimberley",
+        "Province": "BC",
+        "URL": "http://mozzartinn.weebly.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.197952,
           51.000351
         ]
