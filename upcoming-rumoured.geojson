@@ -683,7 +683,25 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -68.3282483,
+          47.3627554
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Petit-Sault",
+        "City": "Edmundston",
+        "Province": "NB",
+        "URL": "http://brasseurspetitsault.com/",
+        "Opening": "Summer 2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
     }
-
  ]
 }
