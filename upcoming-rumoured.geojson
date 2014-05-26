@@ -548,6 +548,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.077387,
+          49.271587,
+        ]
+      },
+      "properties": {
+        "Name": "Strange Fellows Brewing",
+        "City": "Vancouver (address approximate)",
+        "Province": "BC",
+        "URL": "http://imstartingacraftbrewery.com/",
+        "Facebook": "https://www.facebook.com/strangefellowsbrewing",
+        "Twitter": "https://twitter.com/startinabrewery",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.274124,
           43.775803
         ]
