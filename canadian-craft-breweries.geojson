@@ -2304,6 +2304,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+           -122.916856,
+          49.257058
+        ]
+      },
+      "properties": {
+        "Name": "Dageraad Brewing",
+        "City": "Burnaby",
+        "Province": "BC",
+        "URL": "http://dageraadbrewing.com/",
+        "Facebook": "https://www.facebook.com/DageraadBrewing",
+        "Twitter": "https://twitter.com/DageraadBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.468857,
           49.097607
         ]

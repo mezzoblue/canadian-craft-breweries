@@ -652,25 +652,6 @@
         "type": "Point",
         "coordinates": [
            -123.29,
-          49.275
-        ]
-      },
-      "properties": {
-        "Name": "Dageraad Brewing",
-        "City": "Burnaby",
-        "Province": "BC",
-        "Note": "Upcoming brewery from Ben Coli",
-        "Opening": "2014",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-           -123.29,
           49.28
        ]
       },
