@@ -276,6 +276,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -119.596318,
+          49.500555
+        ]
+      },
+      "properties": {
+        "Name": "Bad Tattoo Brewing",
+        "City": "Penticton",
+        "Province": "BC",
+        "URL": "http://www.badtattoobrewing.com/",
+        "Facebook": "https://www.facebook.com/BadTattooBrewing?hc_location=timeline",
+        "Twitter": "https://twitter.com/btbrewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.570793,
           51.175091
         ]
@@ -1833,6 +1853,27 @@
         "Twitter": "https://twitter.com/canoebrewpub",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.468857,
+          49.0978
+        ]
+      },
+      "properties": {
+        "Name": "Canuck Empire Brewing",
+        "City": "Abbotsford",
+        "Province": "BC (no address available)",
+        "URL": "http://www.canuckempirebrewing.com/",
+        "Facebook": "https://www.facebook.com/CanuckEmpire",
+        "Twitter": "https://twitter.com/CanuckEmpire",
+        "Note": "Contract brewing at Dead Frog in BC while awaiting permanent space.",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
       }
     },
     {
