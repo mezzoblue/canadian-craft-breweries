@@ -2,7 +2,27 @@
   "type": "FeatureCollection",
   "features": [
 
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.110977,
+          49.267381
+        ]
+      },
+      "properties": {
+        "Name": "Big Rock Brewery (Vancouver)",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://bigrockbeer.com/connect/blog/2014/mar/10/big-rock-vancouver",
+        "Facebook": "https://www.facebook.com/BigRockBrewery",
+        "Twitter": "https://twitter.com/bigrockbrewery",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -100,6 +120,26 @@
         "Opening": "Unknown",
         "Type": "Gypsy Brewer",
         "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.076867,
+          49.282260
+        ]
+      },
+      "properties": {
+        "Name": "Callister Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://callisterbrewing.com/",
+        "Facebook": "https://www.facebook.com/callisterbrewing",
+        "Opening": "Unknown",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -341,6 +381,26 @@
         "Opening": "December 2013",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.095285,
+          49.284354
+        ]
+      },
+      "properties": {
+        "Name": "Postmark Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "Facebook": "https://www.facebook.com/postmarkbrewing",
+        "Twitter": "https://twitter.com/Postmarkbrewing",
+        "Opening": "Imminent",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
