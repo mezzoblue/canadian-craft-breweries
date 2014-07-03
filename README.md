@@ -1,9 +1,9 @@
 Canadian Craft Breweries
 ========================
 
-Comprehensive geodata for Canadian Craft Breweries. Intended to drive beermap.ca. One day. Eventually.
+Comprehensive geodata for Canadian Craft Breweries that drives beermap.ca.
 
-Data is as complete as possible for every province except Quebec, which is still in progress.
+Data is as complete as possible for every province except Quebec, which is still in progress. Pull requests with data corrections welcomed.
 
 View the maps here:
 
