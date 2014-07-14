@@ -650,27 +650,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -130.319992,
-          54.317738
-        ]
-      },
-      "properties": {
-        "Name": "Wheelhouse Brewing",
-        "City": "Prince Rupert",
-        "Province": "BC",
-        "URL": "http://www.wheelhousebrewing.com/",
-        "Facebook": "https://www.facebook.com/wheelhousebrewing",
-        "Twitter": "https://twitter.com/wheelhousebeer",
-        "Opening": "Late 2013",
-        "Type": "Unknown",
-        "marker-color": "#aaa"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.1792,
           43.9617
         ]
