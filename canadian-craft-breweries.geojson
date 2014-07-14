@@ -4905,6 +4905,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.095285,
+          49.284354
+        ]
+      },
+      "properties": {
+        "Name": "Postmark Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "Facebook": "https://www.facebook.com/postmarkbrewing",
+        "Twitter": "https://twitter.com/Postmarkbrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.068481,
           49.284187
         ]
