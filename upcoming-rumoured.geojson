@@ -207,14 +207,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.30,
-          49.28
+          -123.081632,
+          49.209294
         ]
       },
       "properties": {
         "Name": "Dogwood Brewing",
         "City": "Vancouver",
-        "Province": "BC (no address available)",
+        "Province": "BC",
         "URL": "http://www.dogwoodbrew.com/",
         "Twitter": "https://twitter.com/dogwoodbrew",
         "Opening": "Unknown",
@@ -279,27 +279,6 @@
         "Facebook": "https://www.facebook.com/thehamiltonbrewery",
         "Twitter": "https://twitter.com/hamiltonbrewery",
         "Opening": "Late 2013 / Early 2014",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.099342,
-          49.264713
-        ]
-      },
-      "properties": {
-        "Name": "Main St. Brewery",
-        "City": "Vancouver",
-        "Province": "BC",
-        "URL": "http://mainstreetpilsner.com/",
-        "Facebook": "https://www.facebook.com/MainStreetBeer",
-        "Twitter": "https://twitter.com/mainstreetbeer",
-        "Opening": "Unknown (Sign says Spring 2013)",
         "Type": "Brewery",
         "marker-color": "#f00"
       }

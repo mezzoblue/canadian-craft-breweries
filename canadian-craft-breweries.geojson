@@ -4005,6 +4005,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.099342,
+          49.264713
+        ]
+      },
+      "properties": {
+        "Name": "Main St. Brewery",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://mainstreetbeer.ca/",
+        "Facebook": "https://www.facebook.com/MainStreetBeer",
+        "Twitter": "https://twitter.com/mainstreetbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.117,
           45.258
         ]
