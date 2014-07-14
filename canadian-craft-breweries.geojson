@@ -5652,6 +5652,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.9274,
+          49.2018
+        ]
+      },
+      "properties": {
+        "Name": "Steel & Oak Brewing",
+        "City": "New Westminster",
+        "Province": "BC",
+        "URL": "http://steelandoak.ca/",
+        "Facebook": "https://www.facebook.com/steelandoak",
+        "Twitter": "https://twitter.com/SteelAndOak",
+        "Type": "Brewery",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.736809,
           45.398758
         ]
