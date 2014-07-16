@@ -407,6 +407,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.618,
+          50.455
+        ]
+      },
+      "properties": {
+        "Name": "Rebellion Brewing",
+        "City": "Regina",
+        "Province": "SK (no address available)",
+        "URL": "http://www.rebellionbrewing.ca/",
+        "Twitter": "https://twitter.com/markthebrewer",
+        "Opening": "Fall 2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.095009,
           49.267239
         ]
