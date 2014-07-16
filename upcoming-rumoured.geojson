@@ -147,6 +147,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.408,
+          48.565
+        ]
+      },
+      "properties": {
+        "Name": "Category 12 Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://category12brewing.com/",
+        "Facebook": "https://www.facebook.com/category12beer",
+        "Twitter": "https://twitter.com/C12beer",
+        "Opening": "Fall 2014",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.1808,
           44.492
         ]
