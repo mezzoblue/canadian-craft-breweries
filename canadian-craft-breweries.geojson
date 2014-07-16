@@ -528,6 +528,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.29465,
+          49.4947
+        ]
+      },
+      "properties": {
+        "Name": "Beacon Brewing",
+        "City": "Nelson",
+        "Province": "BC",
+        "URL": "http://www.beaconbrewing.com/",
+        "Twitter": "https://twitter.com/Beacon_Brewing",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.637497,
           45.517723
         ]
