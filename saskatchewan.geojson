@@ -1,0 +1,440 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.669731,
+          50.4949
+        ]
+      },
+      "properties": {
+        "Name": "Barley Mill Brew Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://barleymill.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.61953,
+          52.114456
+        ]
+      },
+      "properties": {
+        "Name": "Beily's Ultralounge",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.beilys.ca/",
+        "Facebook": "https://www.facebook.com/pages/Beilys-Ultralounge/148317558539210?fref=ts",
+        "Twitter": "https://twitter.com/beilyssaskatoon",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8087,
+          50.2827
+        ]
+      },
+      "properties": {
+        "Name": "Bin Brewing",
+        "City": "Swift Current",
+        "Province": "SK (no address available)",
+        "URL": "http://binbrewing.com/",
+        "Facebook": "https://www.facebook.com/BinBrewing",
+        "Twitter": "https://twitter.com/binbrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.61956,
+          50.404839
+        ]
+      },
+      "properties": {
+        "Name": "Bonzzini's Brew Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "Facebook": "https://www.facebook.com/BonzzinisBrewPub?rf=129459827088391",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.556824,
+          50.447594
+        ]
+      },
+      "properties": {
+        "Name": "Brewster's Brewing Co. & Restaurant",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Restaurant/232898627052?v=wall",
+        "Twitter": "https://twitter.com/BrewstersSask",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.664322,
+          50.482361
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Restaurant/232898627052?v=wall",
+        "Twitter": "https://twitter.com/BrewstersSask",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.61821,
+          50.412434
+        ]
+      },
+      "properties": {
+        "Name": "Brewsters Brewing Co. & Restaurant",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://brewsters.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brewsters-Brewing-Company-Restaurant/232898627052?v=wall",
+        "Twitter": "https://twitter.com/BrewstersSask",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.798874,
+          50.286518
+        ]
+      },
+      "properties": {
+        "Name": "Buffalo Brew Pub",
+        "City": "Swift Current",
+        "Province": "SK",
+        "Twitter": "https://twitter.com/BuffaloBrewPub1",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.612816,
+          50.455151
+        ]
+      },
+      "properties": {
+        "Name": "Bushwakker Brewing",
+        "City": "Regina",
+        "Province": "SK,",
+        "URL": "http://www.bushwakker.com/",
+        "Facebook": "https://www.facebook.com/TheBushwakker",
+        "Twitter": "https://twitter.com/thebushwakker",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.547295,
+          50.385284
+        ]
+      },
+      "properties": {
+        "Name": "Chillers Brew Pub",
+        "City": "Moose Jaw",
+        "Province": "SK",
+        "URL": "http://www.chillersbrewpub.ca/",
+        "Facebook": "https://www.facebook.com/pages/Chillers-Brew-Pub-Eatery-Offsale/196086173793711",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.72805,
+          52.130924
+        ]
+      },
+      "properties": {
+        "Name": "Clark's Crossing Brew Pub",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.536285,
+          50.448151
+        ]
+      },
+      "properties": {
+        "Name": "Creekside Pub & Brewery",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://www.creeksidebrewpub.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6034,
+          50.4567
+        ]
+      },
+      "properties": {
+        "Name": "District Brewing",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://districtbrewing.ca/",
+        "Facebook": "https://www.facebook.com/DistrictBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.645538,
+          52.159733
+        ]
+      },
+      "properties": {
+        "Name": "Fox & Hounds Pub & Brewery",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.580826,
+          50.473492
+        ]
+      },
+      "properties": {
+        "Name": "Gaebels Brewhouse & Off Sale",
+        "City": "Regina",
+        "Province": "SK",
+        "Facebook": "https://www.facebook.com/gaebels.brewhouse",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.656601,
+          52.118683
+        ]
+      },
+      "properties": {
+        "Name": "Hose & Hydrant Brew Pub",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.hoseandhydrant.com/",
+        "Twitter": "https://twitter.com/HoseBrewPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.617912,
+          50.477154
+        ]
+      },
+      "properties": {
+        "Name": "Last Straw Brew Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://laststrawbrewpub.com/",
+        "Twitter": "https://twitter.com/LastStrawRegina",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.627075,
+          52.115704
+        ]
+      },
+      "properties": {
+        "Name": "Maguires Irish Pub & Brewery",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.maguiresbrewpub.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.597435,
+          52.130196
+        ]
+      },
+      "properties": {
+        "Name": "Paddock Wood Brewing Co.",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.paddockwood.com/",
+        "Facebook": "https://www.facebook.com/paddockwood",
+        "Twitter": "https://twitter.com/paddock_wood",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6631,
+          52.1572
+        ]
+      },
+      "properties": {
+        "Name": "Prairie Sun Brewing",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.prairiesun.ca/",
+        "Facebook": "https://www.facebook.com/PrairieSunBrewery",
+        "Twitter": "https://twitter.com/PrairieSunBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.618256,
+          50.444698
+        ]
+      },
+      "properties": {
+        "Name": "Slow Food Pub",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://slowpub.com/wordpress/",
+        "Twitter": "https://twitter.com/SlowPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.599045,
+          52.137684
+        ]
+      },
+      "properties": {
+        "Name": "Specklebelly's Brew Pub",
+        "City": "Saskatoon",
+        "Province": "SK",
+        "URL": "http://www.specklebellys.com/",
+        "Facebook": "https://www.facebook.com/specklebellys.brewpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.64164,
+          50.496014
+        ]
+      },
+      "properties": {
+        "Name": "The Tap Brewing Co. & Eatery Inc.",
+        "City": "Regina",
+        "Province": "SK",
+        "URL": "http://www.thetap.ca/",
+        "Facebook": "https://www.facebook.com/TheTapRegina",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    }  
+  ]
+}

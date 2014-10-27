@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.789215,
+          46.089874
+        ]
+      },
+      "properties": {
+        "Name": "Acadie-Broue",
+        "AKA": "(aka Laundromat Espresso Bar)",
+        "City": "Moncton",
+        "Province": "NB",
+        "Facebook": "https://www.facebook.com/pages/Acadie-Broue/176759632361301",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.060982,
+          45.271473
+        ]
+      },
+      "properties": {
+        "Name": "Big Tide Brewing",
+        "City": "Saint John",
+        "Province": "NB",
+        "URL": "http://www.bigtidebrew.com/",
+        "Facebook": "https://www.facebook.com/pages/Big-Tide-Brewing-Co/301456876447",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.807076,
+          46.048847
+        ]
+      },
+      "properties": {
+        "Name": "Celtic Knot Brewing",
+        "City": "Riverview",
+        "Province": "NB",
+        "Facebook": "https://www.facebook.com/CelticKnotBrewing",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.642578,
+          45.962814
+        ]
+      },
+      "properties": {
+        "Name": "Grimross Brewing Co.",
+        "City": "Fredricton",
+        "Province": "NB",
+        "URL": "http://grimross.com/",
+        "Facebook": "https://www.facebook.com/pages/Grimross-Brewing-Co/110264115801307",
+        "Twitter": "https://twitter.com/GrimrossBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8915076,
+          45.4303884
+        ]
+      },
+      "properties": {
+        "Name": "Hammond River Brewing",
+        "City": "Quispamsis",
+        "Province": "NB",
+        "URL": "https://www.facebook.com/hammondriverbrewery",
+        "Facebook": "https://www.facebook.com/hammondriverbrewery",
+        "Twitter": "",
+        "Opening": "Late 2013 / Early 2014",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.588669,
+          45.956432
+        ]
+      },
+      "properties": {
+        "Name": "Picaroons Traditional Ales",
+        "AKA": "Northampton Brewing Company Ltd.",
+        "City": "Fredericton",
+        "Province": "NB",
+        "URL": "http://www.picaroons.ca/",
+        "Facebook": "https://www.facebook.com/picaroons",
+        "Twitter": "https://twitter.com/picaroons",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.774551,
+          46.089725
+        ]
+      },
+      "properties": {
+        "Name": "Pumphouse Brewery",
+        "City": "Moncton",
+        "Province": "NB",
+        "URL": "http://www.pumphousebrewery.ca/",
+        "Facebook": "https://www.facebook.com/PumpHouseRestaurant",
+        "Twitter": "https://twitter.com/phbrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3536,
+          48.0588
+        ]
+      },
+      "properties": {
+        "Name": "Shiretown Beer",
+        "AKA": "Café Artisan Brewpub",
+        "City": "Dalhousie",
+        "Province": "NB",
+        "URL": "http://www.shiretownbeer.com/",
+        "Facebook": "https://www.facebook.com/shiretown",
+        "Twitter": "https://twitter.com/ShiretownBeer",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    }
+  ]
+}

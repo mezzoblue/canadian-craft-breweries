@@ -1,0 +1,1765 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.950,
+          47.348
+        ]
+      },
+      "properties": {
+        "Name": "À L'Abri de la Tempête",
+        "City": "L'Étang-du-Nord",
+        "Province": "QC",
+        "URL": "http://www.alabridelatempete.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5634,
+          46.72545
+        ]
+      },
+      "properties": {
+        "Name": "À la Fût",
+        "City": "Saint-Tite",
+        "Province": "QC",
+        "URL": "http://www.alafut.qc.ca/",
+        "Facebook": "https://www.facebook.com/microbrasserie.a.la.fut",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4394,
+          46.0254
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Artisinale Albion",
+        "City": "Joliette",
+        "Province": "QC",
+        "URL": "http://www.brasseriealbion.com/",
+        "Facebook": "https://www.facebook.com/brasserieartisanale.albion",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4444,
+          46.0067
+        ]
+      },
+      "properties": {
+        "Name": "Micro-Brasserie l'Alchimiste",
+        "City": "Joliette",
+        "Province": "QC",
+        "URL": "http://lalchimiste.ca/",
+        "Facebook": "https://www.facebook.com/mblalchimiste",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5659,
+          45.5165
+        ]
+      },
+      "properties": {
+        "Name": "L'Amère à Boire",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.amereaboire.com/",
+        "Twitter": "https://twitter.com/amereaboire",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.429,
+          46.8651
+        ]
+      },
+      "properties": {
+        "Name": "Archibald Microbrasserie",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.archibaldmicrobrasserie.ca/",
+        "Facebook": "https://www.facebook.com/pages/Archibald-microbrasserie/139558206059621",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4851,
+          45.8831
+        ]
+      },
+      "properties": {
+        "Name": "Bar Centre Ale Artisan Brasseur",
+        "City": "Drummondville",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/Bar-Centre-Ale-Artisan-Brasseur-inc/461298350588237",
+        "Twitter": "https://twitter.com/labarberie",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2181,
+          46.8181
+        ]
+      },
+      "properties": {
+        "Name": "La Barberie",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.labarberie.com/",
+        "Facebook": "https://www.facebook.com/labarberie",
+        "Twitter": "https://twitter.com/labarberie",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2088,
+          46.0285
+        ]
+      },
+      "properties": {
+        "Name": "Le Baril Roulant",
+        "City": "Val-David",
+        "Province": "QC",
+        "URL": "http://barilroulant.wordpress.com/",
+        "Facebook": "https://www.facebook.com/Brasserie.Artisanale.Le.Baril.Roulant",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.13,
+          48.56
+        ]
+      },
+      "properties": {
+        "Name": "Belghe Brasse",
+        "AKA": "Mons Beer",
+        "City": "Amos",
+        "Province": "QC",
+        "URL": "http://www.monsbeer.com/",
+        "Facebook": "https://www.facebook.com/MonsBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2859,
+          45.4466
+        ]
+      },
+      "properties": {
+        "Name": "Bedondaine & Bedons Ronds",
+        "City": "Chambly",
+        "Province": "QC",
+        "URL": "http://www.bedondaine.com/",
+        "Facebook": "https://www.facebook.com/bedondaine.bedonsronds",
+        "Twitter": "https://twitter.com/bedondaine_br",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5455,
+          46.6193
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie de Bellechase",
+        "AKA": "Pub de la Contrée",
+        "City": "Buckland",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/Pub-de-la-Contr%C3%A9e-et-Microbrasserie-de-Bellechasse/285989228202177",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5710,
+          45.5096
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Benelux",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseriebenelux.com/",
+        "Facebook": "https://www.facebook.com/BrasserieArtisanaleBENELUX",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5235,
+          48.4533
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Artisinale Le Bien, le Malt",
+        "City": "Rimouski",
+        "Province": "QC",
+        "URL": "http://lebienlemalt.com/",
+        "Facebook": "https://www.facebook.com/leBienleMalt",
+        "Twitter": "https://twitter.com/leBienleMalt",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5881,
+          45.5424
+        ]
+      },
+      "properties": {
+        "Name": "Broue Pub Brouhaha",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://brouepubbrouhaha.com/",
+        "Facebook": "https://www.facebook.com/brouepubbrouhaha",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9484,
+          45.6238
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Bilboquet",
+        "City": "Saint-Hyacinthe",
+        "Province": "QC",
+        "URL": "http://www.lebilboquet.qc.ca/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.89078,
+          45.40238
+        ]
+      },
+      "properties": {
+        "Name": "Boquébière",
+        "AKA": "Microbrasserie de Sherbrooke",
+        "City": "Sherbrook",
+        "Province": "QC",
+        "URL": "http://boquebiere.com/",
+        "Facebook": "https://www.facebook.com/boquebiere",
+        "Twitter": "https://twitter.com/Boquebiere",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8005,
+          45.1305
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Dunham",
+        "City": "Dunham",
+        "Province": "QC",
+        "URL": "http://www.brasseriedunham.com/",
+        "Facebook": "https://www.facebook.com/brasseriedunham1",
+        "Twitter": "https://twitter.com/BrasserieDunham",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5908,
+          45.468
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie McAuslan",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://mcauslan.com/",
+        "Facebook": "https://facebook.com/bierestambroise",
+        "Twitter": "https://twitter.com/bierestambroise",
+        "Note": "Fully owned by Les Brasseurs RJ",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9907,
+          45.6293
+        ]
+      },
+      "properties": {
+        "Name": "Brasseurs du Monde",
+        "City": "Saint-Hyacinthe",
+        "Province": "QC",
+        "URL": "http://brasseursdumonde.com/",
+        "Facebook": "https://www.facebook.com/BrasseurDuMonde",
+        "Twitter": "https://twitter.com/BrasseurDuMonde",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8879,
+          45.6635
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Nord",
+        "AKA": "Boréale",
+        "City": "Blainville",
+        "Province": "QC",
+        "URL": "http://www.boreale.com/",
+        "Facebook": "https://www.facebook.com/BiereBoreale",
+        "Twitter": "https://twitter.com/BiereBoreale",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7269,
+          45.4298
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Temps",
+        "City": "Gatineau",
+        "Province": "QC",
+        "URL": "http://www.brasseursdutemps.com/",
+        "Facebook": "https://www.facebook.com/LesBrasseursDuTemps",
+        "Twitter": "https://twitter.com/BrasseursDT",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8677,
+          47.56644
+        ]
+      },
+      "properties": {
+        "Name": "Breughel à Kamouraska",
+        "City": "Kamouraska",
+        "Province": "QC",
+        "URL": "http://www.breughel.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6430,
+          45.3163
+        ]
+      },
+      "properties": {
+        "Name": "Micro-Brasserie le Brouemont",
+        "AKA": "formerly Le Chaudron",
+        "City": "Bromont",
+        "Province": "QC",
+        "URL": "http://www.brouemont.com/",
+        "Facebook": "https://www.facebook.com/brouemont",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5745,
+          45.4967
+        ]
+      },
+      "properties": {
+        "Name": "Brutopia",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brutopia.net/",
+        "Facebook": "https://www.facebook.com/pages/Brutopia-Brew-Pub/30270360433",
+        "Twitter": "https://twitter.com/Brutopia",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4341,
+          48.4656
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie La Captive",
+        "City": "Amqui",
+        "Province": "QC",
+        "URL": "http://www.lacaptive.ca/",
+        "Facebook": "https://www.facebook.com/la.captive",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3188,
+          45.4863
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Castor",
+        "City": "Rigaud",
+        "Province": "QC",
+        "URL": "http://microlecastor.ca/",
+        "Facebook": "https://www.facebook.com/micro.lecastor",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5218,
+          47.4462
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Charlevoix",
+        "City": "Baie-Saint-Paul",
+        "Province": "QC",
+        "URL": "http://www.microbrasserie.com/",
+        "Facebook": "https://www.facebook.com/microbrasseriecharlevoix",
+        "Twitter": "https://twitter.com/microbrasserie",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4456,
+          48.65233
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie La Chouape",
+        "City": "Saint-Félicien",
+        "Province": "QC",
+        "URL": "http://www.lachouape.com/",
+        "Facebook": "https://www.facebook.com/lachouape",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8007,
+          45.1567
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Coaticook",
+        "City": "Coaticook",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/MicrobrasserieCoaticook",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5660,
+          45.4894
+        ]
+      },
+      "properties": {
+        "Name": "La Compagnie de Bière Brisset",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://bierebrisset.com/",
+        "Twitter": "https://twitter.com/Biere_Brisset",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1868,
+          46.80967
+        ]
+      },
+      "properties": {
+        "Name": "Le Corsaire",
+        "City": "Lévis",
+        "Province": "QC",
+        "URL": "http://www.corsairemicro.com/",
+        "Facebook": "https://www.facebook.com/pages/Le-Corsaire/123875674334727",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.23012,
+          48.87976
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Coureur Des Bois",
+        "City": "Dolbeau",
+        "Province": "QC",
+        "URL": "http://www.lecoureurdesbois.com/",
+        "Facebook": "https://www.facebook.com/lecoureurdesbois",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58752,
+          46.21273
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie la Diable",
+        "AKA": "Bistro le P'Tit Caribou",
+        "City": "Mont-Tremblant",
+        "Province": "QC",
+        "URL": "http://www.microladiable.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-La-Diable/105320326197790",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5933,
+          45.5226
+        ]
+      },
+      "properties": {
+        "Name": "Dieu du Ciel",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://dieuduciel.com/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-Dieu-du-ciel/104295439644026",
+        "Twitter": "https://twitter.com/Brasseries_DDC",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.002,
+          45.7759
+        ]
+      },
+      "properties": {
+        "Name": "Dieu du Ciel",
+        "City": "Saint-Jérôme",
+        "Province": "QC",
+        "URL": "http://dieuduciel.com/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-Dieu-du-ciel/104295439644026",
+        "Twitter": "https://twitter.com/Brasseries_DDC",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54454,
+          45.54554
+        ]
+      },
+      "properties": {
+        "Name": "L'Espace Public",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.lespacepublic.ca/",
+        "Facebook": "https://www.facebook.com/Espacepublic",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5297,
+          48.846
+        ]
+      },
+      "properties": {
+        "Name": "À la Fabrique",
+        "AKA": "Coopérative Le Cabestan",
+        "City": "Matane",
+        "Province": "QC",
+        "URL": "http://www.publafabrique.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3393,
+          45.2958
+        ]
+      },
+      "properties": {
+        "Name": "Ferme Brasserie Schoune",
+        "City": "St.Polycarpe",
+        "Province": "QC",
+        "URL": "http://www.schoune.com/",
+        "Facebook": "https://www.facebook.com/brasserie.schoune",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5372,
+          47.834
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie aux Fous Brassant",
+        "City": "Rivière-du-Loup",
+        "Province": "QC",
+        "URL": "http://www.auxfousbrassant.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Aux-Fous-Brassant/332016783504124",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7866,
+          46.485
+        ]
+      },
+      "properties": {
+        "Name": "Frampton Brasse",
+        "City": "Frampton",
+        "Province": "QC",
+        "URL": "http://www.framptonbrasse.com/",
+        "Facebook": "https://www.facebook.com/pages/Frampton-Brasse/141393719246944",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6472,
+          46.305
+        ]
+      },
+      "properties": {
+        "Name": "Les Frères Houblon Microbrasserie",
+        "City": "Trois-Rivières",
+        "Province": "QC",
+        "URL": "http://www.lesfrereshoublon.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5634,
+          46.7254
+        ]
+      },
+      "properties": {
+        "Name": "À la Fût",
+        "City": "Saint-Tite",
+        "Province": "QC",
+        "URL": "http://www.alafut.com/",
+        "Facebook": "https://www.facebook.com/microbrasserie.a.la.fut",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7155,
+          45.427
+        ]
+      },
+      "properties": {
+        "Name": "Gainsbourg Bistro-Brasserie",
+        "City": "Gatineau",
+        "Province": "QC",
+        "URL": "http://www.gainsbourg.ca/",
+        "Facebook": "https://www.facebook.com/legainsbourg",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5718,
+          46.349
+        ]
+      },
+      "properties": {
+        "Name": "Gambrinus Brasserie Artisanale",
+        "AKA": "Chez Gambrinus",
+        "City": "Trois-Rivières",
+        "Province": "QC",
+        "URL": "http://www.gambrinus.qc.ca/",
+        "Facebook": "https://www.facebook.com/pages/Gambrinus/129524540433200",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.158623,
+          44.326534
+        ]
+      },
+      "properties": {
+        "Name": "Ganonoque Brewing Co.",
+        "City": "Gananoque",
+        "Province": "ON",
+        "Facebook": "https://www.facebook.com/pages/Gananoque-Brewing-Company/169171079809900",
+        "Twitter": "https://twitter.com/GanBeerCo",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8610,
+          45.6308
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Goudale",
+        "City": "Boisbriand",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/MicrobrasserieGoudale",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7278,
+          45.4004
+        ]
+      },
+      "properties": {
+        "Name": "Le Grimoire",
+        "City": "Granby",
+        "Province": "QC",
+        "URL": "http://www.brasseriegrimoire.com/",
+        "Facebook": "https://www.facebook.com/brasseriegrimoire",
+        "Twitter": "https://twitter.com/Le_Grimoire",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1408,
+          48.4357
+        ]
+      },
+      "properties": {
+        "Name": "La Gueule de Bois",
+        "City": "Jonquière",
+        "Province": "QC",
+        "URL": "http://www.lagueuledebois.net/",
+        "Facebook": "https://www.facebook.com/MaxymDesmeules",
+        "Twitter": "https://twitter.com/Lagueuledebois",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6025,
+          45.757
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Hameau",
+        "City": "Saint-Joseph-de-Ham-Sud",
+        "Province": "QC",
+        "URL": "http://lesbrasseursduhameau.ca/",
+        "Facebook": "https://www.facebook.com/pages/Les-Brasseurs-du-Hameau/134915653193739",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6054,
+          45.5240
+        ]
+      },
+      "properties": {
+        "Name": "Helm Brasseur Gourmand",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://helmmicrobrasserie.ca/",
+        "Facebook": "https://www.facebook.com/Helmmicrobrasseriesurbernard",
+        "Twitter": "https://twitter.com/BrasseurHelm",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4314,
+          45.82215
+        ]
+      },
+      "properties": {
+        "Name": "Hopfenstark",
+        "AKA": "Brasserie Host",
+        "City": "l'Assomption",
+        "Province": "QC",
+        "URL": "http://www.hopfenstark.com/",
+        "Facebook": "https://www.facebook.com/pages/Hopfenstark-Brewery/10141119337",
+        "Twitter": "https://twitter.com/Hopfenstark",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9184,
+          45.5663
+        ]
+      },
+      "properties": {
+        "Name": "Brasseurs Illimités",
+        "City": "Saint-Eustache",
+        "Province": "QC",
+        "URL": "http://www.brasseursillimites.com/",
+        "Facebook": "https://www.facebook.com/barlinox",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21608,
+          46.8064
+        ]
+      },
+      "properties": {
+        "Name": "L'Inox",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.inox.qc.ca/",
+        "Facebook": "https://www.facebook.com/barlinox",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22683,
+          46.81383
+        ]
+      },
+      "properties": {
+        "Name": "La Korrigane",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.korrigane.ca/",
+        "Facebook": "https://www.facebook.com/LaKorrigane",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2506,
+          45.30546
+        ]
+      },
+      "properties": {
+        "Name": "Lagabière",
+        "City": "Saint-Jean-sur-Richelieu",
+        "Province": "QC",
+        "URL": "http://lagabiere.com/",
+        "Facebook": "https://www.facebook.com/Lagabiere",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.75339,
+          46.54025
+        ]
+      },
+      "properties": {
+        "Name": "Le Trou du Diable",
+        "City": "Shawnigan",
+        "Province": "QC",
+        "URL": "http://www.troududiable.com/",
+        "Facebook": "https://www.facebook.com/ShopTdd",
+        "Twitter": "https://twitter.com/troududiable",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5133,
+          46.5492
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie du Lièvre",
+        "City": "Mont-Laurie",
+        "Province": "QC",
+        "URL": "http://www.microdulievre.com/",
+        "Facebook": "https://www.facebook.com/Microbrasseriedulievre",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8555,
+          45.3662
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie le Lion d'Or",
+        "AKA": "Golden Lion Pub & Brewery",
+        "City": "Lennoxville",
+        "Province": "QC",
+        "URL": "http://www.lionlennoxville.com/",
+        "Facebook": "https://www.facebook.com/GoldenLionPubBrewery",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1148,
+          46.0452
+        ]
+      },
+      "properties": {
+        "Name": "Loup Rouge",
+        "City": "Sorel",
+        "Province": "QC",
+        "URL": "http://www.artisanbrasseur.com/",
+        "Facebook": "https://www.facebook.com/louprouge",
+        "Twitter": "https://twitter.com/artisanbrasseur",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.117,
+          45.258
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Maltéus",
+        "City": "Salaberry-de-Valleyfield",
+        "Province": "QC",
+        "URL": "http://www.mbmalteus.com/",
+        "Facebook": "https://www.facebook.com/Malteus",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.89144,
+          45.40085
+        ]
+      },
+      "properties": {
+        "Name": "La Mare du Diable",
+        "City": "Sherbrooke",
+        "Province": "QC",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15569,
+          45.26602
+        ]
+      },
+      "properties": {
+        "Name": "La Memphré Microbrasserie",
+        "City": "Magog",
+        "Province": "QC",
+        "URL": "http://www.lamic.ca/",
+        "Facebook": "https://www.facebook.com/microbrasserie.memphre",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.943,
+          47.01615
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie des Beaux-Prés",
+        "City": "Sainte-Anne-de-Beaupré",
+        "Province": "QC",
+        "URL": "http://mdbp.ca/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Des-Beaux-Prés-Page-officielle/253036521387756",
+        "Twitter": "https://twitter.com/mbeaux",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9634,
+          46.97259
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie de l'Île d’Orléans",
+        "AKA": "Pub Le Mitan",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.microorleans.com/",
+        "Facebook": "https://www.facebook.com/microorleans",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7826,
+          48.4906
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie du Lac-Saint-Jean",
+        "City": "Saint-Gédéon",
+        "Province": "QC",
+        "URL": "http://www.microdulac.com/",
+        "Facebook": "https://www.facebook.com/groups/21372176423/",
+        "Twitter": "https://twitter.com/Microdulac",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5644,
+          45.4897
+        ]
+      },
+      "properties": {
+        "Name": "Brasseur de Montreal",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseurdemontreal.ca/",
+        "Facebook": "https://www.facebook.com/BrasseurdeMontreal",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9428,
+          45.8807
+        ]
+      },
+      "properties": {
+        "Name": "Multi-Brasses",
+        "City": "Tingwick",
+        "Province": "QC",
+        "URL": "http://www.multi-brasses.com/",
+        "Twitter": "https://twitter.com/MuskokaBrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1256,
+          48.1038
+        ]
+      },
+      "properties": {
+        "Name": "Micro-Brasserie Le Naufrageur",
+        "City": "Carleton",
+        "Province": "QC",
+        "URL": "http://www.lenaufrageur.com/",
+        "Facebook": "https://www.facebook.com/pages/microbrasserie-le-Naufrageur/142332679113613",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8941,
+          45.55824
+        ]
+      },
+      "properties": {
+        "Name": "Noire & Blanche Microbrasserie Restaurant",
+        "City": "Saint-Eustache",
+        "Province": "QC",
+        "URL": "http://noire-et-blanche.ca/",
+        "Facebook": "https://www.facebook.com/nebmicro",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1492,
+          46.45059
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Nouvelle-France",
+        "AKA": "Les bières de la Nouvelle-France",
+        "City": "Saint-Alexis-des-Monts",
+        "Province": "QC",
+        "URL": "http://www.lesbieresnouvellefrance.com/home",
+        "Facebook": "https://www.facebook.com/bieresansgluten",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.439,
+          46.7744
+        ]
+      },
+      "properties": {
+        "Name": "Phil et Auré Brasseurs",
+        "City": "Armagh",
+        "Province": "QC",
+        "URL": "http://www.biere-lyon.ca/",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3095,
+          48.4714
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Pit Caribou",
+        "City": "Anse-à-Beaufils",
+        "Province": "QC",
+        "URL": "http://www.pitcaribou.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Pit-Caribou/525384144158039",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5792,
+          45.5172
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Réservoir",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseriereservoir.ca/",
+        "Facebook": "https://www.facebook.com/pages/Le-Reservoir/157516660936598",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5917,
+          45.5338
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs RJ",
+        "AKA": "Le Cheval Blanc",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.brasseursrj.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8489,
+          45.0763
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie-Saint-Antoine-Abbé",
+        "City": "Franklin",
+        "Province": "QC",
+        "URL": "http://www.brasserie-saint-antoine-abbe.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5647,
+          45.5158
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie artisanale Le Saint-Bock",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://www.saintbock.com/",
+        "Facebook": "https://www.facebook.com/SaintBock",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8408,
+          45.6385
+        ]
+      },
+      "properties": {
+        "Name": "Le Saint Graal (Brasserie Artisinale)",
+        "City": "Sainte-Thérèse",
+        "Province": "QC",
+        "URL": "http://www.saintgraal.ca/",
+        "Facebook": "https://www.facebook.com/pages/Le-Saint-Graal-Brasserie-artisanale/143139195698756",
+        "Twitter": "https://twitter.com/lesaintgraal",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5826,
+          45.4696
+        ]
+      },
+      "properties": {
+        "Name": "Brasseurs sans Gluten",
+        "AKA": "Glutenberg",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "https://glutenberg.ca/",
+        "Facebook": "https://www.facebook.com/brasseurssansgluten",
+        "Twitter": "https://twitter.com/glutenberg",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8888,
+          45.4007
+        ]
+      },
+      "properties": {
+        "Name": "Siboire",
+        "City": "Sherbrooke",
+        "Province": "QC",
+        "URL": "http://www.siboire.ca/",
+        "Facebook": "https://www.facebook.com/Siboire",
+        "Twitter": "https://twitter.com/equipesiboire",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.26078,
+          45.441292
+        ]
+      },
+      "properties": {
+        "Name": "Sleeman Unibroue Inc.",
+        "City": "Chambly",
+        "Province": "QC",
+        "URL": "http://www.unibroue.com/",
+        "Facebook": "https://www.facebook.com/unibroue",
+        "Twitter": "https://twitter.com/unibroue",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.674,
+          46.1215
+        ]
+      },
+      "properties": {
+        "Name": "La Société Microbrasserie",
+        "City": "Saint Georges de Beauce",
+        "Province": "QC",
+        "URL": "http://societemicrobrasserie.com/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22576,
+          46.82882
+        ]
+      },
+      "properties": {
+        "Name": "La Souche Brasserie Artisinale",
+        "City": "Québec",
+        "Province": "QC",
+        "URL": "http://www.lasouche.ca/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-Artisanale-La-Souche/192214074206829",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5716,
+          46.1186
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Saint-Arnould",
+        "City": "Mont-Tremblant",
+        "Province": "QC",
+        "URL": "http://www.saintarnould.com/",
+        "Facebook": "https://www.facebook.com/saintarnould",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1527,
+          49.221
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie St-Pancrace",
+        "City": "Baie-Comeau",
+        "Province": "QC",
+        "URL": "http://www.stpancrace.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-St-Pancrace/129953120534339",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736,
+          45.5502
+        ]
+      },
+      "properties": {
+        "Name": "La Succursale",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://lasuccursale.com/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-artisanale-La-Succursale/143406492363466",
+        "Twitter": "https://twitter.com/LaSuccursale",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0522,
+          48.4289
+        ]
+      },
+      "properties": {
+        "Name": "La Tour à Bières Microbrasserie",
+        "City": "Chicoutimi",
+        "Province": "QC",
+        "URL": "http://www.latourabieres.com/",
+        "Facebook": "https://www.facebook.com/pages/La-Tour-a-Bi%C3%A8res/45620433021",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0196,
+          48.2152
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Trèfle Noir",
+        "City": "Rouyn-Noranda",
+        "Province": "QC",
+        "URL": "http://www.letreflenoir.com/",
+        "Facebook": "https://www.facebook.com/groups/83179587033/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4633,
+          45.4310
+        ]
+      },
+      "properties": {
+        "Name": "Les Trois Mousquetaires",
+        "City": "Brossard",
+        "Province": "QC",
+        "URL": "http://lestroismousquetaires.ca/",
+        "Facebook": "https://www.facebook.com/les.trois.mousquetaires",
+        "Twitter": "https://twitter.com/3_Mousquetaires",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6156,
+          45.5298
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie du Vieux Montréal",
+        "City": "Montréal",
+        "Province": "QC",
+        "URL": "http://bvmbrewery.com/fr/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0457,
+          48.4169
+        ]
+      },
+      "properties": {
+        "Name": "La Voie Maltée",
+        "City": "Chicoutimi",
+        "Province": "QC",
+        "URL": "http://www.lavoiemaltee.com/",
+        "Facebook": "https://www.facebook.com/voiemaltee",
+        "Twitter": "https://twitter.com/VoieMaltee",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    }
+  ]
+}

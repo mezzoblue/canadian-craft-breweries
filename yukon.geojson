@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.078568,
+          60.737785
+        ]
+      },
+      "properties": {
+        "Name": "Yukon Brewing Company",
+        "City": "Whitehorse",
+        "Province": "YT",
+        "URL": "http://yukonbeer.com/",
+        "Facebook": "https://www.facebook.com/yukonbeer",
+        "Twitter": "https://twitter.com/yukonbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    }
+
+  ]
+}

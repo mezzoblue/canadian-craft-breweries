@@ -1,0 +1,303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.737688,
+          45.0587753
+        ]
+      },
+      "properties": {
+        "Name": "Bad Apple Brewhouse",
+        "City": "Berwick",
+        "Province": "NS",
+        "URL": "http://badapplebrewhouse.ca/",
+        "Facebook": "https://www.facebook.com/badapplebrewhouse",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.890778,
+          46.090168
+        ]
+      },
+      "properties": {
+        "Name": "Big Spruce Brewing",
+        "City": "Nyanza",
+        "Province": "NS",
+        "URL": "http://www.bigspruce.ca/",
+        "Facebook": "https://www.facebook.com/BigSpruceBrewing",
+        "Twitter": "https://twitter.com/BigSpruceBrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.338722,
+          43.777214
+        ]
+      },
+      "properties": {
+        "Name": "Boxing Rock Brewing Co.",
+        "City": "Shelburne",
+        "Province": "NS",
+        "URL": "http://boxingrock.ca/",
+        "Facebook": "https://www.facebook.com/boxingrock",
+        "Twitter": "https://twitter.com/boxingrockbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.593353,
+          44.655109
+        ]
+      },
+      "properties": {
+        "Name": "Bridge Brewing Co.",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://bridgebeer.ca/",
+        "Facebook": "https://www.facebook.com/BridgeBrewing",
+        "Twitter": "https://twitter.com/bridgebrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.617271,
+          44.664295
+        ]
+      },
+      "properties": {
+        "Name": "Garrison Brewing Co.",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.garrisonbrewing.com/",
+        "Facebook": "https://www.facebook.com/garrisonbrewing",
+        "Twitter": "https://twitter.com/GarrisonBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.574017,
+          44.646767
+        ]
+      },
+      "properties": {
+        "Name": "Granite Brewery",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.granitebreweryhalifax.ca/",
+        "Twitter": "https://twitter.com/granitebrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7177,
+          44.0385
+        ]
+      },
+      "properties": {
+        "Name": "Hell Bay Brewing Co.",
+        "City": "Liverpool",
+        "Province": "NS",
+        "URL": "http://www.hellbaybrewing.com/",
+        "Facebook": "https://www.facebook.com/Hellbaybrewing",
+        "Twitter": "https://twitter.com/HellBayBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.36306,
+          45.091438
+        ]
+      },
+      "properties": {
+        "Name": "Paddy's Brewpub",
+        "City": "Wolfville",
+        "Province": "NS",
+        "URL": "http://www.paddyspub.ca/",
+        "Facebook": "https://www.facebook.com/pages/Paddys-Pub-Rosies-Restaurant/204366802909265",
+        "Twitter": "https://twitter.com/paddysbrew",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.407349,
+          45.096249
+        ]
+      },
+      "properties": {
+        "Name": "The Port Pub",
+        "AKA": "Sea Level Brewing",
+        "City": "Port Williams",
+        "Province": "NS",
+        "URL": "http://www.theportpub.com/",
+        "Facebook": "https://www.facebook.com/ThePortPub",
+        "Twitter": "https://twitter.com/PortPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.581409,
+          44.65081
+        ]
+      },
+      "properties": {
+        "Name": "Propeller Brewing",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.drinkpropeller.ca/",
+        "Twitter": "https://twitter.com/PropellerBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.498142,
+          45.391701
+        ]
+      },
+      "properties": {
+        "Name": "Rare Bird Pub & Eatery",
+        "City": "Guysborough",
+        "Province": "NS",
+        "URL": "http://www.rarebirdpub.com/",
+        "Facebook": "https://www.facebook.com/rarebirdpub",
+        "Twitter": "https://twitter.com/rarebirdpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578945,
+          44.642376
+        ]
+      },
+      "properties": {
+        "Name": "Rockbottom Brew Pub",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://rockbottombrewpub.ca/",
+        "Facebook": "https://www.facebook.com/RockbottomBrewpubRestaurant",
+        "Twitter": "https://twitter.com/rockbotmbrewpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575542,
+          44.643475
+        ]
+      },
+      "properties": {
+        "Name": "Rogues Roost Brew Pub",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.roguesroost.ca/",
+        "Facebook": "https://www.facebook.com/RoguesRoost",
+        "Twitter": "https://twitter.com/Rogues_Roost",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.121666,
+          43.836666
+        ]
+      },
+      "properties": {
+        "Name": "Rudders Restaurant & Brew Pub",
+        "City": "Yarmouth",
+        "Province": "NS",
+        "URL": "http://www.ruddersbrewpub.com/",
+        "Facebook": "https://www.facebook.com/pages/Rudders-Seafood-Restaurant-Brew-Pub/350257900009",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.768284,
+          45.675213
+        ]
+      },
+      "properties": {
+        "Name": "Uncle Leo's Brewery",
+        "AKA": "Whiffen Brewing Company",
+        "City": "Pictou",
+        "Province": "NS",
+        "URL": "http://uncleleosbrewery.ca/",
+        "Facebook": "https://www.facebook.com/UncleLeosBrewery",
+        "Twitter": "https://twitter.com/UncleLeosBrewer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    }
+  ]
+}

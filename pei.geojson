@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4304611,
+          46.3225471
+        ]
+      },
+      "properties": {
+        "Name": "Barnone Brewing",
+        "City": "Rose Valley (no address available)",
+        "Province": "PEI",
+        "Facebook": "https://www.facebook.com/BarNone.Brewing",
+        "Twitter": "https://twitter.com/BARNONEBEER",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.125946,
+          46.233582
+        ]
+      },
+      "properties": {
+        "Name": "The Gahan House",
+        "AKA": "(aka PEI Brewing Co.)",
+        "City": "Charlottetown",
+        "Province": "PEI",
+        "URL": "http://www.gahan.ca/",
+        "Twitter": "https://twitter.com/GahanPub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.114815,
+          46.254921
+        ]
+      },
+      "properties": {
+        "Name": "PEI Brewing",
+        "City": "Charlottetown",
+        "Province": "PEI",
+        "URL": "http://www.peibrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/peibrewingcompany",
+        "Twitter": "https://twitter.com/PEIBrew/",
+        "Note": "Commercial brewery for Beach Chair & Gahan House brewpub",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    }
+  ]
+}

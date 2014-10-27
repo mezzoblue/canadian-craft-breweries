@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.131187,
+          49.86129
+        ]
+      },
+      "properties": {
+        "Name": "Farmery Estate Brewery",
+        "City": "Winnipeg",
+        "Province": "MB",
+        "URL": "http://www.farmery.ca/",
+        "Facebook": "https://www.facebook.com/farmerybeer",
+        "Twitter": "https://twitter.com/FarmeryBrewery",
+        "Note": "No address available, retail outlet at Luxalune Gastropub.",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2084,
+          49.8359
+        ]
+      },
+      "properties": {
+        "Name": "Fort Garry Brewing Co.",
+        "City": "Winnipeg",
+        "Province": "MB",
+        "URL": "http://www.fortgarry.com/",
+        "Facebook": "https://www.facebook.com/pages/Fort-Garry-Brewing-Company/103771686328808",
+        "Twitter": "https://twitter.com/fortgarrybeer",
+        "Note": "Wholly-owned by Russell Brewing in BC, some beers produced there.",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2154,
+          49.8916
+        ]
+      },
+      "properties": {
+        "Name": "Half Pints Brewing Co.",
+        "City": "Winnipeg",
+        "Province": "MB",
+        "URL": "http://www.halfpintsbrewing.com/",
+        "Facebook": "https://www.facebook.com/HalfPintsBrewCo",
+        "Twitter": "https://twitter.com/HalfPintsBrewCo",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    }
+  ]
+}
