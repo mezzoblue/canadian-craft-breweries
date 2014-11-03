@@ -858,6 +858,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.8537092,
+          49.2788813
+        ]
+      },
+      "properties": {
+        "Name": "Moody Ales",
+        "City": "Port Moody",
+        "Province": "BC",
+        "URL": "http://www.moodyales.com/",
+        "Facebook": "https://www.facebook.com/MoodyAles",
+        "Twitter": "https://twitter.com/moodyales",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.375137,
           48.435043
         ]
@@ -1212,26 +1232,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.9274,
-          49.2018
-        ]
-      },
-      "properties": {
-        "Name": "Steel & Oak Brewing",
-        "City": "New Westminster",
-        "Province": "BC",
-        "URL": "http://steelandoak.ca/",
-        "Facebook": "https://www.facebook.com/steelandoak",
-        "Twitter": "https://twitter.com/SteelAndOak",
-        "Type": "Brewery",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -123.019897,
           49.273994
         ]
@@ -1263,6 +1263,46 @@
         "URL": "http://steamworks.com/brew-pub",
         "Facebook": "https://www.facebook.com/Steamworks",
         "Twitter": "https://twitter.com/steamworkspub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9274,
+          49.2018
+        ]
+      },
+      "properties": {
+        "Name": "Steel & Oak Brewing",
+        "City": "New Westminster",
+        "Province": "BC",
+        "URL": "http://steelandoak.ca/",
+        "Facebook": "https://www.facebook.com/steelandoak",
+        "Twitter": "https://twitter.com/SteelAndOak",
+        "Type": "Brewery",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.102898,
+          49.269501
+        ]
+      },
+      "properties": {
+        "Name": "Steel Toad Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://steeltoad.ca/",
+        "Twitter": "https://twitter.com/SteelToadBeer",
+        "Opening": "2014",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -1523,6 +1563,28 @@
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
-    }    
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.848621,
+          49.278866
+        ]
+      },
+      "properties": {
+        "Name": "Yellow Dog Brewing",
+        "City": "Port Moody",
+        "Province": "BC",
+        "URL": "http://www.yellowdogbeer.com/",
+        "Facebook": "https://www.facebook.com/YellowDogBeer",
+        "Twitter": "https://twitter.com/yellowdogbeer",
+        "Opening": "2014",
+        "Type": "Brewery",
+        "marker-color": "#00f"
+      }
+    }
+
   ]
 }

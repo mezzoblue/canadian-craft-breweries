@@ -347,6 +347,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0764713,
+          49.2776322
+        ]
+      },
+      "properties": {
+        "Name": "Off the Rail Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://offtherailbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Off-The-Rail-Brewing-Co/286997414805699",
+        "Twitter": "https://twitter.com/OffTheRailBeer",
+        "Opening": "2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.9438,
           44.1042
         ]
@@ -568,26 +589,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.102898,
-          49.269501
-        ]
-      },
-      "properties": {
-        "Name": "Steel Toad Brewing",
-        "City": "Vancouver",
-        "Province": "BC",
-        "URL": "http://steeltoad.ca/",
-        "Twitter": "https://twitter.com/SteelToadBeer",
-        "Opening": "2014",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.250778,
           43.978333
         ]
@@ -702,27 +703,6 @@
         "URL": "http://www.williamstreetbeer.com/",
         "Facebook": "https://www.facebook.com/williamstreetbeerco",
         "Twitter": "https://twitter.com/CobourgBeer",
-        "Opening": "2014",
-        "Type": "Brewery",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.848621,
-          49.278866
-        ]
-      },
-      "properties": {
-        "Name": "Yellow Dog Brewing",
-        "City": "Port Moody",
-        "Province": "BC",
-        "URL": "http://www.yellowdogbeer.com/",
-        "Facebook": "https://www.facebook.com/YellowDogBeer",
-        "Twitter": "https://twitter.com/yellowdogbeer",
         "Opening": "2014",
         "Type": "Brewery",
         "marker-color": "#00f"
