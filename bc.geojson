@@ -126,11 +126,11 @@
         ]
       },
       "properties": {
-        "Name": "Beacon Brewing",
+        "Name": "Torchlight Brewing",
         "City": "Nelson",
         "Province": "BC",
-        "URL": "http://www.beaconbrewing.com/",
-        "Twitter": "https://twitter.com/Beacon_Brewing",
+        "URL": "http://www.torchlightbrewing.com/",
+        "Twitter": "https://twitter.com/Brew_Torchlight",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
       }
@@ -349,7 +349,7 @@
         "URL": "http://www.canuckempirebrewing.com/",
         "Facebook": "https://www.facebook.com/CanuckEmpire",
         "Twitter": "https://twitter.com/CanuckEmpire",
-        "Note": "Contract brewing at Dead Frog in BC while awaiting permanent space.",
+        "Note": "Contract brewed at Dead Frog in BC while awaiting permanent space.",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
       }
@@ -1133,8 +1133,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.068481,
-          49.284187
+          -123.075781,
+          49.283323
         ]
       },
       "properties": {
@@ -1144,8 +1144,8 @@
         "URL": "http://www.powellbeer.com/",
         "Facebook": "https://www.facebook.com/PowellBeer",
         "Twitter": "https://twitter.com/PowellBeer",
-        "Type": "Nanobrewery",
-        "marker-color": "#ffaa00"
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1168,6 +1168,27 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3326669,
+          50.6765548
+        ]
+      },
+      "properties": {
+        "Name": "Red Collar Brewing Co.",
+        "City": "Kamloops",
+        "Province": "BC",
+        "URL": "http://redcollar.ca/",
+        "Facebook": "https://www.facebook.com/redcollarbrewery",
+        "Twitter": "https://twitter.com/redcollarbrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {

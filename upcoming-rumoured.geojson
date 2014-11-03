@@ -49,25 +49,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.75,
-          50.306
-        ]
-      },
-      "properties": {
-        "Name": "Black Bridge Brewery",
-        "City": "Swift Current",
-        "Province": "SK (no address available)",
-        "Twitter": "https://twitter.com/BLckBrgBrew",
-        "Opening": "Spring 2014",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.3188,
           46.8902
         ]
@@ -147,13 +128,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.344603,
+          45.347555
+        ]
+      },
+      "properties": {
+        "Name": "Cartwright Springs Brewery",
+        "City": "Pakenham",
+        "Province": "ON",
+        "URL": "http://www.csbeer.ca/",
+        "Facebook": "https://www.facebook.com/CartwrightSpringsBrewery",
+        "Opening": "Late 2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.408,
           48.565
         ]
       },
       "properties": {
         "Name": "Category 12 Brewing",
-        "City": "Vancouver",
+        "City": "Victoria",
         "Province": "BC",
         "URL": "http://category12brewing.com/",
         "Facebook": "https://www.facebook.com/category12beer",
@@ -267,6 +268,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -124.990913,
+          49.685645
+        ]
+      },
+      "properties": {
+        "Name": "Forbidden Brewing Co.",
+        "City": "Courtenay",
+        "Province": "BC",
+        "URL": "http://forbiddenbrewing.com/",
+        "Facebook": "https://www.facebook.com/forbiddenbrewing",
+        "Opening": "2015",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9982167,
+          49.6920123
+        ]
+      },
+      "properties": {
+        "Name": "Gladstone Brewing Co.",
+        "City": "Courtenay",
+        "Province": "BC",
+        "URL": "http://www.gladstonebrewing.ca/",
+        "Facebook": "https://www.facebook.com/gladstonebrewingco",
+        "Opening": "2015",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.4539,
           51.18375
         ]
@@ -299,11 +340,50 @@
         "URL": "http://thehamiltonbrewery.com/",
         "Facebook": "https://www.facebook.com/thehamiltonbrewery",
         "Twitter": "https://twitter.com/hamiltonbrewery",
-        "Opening": "Late 2013 / Early 2014",
+        "Opening": "Late 2014",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.695204,
+          43.9163651
+        ]
+      },
+      "properties": {
+        "Name": "Manantler Craft Brewing Co.",
+        "City": "Bowmanville",
+        "Province": "ON",
+        "Facebook": "https://www.facebook.com/ManantlerCraftBrewingCo",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2787499,
+          43.133147
+        ]
+      },
+      "properties": {
+        "Name": "Mash Paddle Brewing",
+        "City": "Brantford",
+        "Province": "ON",
+        "URL": "http://www.midianbrewing.com/",
+        "Facebook": "https://www.facebook.com/Mashpaddlebrewingco",
+        "Opening": "2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {

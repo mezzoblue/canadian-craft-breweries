@@ -229,6 +229,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.6314974,
+          45.4063006
+        ]
+      },
+      "properties": {
+        "Name": "Bicycle Craft Brewery",
+        "City": "Ottawa",
+        "Province": "ON",
+        "URL": "http://www.bicyclecraftbrewery.ca/",
+        "Facebook": "https://www.facebook.com/bicyclecraftbrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.786957,
           45.348045
         ]
@@ -280,6 +299,26 @@
         "URL": "http://blackoakbeer.com/",
         "Facebook": "https://www.facebook.com/blackoakbrewery",
         "Twitter": "https://twitter.com/BlackOakBrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9810091,
+          43.368223
+        ]
+      },
+      "properties": {
+        "Name": "Black Swan Brewing Co.",
+        "City": "Stratford",
+        "Province": "ON",
+        "URL": "http://www.blackswanbrewing.ca/",
+        "Facebook": "https://www.facebook.com/blackswanbrewingco",
+        "Twitter": "https://twitter.com/blackswanbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -972,6 +1011,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.2309543,
+          42.9890924
+        ]
+      },
+      "properties": {
+        "Name": "London Brewing Co-Operative",
+        "AKA": "The Root Cellar",
+        "City": "London",
+        "Province": "ON",
+        "URL": "http://londonbrewing.ca/",
+        "Facebook": "https://www.facebook.com/LondonBrewing",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.864227,
           44.126381
         ]
@@ -1266,6 +1325,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.165894,
+          43.152951
+        ]
+      },
+      "properties": {
+        "Name": "Shillow Beer Co.",
+        "City": "Toronto",
+        "Province": "ON (no address available)",
+        "URL": "http://www.shillowbeer.com/",
+        "Facebook": "https://www.facebook.com/ShillowBeer",
+        "Twitter": "https://twitter.com/ShillowBeer",
+        "Note": "Contract brewed at Niagara College Teaching Brewery",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.870064,
           43.252003
         ]
@@ -1338,6 +1418,25 @@
         "Twitter": "https://twitter.com/SpearheadBeer",
         "Note": "Most likely a contract brewer.",
         "Type": "Contract Brewer",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1342759,
+          45.7079972
+        ]
+      },
+      "properties": {
+        "Name": "Square Timber Brewing Company",
+        "City": "Pembroke",
+        "Province": "ON",
+        "URL": "http://www.squaretimber.com/",
+        "Facebook": "https://www.facebook.com/squaretimber",
+        "Type": "Brewery",
         "marker-color": "#f00"
       }
     },
@@ -1474,6 +1573,26 @@
         "URL": "http://www.wellingtonbrewery.ca/",
         "Facebook": "https://www.facebook.com/wellingtonbrewery",
         "Twitter": "https://twitter.com/WellingtonBrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8194835,
+          45.3298666
+        ]
+      },
+      "properties": {
+        "Name": "Whiprsnapr Brewing",
+        "City": "Nepean",
+        "Province": "ON",
+        "URL": "http://whiprsnaprbrewingco.com/",
+        "Facebook": "https://www.facebook.com/whiprsnaprbrewingco",
+        "Twitter": "https://twitter.com/whiprsnaprbrew",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
