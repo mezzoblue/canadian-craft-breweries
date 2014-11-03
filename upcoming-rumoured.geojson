@@ -416,8 +416,10 @@
         "Name": "NWT Brewing Company",
         "City": "Yellowknife",
         "Province": "NWT",
-        "URL": "http://www.beerincanada.ca/?p=1688",
-        "Opening": "Late 2013",
+        "URL": "http://nwtbrewingco.com/",
+        "Facebook": "https://www.facebook.com/NWTBeer",
+        "Twitter": "https://twitter.com/nwtbrewingco",
+        "Opening": "2015",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
