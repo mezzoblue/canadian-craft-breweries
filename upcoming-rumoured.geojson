@@ -510,6 +510,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.4784593,
+          43.6723867
+        ]
+      },
+      "properties": {
+        "Name": "Rainhard Brewing Co.",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://rainhardbrewery.com/",
+        "Facebook": "https://www.facebook.com/rainhardbrewery",
+        "Twitter": "https://twitter.com/RainhardBrewCo/",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.618,
           50.455
         ]
@@ -755,16 +777,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.392494,
-          48.415443
+          -112.8649304,
+          49.6915195
         ]
       },
       "properties": {
-        "Name": "Victoria Caledonian Distillery & Brewpub",
-        "City": "Victoria",
-        "Province": "BC",
-        "URL": "http://www.macaloneydistillers.com/",
-        "Opening": "Unknown",
+        "Name": "Wild Craft Brewery",
+        "City": "Lethbridge (Address Unknown)",
+        "Province": "AB",
+        "URL": "http://wildcraftbrewery.ca/",
+        "Facebook": "https://www.facebook.com/WildCraftBrewery",
+        "Opening": "Spring 2015",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }

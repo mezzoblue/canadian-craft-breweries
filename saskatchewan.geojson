@@ -365,6 +365,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.01225,
+          51.5076443
+        ]
+      },
+      "properties": {
+        "Name": "Nokomis Craft Ales",
+        "City": "Nokomis",
+        "Province": "SK",
+        "URL": "http://www.nokomiscraftales.com/",
+        "Facebook": "https://www.facebook.com/nokomiscraftales",
+        "Twitter": "https://twitter.com/nokomisbeer",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.597435,
           52.130196
         ]

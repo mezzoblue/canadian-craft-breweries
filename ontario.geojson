@@ -1147,6 +1147,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.1741608,
+          43.9801359
+        ]
+      },
+      "properties": {
+        "Name": "Northumberland Hills Brewery",
+        "City": "Cobourg",
+        "Province": "ON",
+        "URL": "http://nhbrewery.ca/",
+        "Facebook": "https://www.facebook.com/TheNHBbrewpot",
+        "Twitter": "https://twitter.com/Northwindsbeer",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.215,
           44.51
         ]
@@ -1226,8 +1246,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.27,
-          43.6
+          -79.3,
+          43.61
+        ]
+      },
+      "properties": {
+        "Name": "Old Tomorrow Brewing",
+        "City": "Toronto",
+        "Province": "ON (no address available)",
+        "URL": "http://www.oldtomorrow.com/",
+        "Twitter": "https://twitter.com/OldTomorrowBeer/",
+        "Note": "Contract brewed elsewhere",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29,
+          43.61
         ]
       },
       "properties": {
