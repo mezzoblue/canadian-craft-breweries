@@ -25,6 +25,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -67.2415564,
+          45.9736053
+        ]
+      },
+      "properties": {
+        "Name": "Big Axe Brewing",
+        "City": "Nackawick",
+        "Province": "NB",
+        "URL": "http://www.bigaxe.ca/",
+        "Facebook": "https://www.facebook.com/BigAxeBrewery",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.060982,
           45.271473
         ]
@@ -96,6 +115,26 @@
         "Opening": "Late 2013 / Early 2014",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3269218,
+          47.3661126
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Petit-Sault",
+        "City": "Fredericton",
+        "Province": "NB",
+        "URL": "http://petitsault.com/en/",
+        "Facebook": "https://www.facebook.com/Petit.Sault",
+        "Twitter": "https://twitter.com/petitsault",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {

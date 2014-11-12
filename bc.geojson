@@ -127,6 +127,7 @@
       },
       "properties": {
         "Name": "Torchlight Brewing",
+        "AKA": "Beacon Brewing",
         "City": "Nelson",
         "Province": "BC",
         "URL": "http://www.torchlightbrewing.com/",
@@ -824,7 +825,7 @@
         ]
       },
       "properties": {
-        "Name": "Main St. Brewery",
+        "Name": "Main Street Brewery",
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://mainstreetbeer.ca/",
@@ -1323,7 +1324,6 @@
         "Province": "BC",
         "URL": "http://steeltoad.ca/",
         "Twitter": "https://twitter.com/SteelToadBeer",
-        "Opening": "2014",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -1550,6 +1550,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.801873,
+          49.0293126
+        ]
+      },
+      "properties": {
+        "Name": "White Rock Beach Beer Co.",
+        "City": "White Rock",
+        "Province": "BC",
+        "URL": "http://www.whiterockbeachbeer.com/",
+        "Facebook": "https://www.facebook.com/pages/White-Rock-Beach-Beer-Company/277772139071094?",
+        "Twitter": "https://twitter.com/WRBeachBeer",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.931503,
           49.14185
         ]
@@ -1561,7 +1581,7 @@
         "Province": "BC",
         "URL": "http://www.wolfbrewingcompany.com/",
         "Facebook": "https://www.facebook.com/Wolf.Nanaimo",
-        "Twitter": "https://twitter.com/WolfBrewingComp",
+        "Twitter": "https://twitter.com/WolfBrewing1",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1601,7 +1621,6 @@
         "URL": "http://www.yellowdogbeer.com/",
         "Facebook": "https://www.facebook.com/YellowDogBeer",
         "Twitter": "https://twitter.com/yellowdogbeer",
-        "Opening": "2014",
         "Type": "Brewery",
         "marker-color": "#00f"
       }

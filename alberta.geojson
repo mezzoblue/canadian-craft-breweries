@@ -113,13 +113,14 @@
         ]
       },
       "properties": {
-        "Name": "Brew Brothers Brewery",
+        "Name": "Last Best Brewing & Distilling",
         "City": "Calgary",
         "Province": "AB",
-        "URL": "http://www.brewbrothers.com/",
-        "Twitter": "https://twitter.com/brewbrosbrewery",
-        "Type": "Nanobrewery",
-        "marker-color": "#ffaa00"
+        "URL": "http://www.lastbestbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Last-Best-Brewing-Distilling/579794618783583",
+        "Twitter": "https://twitter.com/lastbestbrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -340,6 +341,26 @@
         "Twitter": "https://twitter.com/BrewstersPub",
         "Type": "Brewpub Chain",
         "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0147827,
+          51.0749892
+        ]
+      },
+      "properties": {
+        "Name": "The Dandy Brewing Company",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://www.thedandybrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/dandyalesyyc",
+        "Twitter": "https://twitter.com/DandyAlesYYC",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {

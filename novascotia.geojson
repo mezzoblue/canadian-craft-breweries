@@ -144,6 +144,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -63.9262398,
+          45.0050158
+        ]
+      },
+      "properties": {
+        "Name": "Meander River Farm & Brewery",
+        "City": "Ashdale",
+        "Province": "NS",
+        "URL": "http://www.meanderriverfarm.ca/",
+        "Facebook": "https://www.facebook.com/MeanderRiverFarm",
+        "Twitter": "https://twitter.com/meanderriver",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -64.36306,
           45.091438
         ]
@@ -276,6 +297,44 @@
         "Facebook": "https://www.facebook.com/pages/Rudders-Seafood-Restaurant-Brew-Pub/350257900009",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1494119,
+          44.9953337
+        ]
+      },
+      "properties": {
+        "Name": "Schoolhouse Brewery",
+        "City": "Falmouth",
+        "Province": "NS (No address available)",
+        "URL": "http://schoolhousebrewery.ca/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2914759,
+          45.7122358
+        ]
+      },
+      "properties": {
+        "Name": "Tatamagouche Brewing Co.",
+        "City": "Tatamagouche",
+        "Province": "NS",
+        "URL": "http://tatabrew.com/",
+        "Facebook": "https://www.facebook.com/tatabrew",
+        "Twitter": "https://twitter.com/TataBrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {

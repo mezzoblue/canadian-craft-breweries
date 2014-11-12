@@ -7,6 +7,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -64.8065612,
+          46.0583577
+        ]
+      },
+      "properties": {
+        "Name": "A.W.O.L. Brewing",
+        "City": "Riverview",
+        "Province": "NB",
+        "Facebook": "https://www.facebook.com/awolbrew",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3941342,
+          53.6636962
+        ]
+      },
+      "properties": {
+        "Name": "Bench Creek Brewing",
+        "City": "Yellowhead County",
+        "Province": "AB (No address available)",
+        "URL": "http://www.benchcreekbrewing.com/",
+        "Facebook": "https://www.facebook.com/benchcreekbrewing",
+        "Twitter": "https://twitter.com/benchcreekbrew",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.110977,
           49.267381
         ]
@@ -39,6 +79,27 @@
         "URL": "http://bigsoundbrewing.com/",
         "Facebook": "https://www.facebook.com/BigSoundBrewing",
         "Twitter": "https://twitter.com/bigsoundbrewing",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.70543,
+          52.4738373
+        ]
+      },
+      "properties": {
+        "Name": "Blind Man Brewing",
+        "City": "Lacombe",
+        "Province": "AB (No address available)",
+        "URL": "http://www.blindmanbrewing.com/",
+        "Facebook": "https://www.facebook.com/blindmanbrewing",
+        "Twitter": "https://twitter.com/blindmanbrewery",
         "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#aaa"
@@ -210,6 +271,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -125.0278284,
+          49.6190871
+        ]
+      },
+      "properties": {
+        "Name": "Cumberland Brewing Company",
+        "City": "Cumberland",
+        "Province": "BC",
+        "URL": "http://cumberlandbrewing.com/",
+        "Facebook": "https://www.facebook.com/cumberlandbrewingco",
+        "Twitter": "https://twitter.com/cumberlandbeer",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.30,
           49.275
         ]
@@ -368,6 +450,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.6078438,
+          49.2102872
+        ]
+      },
+      "properties": {
+        "Name": "Maple Meadows Brewing Co.",
+        "City": "Maple Ridge",
+        "Province": "BC (Address Unknown)",
+        "URL": "http://www.maplemeadowsbrewery.com/",
+        "Twitter": "https://twitter.com/MMBrewingCo",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.2787499,
           43.133147
         ]
@@ -383,7 +485,6 @@
         "marker-color": "#f00"
       }
     },
-
     {
       "type": "Feature",
       "geometry": {
@@ -403,6 +504,27 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3120717,
+          43.7123327
+        ]
+      },
+      "properties": {
+        "Name": "Muddy York Brewing Co.",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.muddyyorkbrewing.com/",
+        "Twitter": "https://twitter.com/MYBrewingCo",
+        "Opening": "2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -491,6 +613,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.9409789,
+          49.1813824
+        ]
+      },
+      "properties": {
+        "Name": "Prodigal Sons Brewery",
+        "City": "Winkler",
+        "Province": "MB",
+        "Facebook": "https://www.facebook.com/prodsonsbrewery",
+        "Twitter": "https://twitter.com/ProdSonsBrewery",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -67.5803,
           46.4715
         ]
@@ -526,7 +669,26 @@
         "marker-color": "#f00"
       }
     },
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3605183,
+          49.0474816
+        ]
+      },
+      "properties": {
+        "Name": "Ravens Brewing Co.",
+        "City": "Abbotsford",
+        "Province": "BC",
+        "Facebook": "https://www.facebook.com/ravensbrewing",
+        "Twitter": "https://twitter.com/RavensBrewing",
+        "Opening": "2015",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -655,17 +817,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.250664,
-          44.499657
+          -79.1168944,
+          44.1028565
         ]
       },
       "properties": {
-        "Name": "Side Launch Brewing",
-        "City": "Collingwood",
+        "Name": "The Second Wedge Brewing Co.",
+        "City": "Uxbridge",
         "Province": "ON",
-        "Opening": "2014",
-        "Type": "Unknown",
-        "marker-color": "#aaa"
+        "URL": "http://thesecondwedge.ca/",
+        "Facebook": "https://www.facebook.com/thesecondwedge",
+        "Twitter": "https://twitter.com/Thesecondwedge",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -673,8 +837,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -128.602524,
-          54.517097
+          -128.5893291,
+          54.5158536
         ]
       },
       "properties": {
@@ -683,11 +847,33 @@
         "Province": "BC",
         "URL": "http://skeenabrewing.com/",
         "Facebook": "https://www.facebook.com/pages/Skeena-Brewing-Company/218628741538948",
-        "Opening": "Fall 2014",
+        "Opening": "2015",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4020982,
+          45.7563086
+        ]
+      },
+      "properties": {
+        "Name": "Split Rail Brewing Co.",
+        "City": "Manitoluin Island",
+        "Province": "ON",
+        "URL": "http://www.splitrailmanitoulin.com/",
+        "Facebook": "https://www.facebook.com/pages/Split-Rail-Brewing-Co-Manitoulin-Island-Inc-2012/630611603619270",
+        "Twitter": "https://twitter.com/SplitRailBrew",
+        "Opening": "Summer 2015",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -769,6 +955,27 @@
         "Facebook": "https://www.facebook.com/AntigonishTownhouse",
         "Opening": "Unknown",
         "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9702911,
+          51.3021452
+        ]
+      },
+      "properties": {
+        "Name": "White Tooth Brewing Company",
+        "City": "Golden",
+        "Province": "BC",
+        "URL": "http://wildcraftbrewery.ca/",
+        "Facebook": "https://www.facebook.com/WhitetoothBrewing",
+        "Twitter": "https://twitter.com/whitetoothbrew",
+        "Opening": "Spring 2015",
+        "Type": "Brewery",
         "marker-color": "#00f"
       }
     },

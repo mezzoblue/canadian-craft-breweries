@@ -27,6 +27,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -114.0746,
+          51.042652
+        ]
+      },
+      "properties": {
+        "Name": "Brew Brothers Brewery",
+        "City": "Calgary",
+        "Province": "AB",
+        "URL": "http://www.brewbrothers.com/",
+        "Twitter": "https://twitter.com/brewbrosbrewery",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.33976,
           45.656
         ]

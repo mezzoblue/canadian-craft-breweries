@@ -398,7 +398,6 @@
         "Province": "ON",
         "URL": "http://www.brimstonebrewing.ca/",
         "Facebook": "https://www.facebook.com/BrimstoneBrewing",
-        "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -423,6 +422,26 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.165894,
+          43.172851
+        ]
+      },
+      "properties": {
+        "Name": "Brothers Brewing Co.",
+        "City": "Pelham",
+        "Province": "ON",
+        "Facebook": "https://www.facebook.com/brothersbrewingcompany",
+        "Note": "Contract brewed at Niagara College Teaching Brewery",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -548,6 +567,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.1822272,
+          44.4915053
+        ]
+      },
+      "properties": {
+        "Name": "Collingwood Brewery",
+        "City": "Collingwood",
+        "Province": "ON",
+        "URL": "http://www.thecollingwoodbrewery.com/",
+        "Facebook": "https://www.facebook.com/TheCollingwoodBrewery",
+        "Twitter": "https://twitter.com/CollingwoodBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.055603,
           43.826794
         ]
@@ -579,6 +618,26 @@
         "URL": "http://www.creemoresprings.com/",
         "Facebook": "https://www.facebook.com/CreemoreSprings",
         "Twitter": "https://twitter.com/creemoresprings",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5590504,
+          45.449405
+        ]
+      },
+      "properties": {
+        "Name": "Dominion City Brewery",
+        "City": "Ottawa",
+        "Province": "ON",
+        "URL": "http://www.dominioncity.ca/",
+        "Facebook": "https://www.facebook.com/dominioncitybrewingco",
+        "Twitter": "https://twitter.com/dominioncitybc",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -675,6 +734,27 @@
         ]
       },
       "properties": {
+        "Name": "Garden Brewers",
+        "City": "Hamilton",
+        "Province": "ON",
+        "URL": "http://gardenbrewers.ca/",
+        "Facebook": "https://www.facebook.com/thegardenbrewers",
+        "Twitter": "https://twitter.com/GardenBrewers",
+        "Note": "Contract brewed at Black Oak",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0206,
+          45.3437
+        ]
+      },
+      "properties": {
         "Name": "Georgian Lanes",
         "City": "Parry Sound",
         "Province": "ON",
@@ -750,6 +830,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.615224,
+          45.102986
+        ]
+      },
+      "properties": {
+        "Name": "Haliburton Highlands Brewing",
+        "City": "Haliburton",
+        "Province": "ON",
+        "URL": "http://haliburtonhighlandsbrewing.ca/Haliburton_Highlands_Brewing/Home.html",
+        "Facebook": "https://www.facebook.com/HHBrewing",
+        "Twitter": "https://twitter.com/hhbrewing",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.360855,
           45.841415
         ]
@@ -805,6 +905,27 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.521412,
+          43.511547
+        ]
+      },
+      "properties": {
+        "Name": "Innocente Brewing Co.",
+        "City": "Waterloo",
+        "Province": "ON",
+        "URL": "http://www.innocente.ca/",
+        "Facebook": "https://www.facebook.com/InnocenteBrewingCompany",
+        "Twitter": "https://twitter.com/Innocente_Brew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -1031,16 +1152,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.864227,
-          44.126381
+          -81.0146052,
+          44.1403321
         ]
       },
       "properties": {
         "Name": "MacLean's Ales",
-        "City": "West Grey",
+        "City": "Hanover",
         "Province": "ON",
         "URL": "http://www.macleansales.com/",
         "Twitter": "https://twitter.com/macleansales",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7847548,
+          44.1787144
+        ]
+      },
+      "properties": {
+        "Name": "MacKinnon Brothers Brewing",
+        "City": "Bath",
+        "Province": "ON",
+        "URL": "http://www.mackinnonbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/MacKinnon-Brothers-Brewing-Company/1417739525146446",
+        "Twitter": "https://twitter.com/MacKinnonBrew",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1157,7 +1298,7 @@
         "Province": "ON",
         "URL": "http://nhbrewery.ca/",
         "Facebook": "https://www.facebook.com/TheNHBbrewpot",
-        "Twitter": "https://twitter.com/Northwindsbeer",
+        "Twitter": "https://twitter.com/TheNHBbrewpot",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
       }
@@ -1167,8 +1308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.215,
-          44.51
+          -80.2318373,
+          44.5014203
         ]
       },
       "properties": {
@@ -1178,9 +1319,8 @@
         "URL": "http://www.northwindsbrewery.com/",
         "Facebook": "https://www.facebook.com/northwindsbrewery",
         "Twitter": "https://twitter.com/Northwindsbeer",
-        "Note": "Contract brewing while awaiting permanent space.",
-        "Type": "Contract Brewer",
-        "marker-color": "#dd77ff"
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -1201,6 +1341,27 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9435818,
+          44.1038886
+        ]
+      },
+      "properties": {
+        "Name": "Old Flame Brewing Co.",
+        "City": "Port Perry",
+        "Province": "ON",
+        "URL": "http://oldflamebrewingco.ca/",
+        "Facebook": "https://www.facebook.com/OldFlameBrewery",
+        "Twitter": "https://twitter.com/oldflamebrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -1285,6 +1446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -84.3345263,
+          46.5128651
+        ]
+      },
+      "properties": {
+        "Name": "OutSpoken Brewing",
+        "City": "Sault Ste. Marie",
+        "Province": "ON",
+        "URL": "http://www.outspokenbrewing.com/",
+        "Facebook": "https://www.facebook.com/outspoken.brewing",
+        "Twitter": "https://twitter.com/OutSpokenBrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.2702,
           44.9065
         ]
@@ -1345,8 +1526,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.391693,
-          44.920715
+          -82.4073337,
+          42.9706819
+        ]
+      },
+      "properties": {
+        "Name": "Refined Fool Brewing",
+        "City": "St. Thomas",
+        "Province": "ON",
+        "URL": "http://www.refinedfool.com/",
+        "Facebook": "https://www.facebook.com/refinedfool",
+        "Twitter": "https://twitter.com/refinedfool",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2234756,
+          43.5516523
+        ]
+      },
+      "properties": {
+        "Name": "Royal City Brewing Co.",
+        "City": "Guelph",
+        "Province": "ON",
+        "URL": "http://www.royalcitybrew.ca/",
+        "Facebook": "https://www.facebook.com/pages/Royal-City-Brewing-Company/174722339380489",
+        "Twitter": "https://twitter.com/RoyalCityBrew",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3751796,
+          44.9223673
         ]
       },
       "properties": {
@@ -1366,7 +1588,7 @@
         "type": "Point",
         "coordinates": [
           -79.165894,
-          43.152951
+          43.162951
         ]
       },
       "properties": {
@@ -1399,6 +1621,26 @@
         "Twitter": "https://twitter.com/ShipTwits",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25039,
+          44.499713
+        ]
+      },
+      "properties": {
+        "Name": "Side Launch Brewing",
+        "City": "Collingwood",
+        "Province": "ON",
+        "URL": "http://sidelaunchbrewing.com/",
+        "Facebook": "https://www.facebook.com/sidelaunchbrewing",
+        "Twitter": "https://twitter.com/sidelaunch",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1440,6 +1682,26 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3490189,
+          44.2777427
+        ]
+      },
+      "properties": {
+        "Name": "Smithworks Brewing Co.",
+        "City": "Peterborough",
+        "Province": "ON",
+        "URL": "http://www.smithworksbrewing.ca/",
+        "Facebook": "https://www.facebook.com/pages/Smithworks-Brewing-Company/779732975389497",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -1505,6 +1767,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.385178,
+          43.64098
+        ]
+      },
+      "properties": {
+        "Name": "Steam Whistle Brewing",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://www.steamwhistle.ca/",
+        "Facebook": "https://www.facebook.com/SteamWhistle",
+        "Twitter": "https://twitter.com/SteamWhistle",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.736809,
           45.398758
         ]
@@ -1525,19 +1807,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.385178,
-          43.64098
+          -76.4881277,
+          44.232444
         ]
       },
       "properties": {
-        "Name": "Steam Whistle Brewing",
-        "City": "Toronto",
+        "Name": "Stone City Ales",
         "Province": "ON",
-        "URL": "http://www.steamwhistle.ca/",
-        "Facebook": "https://www.facebook.com/SteamWhistle",
-        "Twitter": "https://twitter.com/SteamWhistle",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+        "City": "Kingston",
+        "URL": "http://stonecityales.com/",
+        "Facebook": "https://www.facebook.com/pages/Stone-City-Ales/360273204113670",
+        "Twitter": "https://twitter.com/StoneCityAles",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6234668,
+          42.955318
+        ]
+      },
+      "properties": {
+        "Name": "Strathroy Brewing",
+        "Province": "ON",
+        "City": "Strathroy-Caradoc",
+        "URL": "http://strathroybrewingcompany.ca/",
+        "Facebook": "https://www.facebook.com/pages/Strathroy-Brewing-Company/584193148362125",
+        "Twitter": "https://twitter.com/StrathroyBrewCo",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -1577,6 +1879,27 @@
         "marker-color": "#f00"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8733837,
+          43.8557021
+        ]
+      },
+      "properties": {
+        "Name": "Underdog's Brewhouse",
+        "City": "Oshawa",
+        "Province": "ON",
+        "URL": "http://underdogsbrewhouse.com/",
+        "Facebook": "https://www.facebook.com/UnderdogsBrewhouse",
+        "Twitter": "https://twitter.com/underdogbeers",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -1656,6 +1979,27 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.510089,
+          43.618775
+        ]
+      },
+      "properties": {
+        "Name": "Woodhouse Brewing",
+        "City": "Etobicoke",
+        "Province": "ON",
+        "URL": "http://www.woodhousebrewing.com/",
+        "Twitter": "https://twitter.com/woodhousebeer",
+        "Note": "Contract brewed at Cool Beer Brewing Co.",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
     }
+
   ]
 }

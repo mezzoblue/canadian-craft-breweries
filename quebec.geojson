@@ -276,6 +276,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5710357,
+          45.4973703
+        ]
+      },
+      "properties": {
+        "Name": "Bierbrier",
+        "City": "Montreal",
+        "Province": "QC",
+        "URL": "http://www.bierbrier.com/",
+        "Facebook": "https://www.facebook.com/BierbrierBrewing",
+        "Twitter": "https://twitter.com/bierbrier_mtl",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.5881,
           45.5424
         ]
