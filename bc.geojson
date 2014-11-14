@@ -480,12 +480,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.468857,
-          49.097607
+          -122.468847,
+          49.097832
         ]
       },
       "properties": {
         "Name": "Dead Frog Brewery",
+        "AKA": "Backwoods Brewing",
         "City": "Langley",
         "Province": "BC",
         "URL": "http://www.deadfrog.ca/",
@@ -1254,6 +1255,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.952976,
+          49.160213
+        ]
+      },
+      "properties": {
+        "Name": "Stanley Park Brewery",
+        "AKA": "Mark Anthony Group",
+        "AKA2": "Hell's Gate",
+        "City": "Burnaby",
+        "Province": "BC",
+        "URL": "http://www.stanleyparkbrewery.ca/",
+        "Facebook": "https://www.facebook.com/stanleyparkbrew",
+        "Twitter": "https://twitter.com/stanleyparkbrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.019897,
           49.273994
         ]
@@ -1476,6 +1499,7 @@
       "properties": {
         "Name": "Tree Brewing",
         "AKA": "Duke's Cider",
+        "AKA": "Fireweed Brewing Company",
         "City": "Kelowna",
         "Province": "BC",
         "URL": "http://www.treebeer.com/",

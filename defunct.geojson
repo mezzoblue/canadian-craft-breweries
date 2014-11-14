@@ -7,6 +7,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.9367037,
+          49.16473
+        ]
+      },
+      "properties": {
+        "Name": "Bastion City Brewing",
+        "City": "Nanaimo",
+        "Province": "BC",
+        "Closed": "1997",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3736733,
+          50.6691613
+        ]
+      },
+      "properties": {
+        "Name": "Bear Brewing",
+        "AKA": "Kamloops Brewing",
+        "City": "Kamloops",
+        "Province": "BC",
+        "Closed": "2005",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.76682,
           45.55695
         ]
@@ -65,6 +102,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.9728534,
+          49.1607424
+        ]
+      },
+      "properties": {
+        "Name": "Coquihalla Brewery",
+        "City": "Delta",
+        "Province": "BC",
+        "Closed": "1998",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.115379,
           49.276703
         ]
@@ -116,6 +171,60 @@
         "Twitter": "https://twitter.com/HartandThistle",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2734681,
+          49.3743591
+        ]
+      },
+      "properties": {
+        "Name": "Horseshoe Bay Brewing",
+        "City": "West Vancouver",
+        "Province": "BC",
+        "Closed": "198x",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3668082,
+          48.4233093
+        ]
+      },
+      "properties": {
+        "Name": "Hugo's Grill and Brewhouse",
+        "City": "Victoria",
+        "Province": "BC",
+        "Closed": "2008",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9863346,
+          49.667228
+        ]
+      },
+      "properties": {
+        "Name": "Kimberley Brewing",
+        "City": "Kimberley",
+        "Province": "BC (No address available)",
+        "Closed": "1998",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -222,6 +331,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.083387,
+          49.313617
+        ]
+      },
+      "properties": {
+        "Name": "Sailor Hagar's Brew Pub",
+        "City": "North Vancouver",
+        "Province": "BC",
+        "Closed": "200x",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9616659,
+          49.1677331
+        ]
+      },
+      "properties": {
+        "Name": "Shaftebury Brewing",
+        "City": "Delta",
+        "Province": "BC",
+        "URL": "http://www.shaftebury.com/",
+        "Facebook": "https://www.facebook.com/shaftebury",
+        "Twitter": "https://twitter.com/ShafteburyBeer",
+        "Closed": "1999",
+        "Note": "Bought by Okanagan Spring, then Tree Brewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.936676,
           49.688911
         ]
@@ -259,6 +408,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.1504495,
+          49.7222399
+        ]
+      },
+      "properties": {
+        "Name": "Tall Ship Ale Co.",
+        "City": "Squamish",
+        "Province": "BC",
+        "URL": "http://www.angelfire.com/hi/tallship/",
+        "Closed": "2011",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.103157,
           49.323822
         ]
@@ -289,6 +457,24 @@
         "Closed": "2003",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5916551,
+          49.4973032
+        ]
+      },
+      "properties": {
+        "Name": "Wild Horse Brewing Company",
+        "City": "Penticton",
+        "Province": "BC",
+        "Closed": "1999",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     }
 

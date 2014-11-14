@@ -765,6 +765,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.9885627,
+          45.2852345
+        ]
+      },
+      "properties": {
+        "Name": "Farnham Ale & Lager",
+        "City": "Farnham",
+        "Province": "QC",
+        "URL": "http://farnham-alelager.com/",
+        "Facebook": "https://www.facebook.com/farnhamalelager",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.3393,
           45.2958
         ]

@@ -1313,11 +1313,11 @@
         ]
       },
       "properties": {
-        "Name": "Northwinds Brewery",
-        "City": "Collingwood (no address available)",
+        "Name": "Northwinds Brewhouse",
+        "City": "Collingwood",
         "Province": "ON",
         "URL": "http://www.northwindsbrewery.com/",
-        "Facebook": "https://www.facebook.com/northwindsbrewery",
+        "Facebook": "https://www.facebook.com/northwindsbrewhouse",
         "Twitter": "https://twitter.com/Northwindsbeer",
         "Type": "Brewpub",
         "marker-color": "#00f"
@@ -1855,7 +1855,7 @@
         "Name": "Sweetgrass Brewing",
         "City": "Guelph",
         "Province": "ON",
-        "Note": "Contract brewing at Wellington",
+        "Note": "Contract brewing at Wellington Brewery",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
       }
@@ -1877,6 +1877,27 @@
         "Twitter": "https://twitter.com/TrafalgarAles",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.706841,
+          43.429081
+        ]
+      },
+      "properties": {
+        "Name": "Turtle Brewing",
+        "City": "Ottawa",
+        "Province": "ON",
+        "URL": "http://www.turtleislandbrewing.com/",
+        "Facebook": "https://www.facebook.com/turtleislandbeer",
+        "Twitter": "https://twitter.com/turtlebrewco",
+        "Note": "Contract brewing at Broadhead Brewing",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
       }
     },
     {
