@@ -616,6 +616,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.3860274,
+          49.056241
+        ]
+      },
+      "properties": {
+        "Name": "Old Abbey Ales",
+        "City": "Abbotsford",
+        "Province": "BC",
+        "URL": "http://www.oldabbeyales.com/",
+        "Facebook": "https://www.facebook.com/oldabbeyales",
+        "Twitter": "https://twitter.com/OldeAbbeyAles",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.9438,
           44.1042
         ]

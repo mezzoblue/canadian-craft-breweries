@@ -1289,6 +1289,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.0994821,
+          43.2399402
+        ]
+      },
+      "properties": {
+        "Name": "Niagara Oast House Brewers",
+        "City": "Niagara",
+        "Province": "ON",
+        "URL": "http://www.oasthousebrewers.ca/",
+        "Facebook": "https://www.facebook.com/NiagaraOastHouseBrewers",
+        "Twitter": "https://twitter.com/OastHouseBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.1741608,
           43.9801359
         ]
@@ -1641,6 +1662,26 @@
         "URL": "http://sidelaunchbrewing.com/",
         "Facebook": "https://www.facebook.com/sidelaunchbrewing",
         "Twitter": "https://twitter.com/sidelaunch",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1216182,
+          43.2223745
+        ]
+      },
+      "properties": {
+        "Name": "Silversmith Brewing Company",
+        "City": "Niagara-on-the-Lake",
+        "Province": "ON",
+        "URL": "http://www.silversmithbrewing.com/",
+        "Facebook": "https://www.facebook.com/sidelaunchbrewing",
+        "Twitter": "https://twitter.com/SilversmithBrew",
         "Type": "Brewery",
         "marker-color": "#f00"
       }

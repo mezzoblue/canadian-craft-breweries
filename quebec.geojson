@@ -381,6 +381,7 @@
       },
       "properties": {
         "Name": "Brasserie McAuslan",
+        "AKA": "St-Ambroise",
         "City": "Montréal",
         "Province": "QC",
         "URL": "http://mcauslan.com/",
