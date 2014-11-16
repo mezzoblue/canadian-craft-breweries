@@ -221,8 +221,9 @@
       "properties": {
         "Name": "Kimberley Brewing",
         "City": "Kimberley",
-        "Province": "BC (No address available)",
+        "Province": "BC",
         "Closed": "1998",
+        "Note": "No address available",
         "Type": "Brewery",
         "marker-color": "#f00"
       }

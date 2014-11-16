@@ -12,10 +12,11 @@
       },
       "properties": {
         "Name": "Barnone Brewing",
-        "City": "Rose Valley (no address available)",
+        "City": "Rose Valley",
         "Province": "PEI",
         "Facebook": "https://www.facebook.com/BarNone.Brewing",
         "Twitter": "https://twitter.com/BARNONEBEER",
+        "Note": "No address available",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
       }

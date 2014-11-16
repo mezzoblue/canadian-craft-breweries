@@ -32,9 +32,10 @@
       },
       "properties": {
         "Name": "Storm Brewing",
-        "City": "Mt. Pearl (no address available)",
+        "City": "Mt. Pearl",
         "Province": "NL",
         "URL": "http://www.stormbrewing.ca/",
+        "Note": "No address available",
         "Type": "Brewery",
         "marker-color": "#f00"
       }

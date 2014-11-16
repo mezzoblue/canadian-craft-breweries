@@ -495,11 +495,11 @@
       "properties": {
         "Name": "Toolshed Brewing",
         "City": "Calgary",
-        "Province": "AB (no address available)",
+        "Province": "AB",
         "URL": "http://toolshedbrewing.com/",
         "Facebook": "https://www.facebook.com/ToolShedBrewing",
         "Twitter": "https://twitter.com/toolshedbeer",
-        "Note": "Contract brewing at Dead Frog in BC while awaiting permanent space.",
+        "Note": "No address available. Contract brewing at Dead Frog in BC while awaiting permanent space.",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
       }

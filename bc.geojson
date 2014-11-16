@@ -346,11 +346,11 @@
       "properties": {
         "Name": "Canuck Empire Brewing",
         "City": "Abbotsford",
-        "Province": "BC (no address available)",
+        "Province": "BC",
         "URL": "http://www.canuckempirebrewing.com/",
         "Facebook": "https://www.facebook.com/CanuckEmpire",
         "Twitter": "https://twitter.com/CanuckEmpire",
-        "Note": "Contract brewed at Dead Frog in BC while awaiting permanent space.",
+        "Note": "No address available. Contract brewed at Dead Frog in BC while awaiting permanent space.",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
       }
@@ -1076,14 +1076,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.5083,
-          49.4267
+          -123.508234,
+          49.420739
         ]
       },
       "properties": {
         "Name": "Persephone Brewing",
         "City": "Gibsons",
-        "Province": "BC (no address available)",
+        "Province": "BC",
         "URL": "http://persephonebrewing.com/",
         "Facebook": "https://www.facebook.com/PersephoneBrewing",
         "Twitter": "https://twitter.com/Persephonebeer",

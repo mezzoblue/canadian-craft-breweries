@@ -51,10 +51,11 @@
       "properties": {
         "Name": "Bin Brewing",
         "City": "Swift Current",
-        "Province": "SK (no address available)",
+        "Province": "SK",
         "URL": "http://binbrewing.com/",
         "Facebook": "https://www.facebook.com/BinBrewing",
         "Twitter": "https://twitter.com/binbrewing",
+        "Note": "No address available",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -260,7 +261,7 @@
         ]
       },
       "properties": {
-        "Name": "District Brewing",
+        "Name": "District Brewing Company",
         "City": "Regina",
         "Province": "SK",
         "URL": "http://districtbrewing.ca/",

@@ -1077,11 +1077,12 @@
       },
       "properties": {
         "Name": "Left Field Brewery",
-        "City": "Toronto (no address available)",
+        "City": "Toronto",
         "Province": "ON",
         "URL": "http://www.leftfieldbrewery.ca/",
         "Facebook": "https://www.facebook.com/LeftFieldBrewery",
         "Twitter": "https://twitter.com/LFbrewery",
+        "Note": "No address available",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1414,10 +1415,10 @@
       "properties": {
         "Name": "Old Tomorrow Brewing",
         "City": "Toronto",
-        "Province": "ON (no address available)",
+        "Province": "ON",
         "URL": "http://www.oldtomorrow.com/",
         "Twitter": "https://twitter.com/OldTomorrowBeer/",
-        "Note": "Contract brewed elsewhere",
+        "Note": "No address available. Contract brewed elsewhere.",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
       }
@@ -1434,9 +1435,10 @@
       "properties": {
         "Name": "Ontario Beer Company",
         "City": "Toronto",
-        "Province": "ON (no address available)",
+        "Province": "ON",
         "Facebook": "https://www.facebook.com/pages/Ontario-Beer-Company/205451729636616",
         "Twitter": "https://twitter.com/OntarioBeerCo",
+        "Note": "No address available",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1594,11 +1596,11 @@
       "properties": {
         "Name": "Shillow Beer Co.",
         "City": "Toronto",
-        "Province": "ON (no address available)",
+        "Province": "ON",
         "URL": "http://www.shillowbeer.com/",
         "Facebook": "https://www.facebook.com/ShillowBeer",
         "Twitter": "https://twitter.com/ShillowBeer",
-        "Note": "Contract brewed at Niagara College Teaching Brewery",
+        "Note": "No address available. Contract brewed at Niagara College Teaching Brewery.",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
       }
@@ -1714,11 +1716,11 @@
       "properties": {
         "Name": "Spearhead Brewing Company",
         "City": "Toronto",
-        "Province": "ON (no address available)",
+        "Province": "ON",
         "URL": "http://spearheadbeer.com/",
         "Facebook": "http://facebook.com/SpearheadBrewingCompany",
         "Twitter": "https://twitter.com/SpearheadBeer",
-        "Note": "Most likely a contract brewer.",
+        "Note": "No address available. Most likely a contract brewer.",
         "Type": "Contract Brewer",
         "marker-color": "#f00"
       }

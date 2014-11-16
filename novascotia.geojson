@@ -311,8 +311,9 @@
       "properties": {
         "Name": "Schoolhouse Brewery",
         "City": "Falmouth",
-        "Province": "NS (No address available)",
+        "Province": "NS",
         "URL": "http://schoolhousebrewery.ca/",
+        "Note": "No address available",
         "Type": "Brewery",
         "marker-color": "#f00"
       }

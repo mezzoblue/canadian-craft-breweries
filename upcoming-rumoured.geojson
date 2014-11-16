@@ -33,10 +33,11 @@
       "properties": {
         "Name": "Bench Creek Brewing",
         "City": "Yellowhead County",
-        "Province": "AB (No address available)",
+        "Province": "AB",
         "URL": "http://www.benchcreekbrewing.com/",
         "Facebook": "https://www.facebook.com/benchcreekbrewing",
         "Twitter": "https://twitter.com/benchcreekbrew",
+        "Note": "No address available",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -96,10 +97,11 @@
       "properties": {
         "Name": "Blind Man Brewing",
         "City": "Lacombe",
-        "Province": "AB (No address available)",
+        "Province": "AB",
         "URL": "http://www.blindmanbrewing.com/",
         "Facebook": "https://www.facebook.com/blindmanbrewing",
         "Twitter": "https://twitter.com/blindmanbrewery",
+        "Note": "No address available",
         "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#aaa"
@@ -417,11 +419,12 @@
       },
       "properties": {
         "Name": "The Hamilton Brewery",
-        "City": "Hamilton (no address available)",
+        "City": "Hamilton",
         "Province": "ON",
         "URL": "http://thehamiltonbrewery.com/",
         "Facebook": "https://www.facebook.com/thehamiltonbrewery",
         "Twitter": "https://twitter.com/hamiltonbrewery",
+        "Note": "No address available",
         "Opening": "Late 2014",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -457,12 +460,34 @@
       "properties": {
         "Name": "Maple Meadows Brewing Co.",
         "City": "Maple Ridge",
-        "Province": "BC (Address Unknown)",
+        "Province": "BC",
         "URL": "http://www.maplemeadowsbrewery.com/",
         "Twitter": "https://twitter.com/MMBrewingCo",
+        "Note": "No address available",
         "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -119.2706492,
+          50.2637746
+       ]
+      },
+      "properties": {
+        "Name": "Marten Brewing Company",
+        "City": "Vernon",
+        "Province": "BC",
+        "URL": "http://www.martenbrewpub.com/",
+        "Facebook": "https://www.facebook.com/martenbrewpub",
+        "Twitter": "https://twitter.com/MartenBrewpub",
+        "Opening": "2015",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -524,7 +549,26 @@
         "marker-color": "#f00"
       }
     },
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4843048,
+          46.3120418
+        ]
+      },
+      "properties": {
+        "Name": "New Ontario Brewing Company",
+        "City": "North Bay",
+        "Province": "ON",
+        "URL": "http://www.newontariobrewing.com/",
+        "Twitter": "https://twitter.com/MYBrewingCo",
+        "Note": "No address available",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -701,9 +745,10 @@
       "properties": {
         "Name": "Rebellion Brewing",
         "City": "Regina",
-        "Province": "SK (no address available)",
+        "Province": "SK",
         "URL": "http://www.rebellionbrewing.ca/",
         "Twitter": "https://twitter.com/markthebrewer",
+        "Note": "No address available",
         "Opening": "Fall 2014",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -802,11 +847,12 @@
       },
       "properties": {
         "Name": "Schoolhouse Brewery",
-        "City": "Upper Falmouth (No address available)",
+        "City": "Upper Falmouth",
         "Province": "NS",
         "URL": "http://www.schoolhousebrewery.ca/",
         "Facebook": "https://www.facebook.com/RurbanBrewing",
         "Twitter": "https://twitter.com/RurbanBrewing",
+        "Note": "No address available",
         "Opening": "April 2014",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
@@ -886,10 +932,11 @@
       "properties": {
         "Name": "Stoufeville Brewing",
         "AKA": "Red Falcon Ale",
-        "City": "Stoufeville (no address available)",
+        "City": "Stoufeville",
         "Province": "ON",
         "URL": "http://www.redfalconale.ca/",
         "Facebook": "https://www.facebook.com/StouffvilleBrewingCompany",
+        "Note": "No address available",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -900,18 +947,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.077387,
-          49.271587
+          -123.077432,
+          49.272866
         ]
       },
       "properties": {
         "Name": "Strange Fellows Brewing",
-        "City": "Vancouver (address approximate)",
+        "City": "Vancouver",
         "Province": "BC",
         "URL": "http://imstartingacraftbrewery.com/",
         "Facebook": "https://www.facebook.com/strangefellowsbrewing",
         "Twitter": "https://twitter.com/startinabrewery",
-        "Opening": "Unknown",
+        "Opening": "Imminent",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -936,6 +983,28 @@
         "Opening": "Unknown",
         "Type": "Contract Brewer",
         "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.8159544,
+          49.2328458
+        ]
+      },
+      "properties": {
+        "Name": "Twin City Brewing Company",
+        "City": "Port Alberni",
+        "Province": "BC",
+        "URL": "http://www.twincitybrewing.ca/",
+        "Facebook": "https://www.facebook.com/twincitybrew",
+        "Twitter": "https://twitter.com/TwinCityBrewing",
+        "Note": "No address available",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
@@ -990,10 +1059,11 @@
       },
       "properties": {
         "Name": "Wild Craft Brewery",
-        "City": "Lethbridge (Address Unknown)",
+        "City": "Lethbridge",
         "Province": "AB",
         "URL": "http://wildcraftbrewery.ca/",
         "Facebook": "https://www.facebook.com/WildCraftBrewery",
+        "Note": "No address available",
         "Opening": "Spring 2015",
         "Type": "Brewpub",
         "marker-color": "#00f"
