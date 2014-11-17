@@ -647,6 +647,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.320648,
+          43.533457
+        ]
+      },
+      "properties": {
+        "Name": "Double Trouble Brewing",
+        "City": "Guelph",
+        "Province": "ON",
+        "URL": "http://doubletroublebrewing.com/",
+        "Twitter": "https://twitter.com/dt_brewing",
+        "Note": "Ontario distribution contract brewed at Wellington",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.3774,
           43.65162
         ]
@@ -1891,7 +1911,7 @@
         "type": "Point",
         "coordinates": [
           -80.320648,
-          43.53336
+          43.53357
         ]
       },
       "properties": {

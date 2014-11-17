@@ -339,8 +339,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.468857,
-          49.0978
+          -122.468847,
+          49.097852
         ]
       },
       "properties": {
@@ -534,6 +534,26 @@
         "Twitter": "https://twitter.com/eatDockside",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.468847,
+          49.097842
+        ]
+      },
+      "properties": {
+        "Name": "Double Trouble Brewing",
+        "City": "Abbotsford",
+        "Province": "BC",
+        "URL": "http://doubletroublebrewing.com/",
+        "Twitter": "https://twitter.com/dt_brewing",
+        "Note": "BC distribution contract brewed at Dead Frog",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
       }
     },
     {

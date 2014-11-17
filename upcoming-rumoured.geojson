@@ -26,6 +26,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5210322,
+          45.5402647
+        ]
+      },
+      "properties": {
+        "Name": "Le Barrage Brasseurs",
+        "City": "Longueuil",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/lebarragebrasseurs",
+        "Note": "No address available",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6430841,
+          46.8674132
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie aux Bassins Versants",
+        "City": "Duchesnay",
+        "Province": "QC",
+        "URL": "http://www.lejacquescartier.com/Actualites/Economie/2014-08-13/article-3827225/Une-microbrasserie-bientot-ouverte-a-Duchesnay/1",
+        "Opening": "Spring 2015",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.3941342,
           53.6636962
         ]
@@ -232,6 +271,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.6942406,
+          45.4538926
+        ]
+      },
+      "properties": {
+        "Name": "Chantier brassicole des Collines",
+        "City": "Gatineau",
+        "Province": "QC",
+        "URL": "http://www.lapresse.ca/le-droit/actualites/actualites-regionales/201303/02/01-4627159-une-ferme-microbrasserie-doit-voir-le-jour-en-outaouais.php",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.1808,
           44.492
         ]
@@ -302,7 +360,9 @@
         "Name": "Doan's Craft Brewing Co.",
         "City": "Vancouver",
         "Province": "BC",
+        "URL": "http://doanscraftbrewing.com/",
         "Facebook": "https://www.facebook.com/doanscraftbrewing",
+        "Twitter": "https://twitter.com/DoansCBC",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -326,6 +386,25 @@
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5881782,
+          46.6844795
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie L'Esprit de Clochers",
+        "City": "Neuville",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/espritdeclochers",
+        "Opening": "May 2015",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
@@ -392,6 +471,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.2349098,
+          46.8118066
+        ]
+      },
+      "properties": {
+        "Name": "Griendel: Brasserie Artisanale",
+        "City": "Quebec",
+        "Province": "QC",
+        "URL": "http://www.gladstonebrewing.ca/",
+        "Facebook": "https://www.facebook.com/Brasserie.artisanale.griendel",
+        "Opening": "Summer 2015",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1394971,
+          46.6538445
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Maison Grondinoise",
+        "City": "Saint-Casimir",
+        "Province": "QC",
+        "URL": "http://www.courrierdeportneuf.com/Actualites/2014-01-17/article-3750626/Saint-Casimir%3A-spectacles-et-microbrasserie-au-Cine-centre/1",
+        "Note": "No address available",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.4539,
           51.18375
         ]
@@ -428,6 +547,26 @@
         "Opening": "Late 2014",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4049497,
+          50.2027993
+        ]
+      },
+      "properties": {
+        "Name": "Projet de brasserie artisanale Les Iles Rondes",
+        "City": "Sept-Îles",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/Projet-de-brasserie-artisanale-Les-Iles-Rondes/138561286234823",
+        "Note": "No address available",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
@@ -897,6 +1036,26 @@
         "Twitter": "https://twitter.com/Thesecondwedge",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6946595,
+          45.4507734
+        ]
+      },
+      "properties": {
+        "Name": "La Serpe Coop Ferme Brasserie",
+        "City": "Cantley",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/LaSerpeDor",
+        "Note": "No address available",
+        "Opening": "2014",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {

@@ -183,7 +183,7 @@
         ]
       },
       "properties": {
-        "Name": "Belghe Brasse",
+        "Name": "Belgh Brasse",
         "AKA": "Mons Beer",
         "City": "Amos",
         "Province": "QC",
@@ -1016,6 +1016,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.9325175,
+          45.5292753
+        ]
+      },
+      "properties": {
+        "Name": "L'Harmonique Broue Pub",
+        "City": "Laval",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/LHarmonique-Broue-Pub/21120258073",
+        "Note": "Location unverified",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.6054,
           45.5240
         ]
@@ -1213,6 +1232,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.638832,
+          46.0231476
+        ]
+      },
+      "properties": {
+        "Name": "Macallen Farm Brewery",
+        "City": "Rawdon",
+        "Province": "QC",
+        "URL": "http://macallenfarmbrewery.blogspot.ca/",
+        "Facebook": "https://www.facebook.com/pages/Macallen-FARM-and-Brewery/792295044124041",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.117,
           45.258
         ]
@@ -1319,6 +1357,25 @@
         "URL": "http://www.microdulac.com/",
         "Facebook": "https://www.facebook.com/groups/21372176423/",
         "Twitter": "https://twitter.com/Microdulac",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9438422,
+          45.6502247
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs de Monte Bello",
+        "City": "Montebello",
+        "Province": "QC",
+        "URL": "http://brasseursdemontebello.com/",
+        "Facebook": "https://www.facebook.com/BrasseursMontebello",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1492,6 +1549,27 @@
         "URL": "http://www.brasseursrj.com/",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8185266,
+          46.9004774
+        ]
+      },
+      "properties": {
+        "Name": "Le Roquement",
+        "AKA": "Hôtel Roquemont",
+        "City": "St-Raymond",
+        "Province": "QC",
+        "URL": "http://www.roquemont.com/",
+        "Facebook": "https://www.facebook.com/roquemont",
+        "Twitter": "https://twitter.com/LeRoquemont",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
