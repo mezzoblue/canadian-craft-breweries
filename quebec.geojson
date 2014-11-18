@@ -291,7 +291,26 @@
         "marker-color": "#f00"
       }
     },
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8005,
+          45.1306
+        ]
+      },
+      "properties": {
+        "Name": "Black Barn Brewery",
+        "AKA": "Vox Populi",
+        "City": "Dunham",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/Black-Barn-Brewery/174556829228617",
+        "Note": "Contract brewed at Dunham",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -501,7 +520,7 @@
         ]
       },
       "properties": {
-        "Name": "Brutopia",
+        "Name": "Brutopia Brew Pub",
         "City": "Montréal",
         "Province": "QC",
         "URL": "http://www.brutopia.net/",

@@ -693,6 +693,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+           -70.8825515,
+          45.5787267
+       ]
+      },
+      "properties": {
+        "Name": "Musi-café de Lac-Mégantic",
+        "City": "Lac Mégantic",
+        "Province": "QC",
+        "URL": "http://www.musi-cafe.com/",
+        "Facebook": "https://www.facebook.com/pages/Le-Musi-Caf%C3%A9/135301506521360",
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.4843048,
           46.3120418
         ]
@@ -878,6 +898,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.2812565,
+          47.2214252
+        ]
+      },
+      "properties": {
+        "Name": "Ras L'Bock Artisans Brasseurs",
+        "City": "Saint-Jean-Port-Joli",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/raslbock",
+        "Note": "No address available",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.3605183,
           49.0474816
         ]
@@ -933,6 +973,26 @@
         "Opening": "Unknown",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9256271,
+          45.3870094
+        ]
+      },
+      "properties": {
+        "Name": "Le Refuge des Brasseurs",
+        "City": "Saint-Jean-Port-Joli",
+        "Province": "QC",
+        "URL": "http://www.refugedesbrasseurs.ca/",
+        "Facebook": "https://www.facebook.com/lerefugedesbrasseurs",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
       }
     },
     {
