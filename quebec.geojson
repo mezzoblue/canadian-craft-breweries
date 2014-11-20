@@ -7,6 +7,226 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5624387,
+          45.5970244
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Anjou)",
+        "City": "Anjou",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=12",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4377069,
+          45.4447348
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Brossard)",
+        "City": "Brossard",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=10",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5755387,
+          45.4971954
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Crescent)",
+        "City": "Montreal",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=8",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2994412,
+          46.8301461
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (La Capitale)",
+        "City": "Quebec",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=17",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2163733,
+          46.8065487
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Grande-Allée)",
+        "City": "Quebec",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=19",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2790953,
+          46.7735879
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Laurier Ste-Foy)",
+        "City": "Quebec",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=13",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7965686,
+          45.481888
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Pointe-Claire)",
+        "City": "Pointe-Claire",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=18",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5703479,
+          45.5026332
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Ste-Catherine)",
+        "City": "Montreal",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=7",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5642966,
+          45.515484
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (St-Denis)",
+        "City": "Montreal",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=5",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5530177,
+          45.5067574
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (St-Paul)",
+        "City": "Montreal",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=6",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.744269,
+          45.563134
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Laval)",
+        "City": "Laval",
+        "Province": "QC",
+        "URL": "http://les3brasseurs.ca/eng/location?id=11",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -61.950,
           47.348
         ]

@@ -1,6 +1,107 @@
 {
   "type": "FeatureCollection",
   "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.382392,
+          43.649695
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Adelaide)",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://les3brasseurs.ca/eng/location?id=20",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9077751,
+          45.3122922
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Kanata)",
+        "City": "Kanata",
+        "Province": "ON",
+        "URL": "http://les3brasseurs.ca/eng/location?id=16",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7021979,
+          45.4203802
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Oakville)",
+        "City": "Oakville",
+        "Province": "ON",
+        "URL": "http://les3brasseurs.ca/eng/location?id=15",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6689133,
+          43.50827
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Sparks)",
+        "City": "Ottawa",
+        "Province": "ON",
+        "URL": "http://les3brasseurs.ca/eng/location?id=14",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.380466,
+          43.6555082
+        ]
+      },
+      "properties": {
+        "Name": "3 Brewers (Yonge)",
+        "City": "Toronto",
+        "Province": "ON",
+        "URL": "http://les3brasseurs.ca/eng/location?id=9",
+        "Facebook": "https://www.facebook.com/Les3Brasseurs",
+        "Twitter": "https://twitter.com/Les3BrasseursCa",
+        "Type": "Brewpub Chain",
+        "marker-color": "#00bb00"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
