@@ -341,6 +341,7 @@
         "City": "North Vancouver",
         "Province": "BC",
         "Closed": "200x",
+        "Note": "Former brewpub, no longer brewing",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }

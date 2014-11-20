@@ -673,6 +673,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.9381449,
+          45.7758454
+        ]
+      },
+      "properties": {
+        "Name": "Moulin 7 Microbrasserie",
+        "City": "Asbestos",
+        "Province": "QC",
+        "URL": "http://moulin7.com/",
+        "Facebook": "https://www.facebook.com/microbrasseriemoulin7inc",
+        "Twitter": "https://twitter.com/micromoulin",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.3120717,
           43.7123327
         ]

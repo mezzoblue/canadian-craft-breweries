@@ -129,7 +129,6 @@
         "City": "Drummondville",
         "Province": "QC",
         "Facebook": "https://www.facebook.com/pages/Bar-Centre-Ale-Artisan-Brasseur-inc/461298350588237",
-        "Twitter": "https://twitter.com/labarberie",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -316,6 +315,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.7439935,
+          46.541142
+        ]
+      },
+      "properties": {
+        "Name": "Micro-Brasserie Broadway",
+        "City": "Shawnigan",
+        "Province": "QC",
+        "URL": "http://www.broadwaypub.net/",
+        "Facebook": "https://www.facebook.com/groups/6277830895/",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.5881,
           45.5424
         ]
@@ -380,6 +398,7 @@
       },
       "properties": {
         "Name": "Brasserie Dunham",
+        "AKA": "Brasseurs et Frères",
         "City": "Dunham",
         "Province": "QC",
         "URL": "http://www.brasseriedunham.com/",
@@ -933,7 +952,6 @@
         "marker-color": "#00f"
       }
     },
-
     {
       "type": "Feature",
       "geometry": {
@@ -949,6 +967,25 @@
         "Province": "ON",
         "Facebook": "https://www.facebook.com/pages/Gananoque-Brewing-Company/169171079809900",
         "Twitter": "https://twitter.com/GanBeerCo",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3169459,
+          46.8910213
+        ]
+      },
+      "properties": {
+        "Name": "Brasserie Générale",
+        "City": "Quebec",
+        "Province": "ON",
+        "URL": "http://www.brasseriegenerale.com/",
+        "Facebook": "https://www.facebook.com/pages/Brasserie-G%C3%A9n%C3%A9rale-inc/226060870878252",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1054,6 +1091,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.95512,
+          46.056995
+        ]
+      },
+      "properties": {
+        "Name": "L'Hermitage Microbrasserie",
+        "City": "Victoriaville",
+        "Province": "QC",
+        "URL": "http://microhermite.com/",
+        "Facebook": "https://www.facebook.com/MicrobrasserieLHermite",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.6054,
           45.5240
         ]
@@ -1065,6 +1121,26 @@
         "URL": "http://helmmicrobrasserie.ca/",
         "Facebook": "https://www.facebook.com/Helmmicrobrasseriesurbernard",
         "Twitter": "https://twitter.com/BrasseurHelm",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2537175,
+          48.413868
+        ]
+      },
+      "properties": {
+        "Name": "Hopera",
+        "City": "Saguenay",
+        "Province": "QC",
+        "URL": "http://hopera.ca/",
+        "Facebook": "https://www.facebook.com/pages/Hopfenstark-Brewery/10141119337",
+        "Twitter": "https://twitter.com/hop_era",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -1101,6 +1177,7 @@
       },
       "properties": {
         "Name": "Brasseurs Illimités",
+        "AKA": "Simple Malt",
         "City": "Saint-Eustache",
         "Province": "QC",
         "URL": "http://www.brasseursillimites.com/",
@@ -1128,7 +1205,24 @@
         "marker-color": "#00f"
       }
     },
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5435704,
+          45.5099519
+        ]
+      },
+      "properties": {
+        "Name": "Les brasseurs de l'Insulte",
+        "City": "Montreal",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/pages/LInsulte/351025164986654",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -1146,6 +1240,25 @@
         "Facebook": "https://www.facebook.com/LaKorrigane",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.846617,
+          45.6732396
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Kruhnen",
+        "City": "Blainville",
+        "Province": "QC",
+        "URL": "http://kruhnen.com/",
+        "Facebook": "https://www.facebook.com/LaKorrigane",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1270,6 +1383,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.498215,
+          49.126603
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Malbord",
+        "City": "Sainte-Anne-des-Monts",
+        "Province": "QC",
+        "URL": "http://www.lemalbord.com/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Le-Malbord-inc/389359677871756",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.117,
           45.258
         ]
@@ -1299,6 +1431,24 @@
         "Province": "QC",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.117,
+          45.258
+        ]
+      },
+      "properties": {
+        "Name": "Les brasseurs de la Mauricie",
+        "City": "Shawnigan",
+        "Province": "QC",
+        "URL": "http://brasseursmauricie.e-monsite.com/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -1390,7 +1540,7 @@
         ]
       },
       "properties": {
-        "Name": "Les Brasseurs de Monte Bello",
+        "Name": "Les Brasseurs de Montebello",
         "City": "Montebello",
         "Province": "QC",
         "URL": "http://brasseursdemontebello.com/",
@@ -1410,6 +1560,7 @@
       },
       "properties": {
         "Name": "Brasseur de Montreal",
+        "AKA": "Bières Jukebox",
         "City": "Montréal",
         "Province": "QC",
         "URL": "http://www.brasseurdemontreal.ca/",
@@ -1528,6 +1679,26 @@
         "Province": "QC",
         "URL": "http://www.pitcaribou.com/",
         "Facebook": "https://www.facebook.com/pages/Microbrasserie-Pit-Caribou/525384144158039",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7829595,
+          48.100817
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie Le Prospecteur",
+        "City": "Val-d'Or",
+        "Province": "QC",
+        "URL": "http://www.microleprospecteur.ca/",
+        "Facebook": "https://www.facebook.com/pages/Microbrasserie-Le-Prospecteur/604666229565500",
+        "Twitter": "https://twitter.com/ProspecteurVD",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1732,6 +1903,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5533877,
+          45.498898
+        ]
+      },
+      "properties": {
+        "Name": "Bistro-Brasserie Les Soeurs Grises",
+        "City": "Montreal",
+        "Province": "QC",
+        "URL": "http://www.bblsg.com/",
+        "Facebook": "https://www.facebook.com/pages/Bistro-Brasserie-Les-Soeurs-Grises/286991374657932",
+        "Twitter": "https://twitter.com/BBLSG",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.22576,
           46.82882
         ]
@@ -1809,6 +2000,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.2481976,
+          45.8488811
+        ]
+      },
+      "properties": {
+        "Name": "Microbrasserie TchèqueBec",
+        "City": "Contrecoeur",
+        "Province": "QC",
+        "URL": "http://www.tchequebec.com/",
+        "Facebook": "https://www.facebook.com/tchequebec",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5407286,
+          46.3414658
+        ]
+      },
+      "properties": {
+        "Name": "Le Temps d'une Pinte",
+        "City": "Trois-Rivières",
+        "Province": "QC",
+        "URL": "http://letempsdunepinte.ca/",
+        "Facebook": "https://www.facebook.com/tempsdunepinte",
+        "Twitter": "https://twitter.com/tempsdunepinte",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.731386,
+          47.672375
+        ]
+      },
+      "properties": {
+        "Name": "Tête D'Allumette Microbrasserie",
+        "City": "Saint-André",
+        "Province": "QC",
+        "URL": "http://tetedallumette.com/",
+        "Facebook": "https://www.facebook.com/TetedAllumette",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.0522,
           48.4289
         ]
@@ -1840,6 +2089,26 @@
         "Facebook": "https://www.facebook.com/groups/83179587033/",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8005,
+          45.1307
+        ]
+      },
+      "properties": {
+        "Name": "La Tribunale",
+        "AKA": "La Tribu",
+        "City": "Dunham",
+        "Province": "QC",
+        "Facebook": "https://www.facebook.com/LaTrIBUnale",
+        "Note": "Contract brewed at Dunham",
+        "Type": "Contract Brewer",
+        "marker-color": "#dd77ff"
       }
     },
     {
