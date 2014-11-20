@@ -26,6 +26,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.739607,
+          42.036704
+        ]
+      },
+      "properties": {
+        "Name": "Banded Goose",
+        "AKA": "Jack's Gastropub, Inn31",
+        "City": "Kingsville",
+        "Province": "ON",
+        "URL": "http://bandedgoosebrewing.com/",
+        "Note": "No address available",
+        "Opening": "Unknown",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.5210322,
           45.5402647
         ]
@@ -162,6 +183,25 @@
         "Opening": "Unknown",
         "Type": "Unknown",
         "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0295268,
+          42.319692
+        ]
+      },
+      "properties": {
+        "Name": "Brew",
+        "City": "Windsor",
+        "Province": "ON",
+        "URL": "http://www.brewwindsor.com/",
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -331,6 +371,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.0395367,
+          42.3174602
+        ]
+      },
+      "properties": {
+        "Name": "Craft Heads Brewing",
+        "City": "Windsor",
+        "Province": "ON",
+        "URL": "http://craftheads.ca/",
+        "Facebook": "https://www.facebook.com/craftheadsbrew",
+        "Twitter": "https://twitter.com/craftheadsbrew",
+        "Opening": "Unknown",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -125.0278284,
           49.6190871
         ]
@@ -363,6 +424,7 @@
         "URL": "http://doanscraftbrewing.com/",
         "Facebook": "https://www.facebook.com/doanscraftbrewing",
         "Twitter": "https://twitter.com/DoansCBC",
+        "Note": "No address available",
         "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -827,6 +889,25 @@
         "URL": "http://www.durhamregion.com/news-story/4125715-old-flame-brewing-co-rekindles-old-port-perry-lcbo-site/",
         "Twitter": "https://twitter.com/OldFlameBrewery",
         "Opening": "2014",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -68.3282483,
+          47.3627554
+        ]
+      },
+      "properties": {
+        "Name": "Les Brasseurs du Petit-Sault",
+        "City": "Edmundston",
+        "Province": "NB",
+        "URL": "http://brasseurspetitsault.com/",
+        "Opening": "Summer 2014",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1364,6 +1445,7 @@
         "City": "Vancouver",
         "Province": "BC",
         "URL": "http://www.canadianbeernews.com/2013/03/11/university-of-british-columbia-brewery-gets-funding-approval-new-location/",
+        "Note": "No address available",
         "Opening": "earliest possible opening date: 2017",
         "Type": "Brewery",
         "marker-color": "#f00"
@@ -1374,16 +1456,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-           -68.3282483,
-          47.3627554
-        ]
+           -63.5710856,
+          44.6519121
+       ]
       },
       "properties": {
-        "Name": "Les Brasseurs du Petit-Sault",
-        "City": "Edmundston",
-        "Province": "NB",
-        "URL": "http://brasseurspetitsault.com/",
-        "Opening": "Summer 2014",
+        "Name": "Wrought Iron Brewing Co.",
+        "City": "Halifax",
+        "Province": "NS",
+        "URL": "http://www.canadianbeernews.com/2013/03/11/university-of-british-columbia-brewery-gets-funding-approval-new-location/",
+        "Twitter": "https://twitter.com/WIBC_TopDog",
+        "Note": "No address available",
+        "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
       }

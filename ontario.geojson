@@ -728,6 +728,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.7641907,
+          43.4752604
+        ]
+      },
+      "properties": {
+        "Name": "Descendants",
+        "City": "Wellesley",
+        "Province": "ON",
+        "URL": "http://www.descendantsbeer.com/",
+        "Facebook": "https://www.facebook.com/DescendantsBeer",
+        "Twitter": "https://twitter.com/Descendantsbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.5590504,
           45.449405
         ]
