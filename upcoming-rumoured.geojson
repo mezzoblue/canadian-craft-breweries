@@ -704,7 +704,6 @@
         "Name": "Mash Paddle Brewing",
         "City": "Brantford",
         "Province": "ON",
-        "URL": "http://www.midianbrewing.com/",
         "Facebook": "https://www.facebook.com/Mashpaddlebrewingco",
         "Opening": "2014",
         "Type": "Brewery",
@@ -725,7 +724,7 @@
         "City": "Windsor",
         "Province": "ON",
         "URL": "http://www.midianbrewing.com/",
-        "Opening": "2014",
+        "Opening": "Unknown",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -889,25 +888,6 @@
         "URL": "http://www.durhamregion.com/news-story/4125715-old-flame-brewing-co-rekindles-old-port-perry-lcbo-site/",
         "Twitter": "https://twitter.com/OldFlameBrewery",
         "Opening": "2014",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-           -68.3282483,
-          47.3627554
-        ]
-      },
-      "properties": {
-        "Name": "Les Brasseurs du Petit-Sault",
-        "City": "Edmundston",
-        "Province": "NB",
-        "URL": "http://brasseurspetitsault.com/",
-        "Opening": "Summer 2014",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1429,6 +1409,26 @@
         "Opening": "2014",
         "Type": "Brewery",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -84.3403751,
+          46.517151
+       ]
+      },
+      "properties": {
+        "Name": "Union Jack Brewing",
+        "City": "Sault Ste. Marie",
+        "Province": "ON",
+        "URL": "http://unionjackbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Union-Jack-Brewing/547398968676518",
+        "Opening": "Unknown",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {

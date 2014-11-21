@@ -2190,6 +2190,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.1791197,
+          43.961688
+        ]
+      },
+      "properties": {
+        "Name": "William Street Beer Co.",
+        "City": "Cobourg",
+        "Province": "ON",
+        "URL": "http://www.williamstreetbeer.com/",
+        "Facebook": "https://www.facebook.com/williamstreetbeerco",
+        "Twitter": "https://twitter.com/CobourgBeer",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.510089,
           43.618775
         ]
