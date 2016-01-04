@@ -45,6 +45,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.5040618,
+          48.4614955
+        ]
+      },
+      "properties": {
+        "Name": "Axe & Barrel Brewing Company",
+        "City": "Langford",
+        "Province": "BC",
+        "URL": "http://www.axeandbarrel.com/",
+        "Facebook": "https://www.facebook.com/axeandbarrel/",
+        "Twitter": "https://twitter.com/axeandbarrel",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.596318,
           49.500555
         ]
@@ -166,14 +186,36 @@
         ]
       },
       "properties": {
-        "Name": "Big River Brewpub & Restaurant",
+        "Name": "BRB Co Brewery + Eatery",
+        "AKA": "Big River Brewpub & Restaurant",
+        "AKA": "Be Right Back Brewery",
         "City": "Richmond",
         "Province": "BC",
-        "URL": "http://www.zbowl.com/Richmond_BR/BrewStory.html",
-        "Facebook": "https://www.facebook.com/BigRiverCanada",
-        "Twitter": "https://twitter.com/BigRiver_BC",
+        "URL": "http://brbco.ca/",
+        "Facebook": "https://www.facebook.com/BRB-Co-Brewery-Eatery-497164100436575/",
+        "Twitter": "https://twitter.com/brbco1997",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.110977,
+          49.267381
+        ]
+      },
+      "properties": {
+        "Name": "Big Rock Urban Brewery (Vancouver)",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://bigrockbeer.com/connect/blog/2014/mar/10/big-rock-vancouver",
+        "Facebook": "https://www.facebook.com/BigRockBrewery",
+        "Twitter": "https://twitter.com/bigrockbrewery",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -213,6 +255,26 @@
         "Facebook": "https://www.facebook.com/BlackKettleBrewing",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.496113,
+          49.892777
+        ]
+      },
+      "properties": {
+        "Name": "BNA Brewing Co & Eatery",
+        "City": "Kelowna",
+        "Province": "BC",
+        "URL": "http://www.bnabrewing.com/",
+        "Facebook": "https://www.facebook.com/BNAbrewing",
+        "Twitter": "https://twitter.com/BNAbrewing",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -299,6 +361,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.076211,
+          49.282172
+        ]
+      },
+      "properties": {
+        "Name": "Callister Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://callisterbrewing.com/",
+        "Facebook": "https://www.facebook.com/callisterbrewing",
+        "Twitter": "https://twitter.com/callisterbeer",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.593758,
           49.482159
         ]
@@ -360,6 +442,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.408,
+          48.565
+        ]
+      },
+      "properties": {
+        "Name": "Category 12 Brewing",
+        "City": "Victoria",
+        "Province": "BC",
+        "URL": "http://category12brewing.com/",
+        "Facebook": "https://www.facebook.com/category12beer",
+        "Twitter": "https://twitter.com/C12beer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.849167,
           49.187622
         ]
@@ -393,8 +495,8 @@
         "URL": "http://centralcitybrewing.com/",
         "Facebook": "https://www.facebook.com/CentralCityBrewing",
         "Twitter": "https://twitter.com/CentralCityBrew",
-        "Type": "Brewpub",
-        "marker-color": "#00f"
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -451,6 +553,26 @@
         "Province": "BC",
         "URL": "http://www.crannogales.com/",
         "Facebook": "https://www.facebook.com/pages/Crannóg-Ales/147130382004277",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.0278284,
+          49.6190871
+        ]
+      },
+      "properties": {
+        "Name": "Cumberland Brewing Company",
+        "City": "Cumberland",
+        "Province": "BC",
+        "URL": "http://cumberlandbrewing.com/",
+        "Facebook": "https://www.facebook.com/cumberlandbrewingco",
+        "Twitter": "https://twitter.com/cumberlandbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -521,6 +643,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0677091,
+          49.2842104
+        ]
+      },
+      "properties": {
+        "Name": "Doan's Craft Brewing Co.",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://doanscraftbrewing.com/",
+        "Facebook": "https://www.facebook.com/doanscraftbrewing",
+        "Twitter": "https://twitter.com/DoansCBC",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.131378,
           49.269356
         ]
@@ -534,6 +676,26 @@
         "Twitter": "https://twitter.com/eatDockside",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.081632,
+          49.209294
+        ]
+      },
+      "properties": {
+        "Name": "Dogwood Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://www.dogwoodbrew.com/",
+        "Facebook": "https://www.facebook.com/DogwoodBrewing/",
+        "Twitter": "https://twitter.com/dogwoodbrew",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
@@ -631,9 +793,47 @@
         "City": "Cranbrook",
         "Province": "BC",
         "Facebook": "https://www.facebook.com/TheHeidOutRestaurantAndBrewhouse",
-        "Note": "From Dave Beardsell of Noble Pig / Bear Brewing",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6916554,
+          49.2246229
+        ]
+      },
+      "properties": {
+        "Name": "Foamers' Folly",
+        "City": "Pitt Meadows",
+        "Province": "BC",
+        "URL": "http://www.foamersfolly.ca/",
+        "Facebook": "https://www.facebook.com/foamersfolly",
+        "Twitter": "https://twitter.com/foamersfolly",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.990913,
+          49.685645
+        ]
+      },
+      "properties": {
+        "Name": "Forbidden Brewing Co.",
+        "City": "Courtenay",
+        "Province": "BC",
+        "URL": "http://forbiddenbrewing.com/",
+        "Facebook": "https://www.facebook.com/forbiddenbrewing",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -700,6 +900,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0976817,
+          49.1294955
+        ]
+      },
+      "properties": {
+        "Name": "Fuggles & Warlock Craftworks",
+        "City": "Delta",
+        "Province": "BC",
+        "URL": "http://www.fuggleswarlock.com/",
+        "Facebook": "https://www.facebook.com/FugglesAndWarlockCraftworks",
+        "Twitter": "https://twitter.com/FugglesWarlock",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9982167,
+          49.6920123
+        ]
+      },
+      "properties": {
+        "Name": "Gladstone Brewing Co.",
+        "City": "Courtenay",
+        "Province": "BC",
+        "URL": "http://www.gladstonebrewing.ca/",
+        "Facebook": "https://www.facebook.com/gladstonebrewingco",
+        "Type": "Unknown",
+        "marker-color": "#aaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.135704,
           49.270523
         ]
@@ -752,6 +991,26 @@
         "URL": "http://www.gulfislandsbrewery.com/",
         "Facebook": "https://www.facebook.com/pages/Salt-Spring-Island-Ales/155899623703",
         "Twitter": "https://twitter.com/SaltSpringAles",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1046999,
+          49.323552
+        ]
+      },
+      "properties": {
+        "Name": "Hearthstone Brewery",
+        "City": "North Vancouver",
+        "Province": "BC",
+        "URL": "http://www.hearthstonebrewery.ca/",
+        "Facebook": "https://www.facebook.com/hearthstonebrewery",
+        "Twitter": "https://twitter.com/hearthstonebeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -854,6 +1113,45 @@
         "Twitter": "https://twitter.com/mainstreetbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5930992,
+          49.220456
+        ]
+      },
+      "properties": {
+        "Name": "Maple Meadows Brewing Co.",
+        "City": "Maple Ridge",
+        "Province": "BC",
+        "URL": "http://www.maplemeadowsbrewery.com/",
+        "Twitter": "https://twitter.com/MMBrewingCo",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -119.2706492,
+          50.2637746
+       ]
+      },
+      "properties": {
+        "Name": "Marten Brewing Company",
+        "City": "Vernon",
+        "Province": "BC",
+        "URL": "http://www.martenbrewpub.com/",
+        "Facebook": "https://www.facebook.com/martenbrewpub",
+        "Twitter": "https://twitter.com/MartenBrewpub",
+        "Type": "Brewpub",
+        "marker-color": "#00f"
       }
     },
     {
@@ -1016,6 +1314,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0764713,
+          49.2776322
+        ]
+      },
+      "properties": {
+        "Name": "Off the Rail Brewing",
+        "City": "Vancouver",
+        "Province": "BC",
+        "URL": "http://offtherailbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Off-The-Rail-Brewing-Co/286997414805699",
+        "Twitter": "https://twitter.com/OffTheRailBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.268051,
           50.262253
         ]
@@ -1027,6 +1345,26 @@
         "URL": "http://www.okspring.com/",
         "Facebook": "https://www.facebook.com/okspring",
         "Twitter": "https://twitter.com/okanaganspring",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3855388,
+          49.0564045
+        ]
+      },
+      "properties": {
+        "Name": "Old Abbey Ales",
+        "City": "Abbotsford",
+        "Province": "BC",
+        "URL": "http://www.oldabbeyales.com/",
+        "Facebook": "https://www.facebook.com/oldabbeyales",
+        "Twitter": "https://twitter.com/OldeAbbeyAles",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1142,6 +1480,7 @@
       },
       "properties": {
         "Name": "Postmark Brewing",
+        "AKA": "Glassbender Brewing",
         "City": "Vancouver",
         "Province": "BC",
         "Facebook": "https://www.facebook.com/postmarkbrewing",
@@ -1175,6 +1514,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.3772639,
+          49.0498779
+        ]
+      },
+      "properties": {
+        "Name": "Ravens Brewing Company Inc.",
+        "City": "Abbotsford",
+        "Province": "BC",
+        "URL": "http://ravens.beer/",
+        "Facebook": "https://www.facebook.com/ravensbrewing",
+        "Twitter": "https://twitter.com/ravensbrewing",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.103294,
           49.267208
         ]
@@ -1186,6 +1545,26 @@
         "URL": "http://www.r-and-b.com/",
         "Facebook": "https://www.facebook.com/RBBrewing",
         "Twitter": "https://twitter.com/RandBBrewing/",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6924969,
+          48.7627723
+        ]
+      },
+      "properties": {
+        "Name": "Red Arrow Brewing Co.",
+        "City": "Duncan",
+        "Province": "BC",
+        "URL": "http://redarrowbeer.ca/",
+        "Facebook": "https://www.facebook.com/redarrowbrewing",
+        "Twitter": "https://twitter.com/redarrowbeer",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1210,24 +1589,64 @@
         "marker-color": "#f00"
       }
     },
-
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.473526,
-          49.034588
+          -123.095009,
+          49.267239
         ]
       },
       "properties": {
-        "Name": "Ridge Brewing Co.",
-        "AKA": "Westridge Inn",
-        "City": "Osoyoos",
+        "Name": "Red Truck Brewing",
+        "City": "Vancouver",
         "Province": "BC",
-        "URL": "http://www.westridgeinn.com/index.php/restaurant/brewery",
+        "URL": "http://www.redtruckbeer.com/",
+        "Facebook": "https://www.facebook.com/RedTruckBeer",
+        "Twitter": "https://twitter.com/RedTruckBeer",
         "Type": "Brewpub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.591697,
+          49.2197965
+        ]
+      },
+      "properties": {
+        "Name": "Ridge Brewing Company",
+        "City": "Maple Ridge",
+        "Province": "BC",
+        "URL": "http://ridgebrewing.com/",
+        "Facebook": "https://www.facebook.com/ridgebrewery",
+        "Twitter": "https://twitter.com/ridgebrewingco",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.800505,
+          49.077003
+        ]
+      },
+      "properties": {
+        "Name": "Rossland Brewing",
+        "City": "Rossland",
+        "Province": "BC",
+        "URL": "http://www.rosslandbeer.com/",
+        "Facebook": "https://www.facebook.com/RosslandBeer",
+        "Twitter": "https://twitter.com/RosslandBeer",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffAA00"
       }
     },
     {
@@ -1248,6 +1667,44 @@
         "Twitter": "https://twitter.com/Russell_Beer",
         "Type": "Brewery",
         "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.5820789,
+          54.5104635
+        ]
+      },
+      "properties": {
+        "Name": "Sherwood Mountain Brewhouse",
+        "City": "Terrace",
+        "Province": "BC",
+        "URL": "http://www.sherwoodmountain.beer/",
+        "Facebook": "https://www.facebook.com/SherwoodMountainBrewhouse/",
+        "Twitter": "https://twitter.com/sherwoodmtn",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5115376,
+          49.0182258
+        ]
+      },
+      "properties": {
+        "Name": "Spencer Hill Cottage Brewery",
+        "City": "Grand Forks",
+        "Province": "BC",
+        "Facebook": "https://www.facebook.com/SHCBrewery/",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
       }
     },
     {
@@ -1283,6 +1740,7 @@
         "Name": "Stanley Park Brewery",
         "AKA": "Mark Anthony Group",
         "AKA2": "Hell's Gate",
+        "AKA3": "Turning Point Brewery",
         "City": "Burnaby",
         "Province": "BC",
         "URL": "http://www.stanleyparkbrewery.ca/",
@@ -1396,15 +1854,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3610,
-          49.0438
+          -123.077432,
+          49.272866
         ]
       },
       "properties": {
-        "Name": "Surlie Brewing",
-        "City": "Abbotsford",
+        "Name": "Strange Fellows Brewing",
+        "City": "Vancouver",
         "Province": "BC",
-        "Facebook": "https://www.facebook.com/surlie.brewing",
+        "URL": "http://imstartingacraftbrewery.com/",
+        "Facebook": "https://www.facebook.com/strangefellowsbrewing",
+        "Twitter": "https://twitter.com/startinabrewery",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
@@ -1534,6 +1994,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.8507497,
+          49.27862
+        ]
+      },
+      "properties": {
+        "Name": "Twin Sails Brewing",
+        "City": "Port Moody",
+        "Province": "BC",
+        "URL": "http://www.twinsailsbrewing.com/",
+        "Facebook": "https://www.facebook.com/TwinSailsBrewing",
+        "Twitter": "https://twitter.com/twinsailsbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.367668,
           48.434753
         ]
@@ -1607,6 +2088,46 @@
         "Twitter": "https://twitter.com/WRBeachBeer",
         "Type": "Nanobrewery",
         "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8111806,
+          49.056823
+        ]
+      },
+      "properties": {
+        "Name": "White Rock Brewing",
+        "City": "White Rock",
+        "Province": "BC",
+        "URL": "http://www.whiterockbrewing.ca/index.html",
+        "Facebook": "https://www.facebook.com/whiterockbrewing/",
+        "Twitter": "https://twitter.com/WhiteRockBrewin",
+        "Type": "Nanobrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9419647,
+          49.1701203
+        ]
+      },
+      "properties": {
+        "Name": "White Sails Brewing",
+        "City": "Nanaimo",
+        "Province": "BC",
+        "URL": "http://whitesailsbrewing.com/",
+        "Facebook": "https://www.facebook.com/whitesailsbrewing/",
+        "Twitter": "https://twitter.com/whitesailsbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     },
     {
