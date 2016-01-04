@@ -186,7 +186,7 @@
         "Name": "Horseshoe Bay Brewing",
         "City": "West Vancouver",
         "Province": "BC",
-        "Closed": "198x",
+        "Closed": "198?",
         "Type": "Brewpub",
         "marker-color": "#00f"
       }
@@ -340,7 +340,7 @@
         "Name": "Sailor Hagar's Brew Pub",
         "City": "North Vancouver",
         "Province": "BC",
-        "Closed": "200x",
+        "Closed": "200?",
         "Note": "Former brewpub, no longer brewing",
         "Type": "Brewpub",
         "marker-color": "#00f"
@@ -401,6 +401,7 @@
         "City": "Abbotsford",
         "Province": "BC",
         "Facebook": "https://www.facebook.com/surlie.brewing",
+        "Closed": "September 2015",
         "Type": "Brewery",
         "marker-color": "#f00"
       }
